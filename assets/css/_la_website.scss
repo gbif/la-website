@@ -19,14 +19,26 @@ $white: #fff;
 
 // BASIC ELEMENTS
 
+body{
+	background-color: $color-bg;
+	color: $color-font-default;
+}
+
+h2{
+	text-align: center;
+	color: $color-title-project;
+}
+
 h3{
 	text-align: center;
 	color: $color-title-project;
 }
 
-body{
-	background-color: $color-bg;
-	color: $color-font-default;
+h4{
+	text-align: left;
+	margin-bottom: 1.5rem;
+	margin-top: 1.5rem;
+	border-bottom: 1px solid $color-title-project
 }
 
 .container{
@@ -37,6 +49,33 @@ body{
 
 .table .thead-light th{
 	background-color: $color-green-table-gbif;
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: $spacer;
+  background-color: $table-bg; // Reset for nesting within parents with `background-color`.
+
+  th,
+  td {
+    padding: $table-cell-padding;
+    vertical-align: top;
+    border-top: $table-border-width solid $table-border-color;
+  }
+
+  thead th {
+    vertical-align: bottom;
+    border-bottom: (2 * $table-border-width) solid $table-border-color;
+  }
+
+  tbody + tbody {
+    border-top: (2 * $table-border-width) solid $table-border-color;
+  }
+
+  .table {
+    background-color: $body-bg;
+  }
 }
 
 
@@ -107,42 +146,11 @@ body{
 
 
 
-// PAGE SINGLE PROJECT
-#container-single-project h2{
-	text-align: center;
-	color: $color-title-project;
-}
+// PAGE PARTICIPANT
 
-#container-single-project h4{
-	text-align: left;
-	margin-bottom: 1.5rem;
-	margin-top: 1.5rem;
-	border-bottom: 1px solid $color-title-project
-}
-
-#container-single-project table {
-  width: 100%;
-  max-width: 100%;
-  margin-bottom: $spacer;
-  background-color: $table-bg; // Reset for nesting within parents with `background-color`.
-
-  th,
-  td {
-    padding: $table-cell-padding;
-    vertical-align: top;
-    border-top: $table-border-width solid $table-border-color;
-  }
-
-  thead th {
-    vertical-align: bottom;
-    border-bottom: (2 * $table-border-width) solid $table-border-color;
-  }
-
-  tbody + tbody {
-    border-top: (2 * $table-border-width) solid $table-border-color;
-  }
-
-  .table {
-    background-color: $body-bg;
-  }
+#container-participant img{
+    height: auto; 
+    width: auto; 
+    max-width: 1000px; 
+    max-height: 1000px;
 }

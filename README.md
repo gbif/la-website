@@ -42,11 +42,13 @@ The website use Jekyll.
 #### Participant without a live data portal
 
 Add the following information (NA when data not available) on the CSV participant_development file inside the __data_ folder:
+
       ```
       institution,country,language,status
       ```
 
-The status can be _Under development_ or _In discussion_
+The status can be _Under development_ or _In discussion_.
+
 The participant will be automatically added to the list.    
 
 ### How to add an event 

@@ -112,7 +112,9 @@ permalink: /about/
 					{% for participant in site.participants%}
 					<tr> 
 						<td scope="row" >
-							{{ participant.institution }}
+							<a href="{{ participant.url }}">
+								{{ participant.institution }}
+							</a>
 						</td>
 						<td> 
 							{{ participant.country }}

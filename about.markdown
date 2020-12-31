@@ -97,7 +97,7 @@ permalink: /about/
         </ol>
     </div>
     <div class="tab-pane" id="pills-participants" role="tabpanel" aria-labelledby="pills-participants-tab">
-    	<h4>Live data portals</h4>
+    	<h4>Participants with live data portals</h4>
     	<div class="table-responsive">
 			<table class="table table-bordered table-hover"> 
 				<thead class="thead-light">
@@ -109,8 +109,7 @@ permalink: /about/
 					</tr>
 				</thead>
 				<tbody>
-					{% assign participants_live = site.participants | where:"status","live" %}
-					{% for participant in participants_live %}
+					{% for participant in site.participants%}
 					<tr> 
 						<td scope="row" >
 							{{ participant.institution }}
@@ -129,19 +128,19 @@ permalink: /about/
 				</tbody>
 			</table>
 		</div>
-		<h4>Data portals under development</h4>
+		<h4>Other participants and status of their data portals</h4>
 		<div class="table-responsive">
-			<table class="table table-bordered table-hover"> 
+			<table class="table table-bordered"> 
 				<thead class="thead-light">
 					<tr>
 						<th> Institution </th>
 						<th> Country </th>
 						<th> Language </th>
+						<th> Status </th>
 					</tr>
 				</thead>
 				<tbody>
-					{% assign participants_live = site.participants | where:"status","development" %}
-					{% for participant in participants_live %}
+					{% for participant in site.data.participant_development %}
 					<tr> 
 						<td scope="row" >
 							{{ participant.institution }}
@@ -151,6 +150,9 @@ permalink: /about/
 						</td>
 						<td>
 							{{ participant.language }}
+						</td>
+						<td>
+							{{ participant.status }}
 						</td>
 					</tr>
 					{% endfor %}

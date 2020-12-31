@@ -4,7 +4,7 @@
 <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="/assets/img/icon-white.png" alt="" width="40" height="34"> 
+      <img src="{{ "/assets/img/icon-white.png" | relative_url }}" alt="" width="40" height="34"> 
     </a>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
@@ -12,19 +12,19 @@
           <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/news">News</a>
+          <a class="nav-link" href="{{ "/news" | relative_url }}">News</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/about">About</a>
+          <a class="nav-link" href="{{ "/about" | relative_url }}">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/projects">Projects</a>
+          <a class="nav-link" href="{{ "/projects" | relative_url }}">Projects</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/resources">Resources</a>
+          <a class="nav-link" href="{{ "/resources" | relative_url }}">Resources</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/events">Event</a>
+          <a class="nav-link" href="{{ "/events" | relative_url }}">Event</a>
         </li>
       </ul>
     </div>

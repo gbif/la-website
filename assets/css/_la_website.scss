@@ -1,0 +1,148 @@
+/**
+ * Reset some basic elements
+ */
+
+
+// VARIABLES 
+
+
+// colors 
+$color-bg: #E4E8E7;
+$color-news-title: #FF5A6E;
+$color-news-border-description: #D7D7D7;
+$color-title-project: #529D2E;
+$color-font-default: #4e565F;
+$color-green-table-gbif: rgba(82, 157, 46, 0.5);
+
+
+$white: #fff;
+
+// BASIC ELEMENTS
+
+h3{
+	text-align: center;
+	color: $color-news-title;
+}
+
+body{
+	background-color: $color-bg;
+	color: $color-font-default;
+}
+
+.container{
+	background-color: $white;
+	margin-top: 2%;
+	padding: 2%;
+}
+
+.table .thead-light th{
+	background-color: $color-green-table-gbif;
+}
+
+
+
+// HEADER
+.site-header{
+	background-color: $white;
+}
+
+
+
+// PAGE NEWS
+#container-news {
+	background-color: $color-bg;
+}
+
+.news{
+	background-color: $white;
+	border: 1px solid #1B1B1B;
+	margin: 2%;
+}
+
+.news > h3 {
+	border-bottom: 1px solid $color-news-border-description;
+	padding: 1%;
+	text-align: left;
+}
+
+.news > h3 > a {
+	color: $color-news-title;
+	text-decoration: none;
+}
+
+.news > h3 > a:hover{
+	text-decoration: none;
+}
+
+.short-description{
+	padding: 1%;
+}
+
+.published-by{
+	border-top: 1px solid $color-news-border-description;
+	font-style: italic;
+	padding: 1%;
+}
+
+// PAGE ABOUT
+
+.tab-content h4{
+	text-align: left;
+	margin-bottom: 1.5rem;
+	margin-top: 1.5rem;
+	border-bottom: 1px solid $color-title-project
+}
+
+#pills-coordinators li{
+	list-style-type: lower-alpha;
+}
+
+
+// PAGE SINGLE NEWS
+#container-single-news img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+
+
+// PAGE SINGLE PROJECT
+#container-single-project h2{
+	text-align: center;
+	color: $color-title-project;
+}
+
+#container-single-project h4{
+	text-align: left;
+	margin-bottom: 1.5rem;
+	margin-top: 1.5rem;
+	border-bottom: 1px solid $color-title-project
+}
+
+#container-single-project table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: $spacer;
+  background-color: $table-bg; // Reset for nesting within parents with `background-color`.
+
+  th,
+  td {
+    padding: $table-cell-padding;
+    vertical-align: top;
+    border-top: $table-border-width solid $table-border-color;
+  }
+
+  thead th {
+    vertical-align: bottom;
+    border-bottom: (2 * $table-border-width) solid $table-border-color;
+  }
+
+  tbody + tbody {
+    border-top: (2 * $table-border-width) solid $table-border-color;
+  }
+
+  .table {
+    background-color: $body-bg;
+  }
+}

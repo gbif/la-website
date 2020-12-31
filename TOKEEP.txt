@@ -10,3 +10,9 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+
+
+Ajout d'une vidéo dans une news :
+
+1) http://sviridovserg.com/2017/05/22/embed-youtube-to-markdown/ & http://embedyoutube.org/

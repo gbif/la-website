@@ -22,12 +22,12 @@ The website use Jekyll.
     - Inside the front matter, you will find all the variables needed for the document, but also for the _events.markdown_ page. Each field follow this format: **field_name: field_description**. The following fields are mandatory, but you can add other fields if needed after "status". 
    
             --- 
-            - layout: single-page
-            - title: <name of the event>
-            - date: <starting_date using the following format YYYY-MM-DD>
-            - date_shown: <date shown on the events page with the format YYYY-MM-DD to YYYY-MM_DD>
-            - type: <choose between: workshop, conference, online conference, or any new type of events>
-            - status: <choose between: finish, in progress, soon>
+            layout: single-page
+            title: <name of the event>
+            date: <starting_date using the following format YYYY-MM-DD>
+            date_shown: <date shown on the events page with the format YYYY-MM-DD to YYYY-MM_DD>
+            type: <choose between: workshop, conference, online conference, or any new type of events>
+            status: <choose between: Finished, In progress, Soon>
             ---
      
             

@@ -12,21 +12,19 @@ The website use Jekyll.
     - Create a new CSV file in the __data/events_ folder using the name of the event. 
     - The mendatory fields of the header are: name, organisation and country (using this ortographe). You can add other fields if you want. 
     - Add the list of the participants (you can add as many as participant you need)
-    
       ```
       name,organisation,country
       Héctor Armando Hernández Samayoa, CONAP Consejo Nacional de Areas Protegida, Guatemala
       Reuben Roberts, National Biodiversity Network, United Kingdom
       Kourouma Koura, GBIF Benin, Benin
       ```
-    
 3. This file will be divided in two parts : the front matter, and the body. 
     - Inside the front matter, you will find all the variables needed for the document, but also for the _events.markdown_ page. Each field follow this format: **field_name: field_description**. The following fields are mandatory, but you can add other fields if needed after "status". 
    
             --- 
             - layout: single-page
             - title: <name of the event>
-            - date: <starting_date>
+            - date: <starting_date using the following format YYYY-MM-DD>
             - date_shown: <date shown on the events page with the format YYYY-MM-DD to YYYY-MM_DD>
             - type: <choose between: workshop, conference, online conference, or any new type of events>
             - status: <choose between: finish, in progress, soon>
@@ -71,11 +69,6 @@ The website use Jekyll.
       ##### Photos
       ```
 4. The event will be automatically added to the events page (sorted by date). 
-
-
-            
-
-
 
 ### Licence
 Apache-2.0 © [Living Atlases](https://living-atlases.gbif.org)

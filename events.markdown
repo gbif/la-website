@@ -16,7 +16,7 @@ permalink: /events/
 			</tr>
 		</thead>
 		<tbody>
-			{% for event in site.events %}
+			{% for event in site.events reversed%}
 			<tr> 
 				<td scope="row" >
 					<a href="{{ event.url }}">

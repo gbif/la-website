@@ -35,6 +35,20 @@ The website use Jekyll.
     ```
 4. The news will be automatically added to the news page (sorted by date). 
 
+### How to add a participant
+
+#### Participant with live data portal
+
+#### Participant without a live data portal
+
+Add the following information (NA when data not available) on the CSV participant_development file inside the __data_ folder:
+      ```
+      institution,country,language,status
+      ```
+
+The status can be _Under development_ or _In discussion_
+The participant will be automatically added to the list.    
+
 ### How to add an event 
 
 1. Create a new file in the __events_ folder with the extension (.md for markdown). The name does not matter. There is **no html or css code** inside this file. It is quite easy to maintain for non tech people.  

@@ -5,7 +5,37 @@
 ### Intro
 The website use Jekyll. 
 
-### How to add an event to the website
+### How to add an news 
+
+1. Create a new file in the __posts_ folder with the following schema **YYYY-MM-DD-Title-of-the-news.markdown**. 
+2. This new file will be divided in 2 parts: the front matter, and the body
+    - Inside the front matter, you will find all the mandatory variables needed for the document, but also for the _news.markdown_ page. Each field follow this format: **field_name: field_description**. The following fields are mandatory, but you can add other fields if necessary. 
+    ```
+    ---
+    layout: single-news
+    title:  "<Full title of the news"
+    date: release date using this format YYYY-MM-DD
+    date_shown: date shown on the page using this format Month DD, YYYY
+    categories: news
+    authors: List of the authors with their institution
+    summary: Summary of the news that you will find on the News page
+    ---
+    ```
+    - The body with the following schema. You are free to add any other part or modify the existing ones. This is just an example. Be aware, if you change the number of # inside the file, you might have some CSS errors. **Do not add any CSS or html on the document**. 
+    ```
+    ### {{ page.title }}
+
+    _Published by {{ page.date_shown }} by {{ page.authors}}_
+
+    You can write the news here. If you want to add a link to an internal or external page, you can do it following this : [Anchor of the link](URL of the link).
+
+    You will find some basic markdown syntax here: https://www.markdownguide.org/basic-syntax/
+
+    DO NOT ADD ANY CSS OR HTML ON THE PAGE
+    ```
+4. The news will be automatically added to the news page (sorted by date). 
+
+### How to add an event 
 
 1. Create a new file in the __events_ folder with the extension (.md for markdown). The name does not matter. There is **no html or css code** inside this file. It is quite easy to maintain for non tech people.  
 2. Participant list (see example below):
@@ -18,7 +48,7 @@ The website use Jekyll.
       Reuben Roberts, National Biodiversity Network, United Kingdom
       Kourouma Koura, GBIF Benin, Benin
       ```
-3. This file will be divided in two parts : the front matter, and the body. 
+3. This file will be divided in 2 parts : the front matter, and the body. 
     - Inside the front matter, you will find all the variables needed for the document, but also for the _events.markdown_ page. Each field follow this format: **field_name: field_description**. The following fields are mandatory, but you can add other fields if needed after "status". 
    
             --- 
@@ -31,7 +61,7 @@ The website use Jekyll.
             ---
      
             
-    - The body with the following schema. You are free to add any other part or modify the existing ones. This is just an example. Be aware, if you change the number of # inside the file, you might have some CSS errors. 
+    - The body with the following schema. You are free to add any other part or modify the existing ones. This is just an example. Be aware, if you change the number of # inside the file, you might have some CSS errors. **Do not add any CSS or html on the document**.  
 
       ```
       ## {{ page.title }}
@@ -42,6 +72,10 @@ The website use Jekyll.
         - goal of the event;
         - place of the event;
         - link to the project (if exist)
+
+      You will find some basic markdown syntax here: https://www.markdownguide.org/basic-syntax/
+
+      DO NOT ADD ANY CSS OR HTML ON THE PAGE
         
       #### Participants 
   

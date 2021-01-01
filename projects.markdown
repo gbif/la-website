@@ -22,7 +22,7 @@ permalink: /projects/
 			{% for project in site.projects reversed %}
 			<tr> 
 				<td scope="row" >
-					<a href="{{ project.url }}">
+					<a href="{{ project.url | relative_url }}">
 						{{ project.title }}
 					</a>
 				</td>

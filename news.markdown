@@ -8,7 +8,7 @@ permalink: /news/
 {% for post in site.posts %}
 <div class="news">
 	 <h3>
-	 	<a href="{{ post.url }}">
+	 	<a href="{{ post.url | relative_url }}">
 	 		{{ post.title }}
 	 	</a>
 	 </h3>

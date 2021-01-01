@@ -4,7 +4,7 @@ title:  "Strengthening the Living Atlases Community of Practice"
 date: 2019-10-14
 date_shown: October 14th, 2019
 categories: news
-authors: Marie-Elise Lecoq, Jason Loomis (Vermont Center of Ecostudies) and Vicente Ruiz Jurado
+authors: Marie-Elise Lecoq, Jason Loomis (Vermont Center of Ecostudies) and Vicente J. Ruiz Jurado
 summary: "The GBIF Secretariat has funded two half-time positions in the network to assist in developing a growing community of practice around ‘Living Atlases'."
 ---
 

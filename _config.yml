@@ -28,7 +28,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: livingatlases
 github_username:  jekyll
 
-# theme: minima
 
 # Build settings
 
@@ -60,11 +59,13 @@ exclude:
 collections: 
   events:
       output: true
+      sort_by: year
   projects:
       output: true
       sort_by: year
   participants:
       output: true
+      sort_by: institution 
 sass:
   sass_dir: assets/css
 

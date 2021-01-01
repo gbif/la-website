@@ -47,6 +47,11 @@ h4{
 	padding: 2%;
 }
 
+h5{
+	text-align: center;
+	color: $color-title-project;
+}
+
 .table .thead-light th{
 	background-color: $color-green-table-gbif;
 }
@@ -79,12 +84,21 @@ table {
 }
 
 
-
 // HEADER
 .site-header{
 	background-color: $white;
 }
 
+// HOME
+
+.carousel-caption{
+	color: $color-font-default;
+	background-color: white; 
+	right: 0%;
+	left: 0%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
 
 
 // PAGE NEWS

@@ -19,7 +19,7 @@ permalink: /events/
 			{% for event in site.events reversed%}
 			<tr> 
 				<td scope="row" >
-					<a href="{{ event.url }}">
+					<a href="{{ event.url | relative_url }}">
 						{{ event.title }}
 					</a>
 				</td>

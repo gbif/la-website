@@ -38,11 +38,75 @@ The website use Jekyll.
 ### How to add a participant
 
 #### Participant with live data portal
+1. Create a new file in the __participants_ folder with the extension (.md for markdown). The name does not matter, but we recommand to use the name of the institution for clarity. There is **no html or css code** inside this file. It is quite easy to maintain for non tech people.  
+
+2. This file will be divided in 2 parts : the front matter, and the body. 
+    - Inside the front matter, you will find all the variables needed for the document, but also for the participants tab inside the _about.markdown_ page. Each field follow this format: **field_name: field_description**. The following fields are mandatory, but you can add other fields if needed after "status". 
+   
+            --- 
+            layout: participant
+            institution: <name of the institution hosting the data portal (e.g. Atlas of Living Australia)>
+            country: <name of the country hosting the data portal>
+            language: <list of the available language on the data portal>
+            year: <launching year of the data portal based on the ALA platform>
+            status: live
+            ---
+    - The body with the following schema. You are free to add any other part or modify the existing ones. This is just an example. Be aware, if you change the number of # inside the file, you might have some CSS errors. **Do not add any CSS or html on the document**, it will override the md language.  
+
+    ```
+    ## {{ page.institution }}
+
+    [![<name of the institution>](/assets/img/participants/name_institution.png)](Link to the data portal)
+
+    #### Description 
+    Description of the data portal, and the team behind. This part will be validated by each team. You can add some statistics such as number of developers, development time, etc.
+
+    Link to the data portal. Do not hesitate to see other participant pages for example.
+
+    #### Modules Available 
+
+    List of modules available inside the participant data portal. Add links, and remove non available modules. This list is baed on the ALA page. 
+
+    | Name              | Link                                                                       | 
+    | ------------------|----------------------------------------------------------------------------|
+    | Collectory        | [https://collections.ala.org.au/](https://collections.ala.org.au/)         |
+    | Biocache          | [https://biocache.ala.org.au/](https://biocache.ala.org.au/ )              |
+    | Biocache Service  | [https://biocache.ala.org.au/ws](https://biocache.ala.org.au/ws )          |
+    | Species           | [https://bie.ala.org.au/](https://bie.ala.org.au/)                         |
+    | Species service   | [https://bie.ala.org.au/ws](https://bie.ala.org.au/ws)                     | 
+    | Species list      | [https://lists.ala.org.au/](https://lists.ala.org.au/)                     |  
+    | Regions           | [https://regions.ala.org.au/](https://regions.ala.org.au/)                 |
+    | Images            | [https://images.ala.org.au/](https://images.ala.org.au/)                   |
+    | Spatial           | [https://spatial.ala.org.au/](https://spatial.ala.org.au/)                 |
+    | CAS               | [https://auth.ala.org.au/cas/](https://auth.ala.org.au/cas/)               |
+    | Sightings         | [https://sightings.ala.org.au/](https://sightings.ala.org.au/)             |
+    | Alerts            | [https://alerts.ala.org.au/](https://alerts.ala.org.au/)                   |
+    | Volunteers        | [https://volunteer.ala.org.au/](https://volunteer.ala.org.au/)             |
+    | Logger            | [https://logger.ala.org.au/](https://logger.ala.org.au/)                   |
+    | Sandbox           | [https://sandbox.ala.org.au/](https://sandbox.ala.org.au/)                 |
+    | Dashboard         | [https://dashboard.ala.org.au/](https://dashboard.ala.org.au/)             |
+    | User details      | [https://auth.ala.org.au/userdetails](https://auth.ala.org.au/userdetails) |
+    | Biocollect        | [https://www.ala.org.au/biocollect/](https://www.ala.org.au/biocollect/)   |
+    | Phylolink         | [https://phylolink.ala.org.au/](https://phylolink.ala.org.au/)             |
+    | DOI               | [https://doi.ala.org.au/](https://doi.ala.org.au/)                         |
+
+    #### Resources
+
+    List of resources available (GitHub Account, Documentation, Twitter account, etc.)
+
+    - Code: [Title](Link)
+    - Documentation: [Title](Link)
+    - End-user Documentation: [Title](Link)
+    - Twitter Account: [Title](Link)
+    - etc.
+
+    For more information, you may contact [name of developers or team members] on Slack.
+    ```
+
 
 #### Participant without a live data portal
 
 Add the following information (NA when data not available) on the CSV participant_development file inside the __data_ folder:
-
       ```
       institution,country,language,status
       ```

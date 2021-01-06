@@ -1,6 +1,6 @@
 ---
 layout: participant
-institution: Canadensys
+institution: Canadensys Explorer
 country: Canada
 language: English
 year: 2017

@@ -29,5 +29,6 @@ Four developers are currently working on the portal.
 #### Resources
 
 - Code: [Atlas of Living Costa Rica GitHub account](https://github.com/AtlasBiodiversidadCostaRica)
+- Twitter Account: [@CRBiodiv](https://twitter.com/CRBiodiv)
 
 For more information, you may contact Manuel Vargas on Slack.

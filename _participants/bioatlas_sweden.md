@@ -38,5 +38,6 @@ status: live
 - Building and releasing components: [BioAtlas Travis CI](https://travis-ci.org/bioatlas/)
 - Documentation: [Usage instructions for deploying the system](https://bioatlas.github.io/)
 - End-User Documentation: [How to use the BioAtlas](https://bioatlas.se/how-to-use-the-bioatlas/)
+- Twitter Account: [@gbifsweden](https://twitter.com/gbifsweden)
 
 For more information, you may contact Manash Shah on Slack.

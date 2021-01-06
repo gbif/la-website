@@ -54,5 +54,6 @@ Links to the data portals and available data hubs:
 - Documentation: [ALA Tools & Apps](https://support.ala.org.au/support/solutions/6000138053)
 - Documentation: [ALA Spatial Portal](https://support.ala.org.au/support/solutions/6000138349)
 - Documentation: [ALA data](https://support.ala.org.au/support/solutions/6000137994)
+- Twitter Account: [@atlaslivingaust](https://twitter.com/atlaslivingaust)
 
 For more information, you may contact Dave Martin or Nick Dos Remedios on Slack.

@@ -1,6 +1,6 @@
 ---
 layout: participant
-institution: Biodiversitäts-Atlas Österreich
+institution: "Biodiversitäts-Atlas Österreich"
 country: Austria
 language: German & English
 year: 2019

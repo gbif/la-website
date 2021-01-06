@@ -38,9 +38,9 @@ The website use Jekyll.
 ### How to add a participant
 
 #### Participant with live data portal
-1. Create a new file in the __participants_ folder with the extension (.md for markdown). The name does not matter, but we recommand to use the name of the institution for clarity. There is **no html or css code** inside this file. It is quite easy to maintain for non tech people.  
-
-2. This file will be divided in 2 parts : the front matter, and the body. 
+1. Create a new file in the __participants_ folder with the extension (.md for markdown). The name does not matter, but we recommand to use the name of the institution for clarity. There is **no html or css code** inside this file. It is quite easy to maintain for non tech people. 
+2. In order to illustration the participant page, we recommande to take a screen shot of the main page. Add the screenshot inside the _assets/img/participants_ folder. We will recommand to use the name of the institution as title.  
+3. This file will be divided in 2 parts : the front matter, and the body. 
     - Inside the front matter, you will find all the variables needed for the document, but also for the participants tab inside the _about.markdown_ page. Each field follow this format: **field_name: field_description**. The following fields are mandatory, but you can add other fields if needed after "status". 
    
             --- 

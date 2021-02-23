@@ -58,7 +58,7 @@ exclude:
 
 collections: 
   events:
-      output: truex
+      output: true
       sort_by: year
   projects:
       output: true

@@ -1,11 +1,12 @@
 ---
-layout: single-news
+layout: default
 title:  "Strengthening the Living Atlases Community of Practice"
 date: 2019-10-14
 date_shown: October 14th, 2019
-categories: news
+categories: news community
 authors: Marie-Elise Lecoq, Jason Loomis (Vermont Center of Ecostudies) and Vicente J. Ruiz Jurado
 summary: "The GBIF Secretariat has funded two half-time positions in the network to assist in developing a growing community of practice around ‘Living Atlases'."
+picture: /assets/img/news/community.png
 ---
 
 ### {{ page.title }}
@@ -31,10 +32,10 @@ At the 2018 GBIF Governing Board meeting in Kilkenny, Ireland, Living Atlas repr
 
 Those interested in the latest activities within the community can learn more from three presentations planned for the biodiversity_next conference held in Leiden, Netherlands, in October 2019. 
 
-How to search and download biodiversity data in an Atlas
+#### How to search and download biodiversity data in an Atlas
 
 [![Tutorial video: how to search and download biodiversity data in an Atlas](http://img.youtube.com/vi/pEUp1B1pRxw/0.jpg)](http://www.youtube.com/watch?v=pEUp1B1pRxw "Tutorial video: how to search and download biodiversity data in an Atlas")
 
-How to use regions/spatial module in an Atlas
+#### How to use regions/spatial module in an Atlas
 
 [![Tutorial video: How to use regions/spatial module in an Atlas](http://img.youtube.com/vi/Uo64PUNuxXs/0.jpg)](http://www.youtube.com/watch?v=Uo64PUNuxXs "Tutorial video: How to use regions/spatial module in an Atlas")

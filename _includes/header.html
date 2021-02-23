@@ -1,40 +1,46 @@
 <header class="site-header container" role="banner">
 
-<!-- Just an image -->
-<nav class="navbar navbar-expand-lg">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="{{ "/" | relative_url }}">
-      <img src="{{ "/assets/img/icon-white.png" | relative_url }}" alt="" width="40" height="34"> 
-    </a>
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-      <ul class="navbar-nav">
+  <img src="{{ "/assets/img/la-logo-header2.svg" | relative_url }}"  class="img-fluid" alt="" > 
+
+  <!-- Just an image -->
+  <div class="container-fluid" role="navigation">
+      <ul class="nav justify-content-center nav-pills nav-fill" role="tablist">
+        {% assign url_prefix__ = page.url | split:'/' %}
+        {% assign url_prefix_ = url_prefix__[1] | split:'.' %}
+        {% assign url_prefix = url_prefix_[0] %}
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="{{ "/" | relative_url }}">Home</a>
+          <a {% if page.url == "/" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/" | relative_url }}"  aria-selected="true">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ "/news" | relative_url }}">News</a>
+          <a {% if url_prefix == "news" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/news" | relative_url }}">News</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ "/about" | relative_url }}">About</a>
+          <!-- <a class="nav-link" href="{{ "/about" | relative_url }}">About</a> -->
+          <a {% if url_prefix == "about" %}class="nav-link dropdown-toggle active" aria-current="page"{% else %}class="nav-link dropdown-toggle"{% endif %} data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About</a>
+
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="{{ "/about" | relative_url }}">About</a>
+            <a class="dropdown-item" href="{{ "/about/lamc" | relative_url }}">Management Committee</a>
+            <a class="dropdown-item" href="{{ "/about/coordinators" | relative_url }}">Coordinators</a>
+            <a class="dropdown-item" href="{{ "/about/participants  " | relative_url }}">Participants</a>
+          </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ "/projects" | relative_url }}">Projects</a>
+          <a {% if url_prefix == "projects"  %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/projects" | relative_url }}">Projects</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ "/resources" | relative_url }}">Resources</a>
+          <a {% if url_prefix == "resources"  %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/resources" | relative_url }}">Resources</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ "/events" | relative_url }}">Events</a>
+          <a {% if url_prefix == "events" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/events" | relative_url }}">Events</a>
+        </li>
+       <!--  <li class="nav-item">
+          <a {% if url_prefix == "faq" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/faq" | relative_url }}">FAQ</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ "/faq" | relative_url }}">FAQ</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ "/faq" | relative_url }}">Contact</a>
-        </li>
+          <a {% if url_prefix == "contact" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/contact" | relative_url }}">Contact</a>
+        </li> -->
       </ul>
-    </div>
   </div>
-</nav>
 
 </header>

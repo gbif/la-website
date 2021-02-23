@@ -17,6 +17,12 @@ Add description
 
 Link to the data portal: http://www.gbif.ad/
 
+#### Resources
+- Code: ?
+- End-user documentation: ?
+- Documentation: ?
+- Twitter account: ?
+
 #### Modules Available 
 
 | Name              | Link                                                                          | 
@@ -25,6 +31,6 @@ Link to the data portal: http://www.gbif.ad/
 | Biocache          | [http://www.gbif.ad/generic-hub](http://www.gbif.ad/generic-hub)              |
 | Biocache Service  | [http://www.gbif.ad/biocache-service/](http://www.gbif.ad/biocache-service/) |
 
-#### Resources
+
 
 For more information, you may contact Benjamin Komac on Slack.

@@ -19,6 +19,15 @@ The production portal was opened faster thanks to a CESP coordination between GB
 
 Link to the data portal: [https://data.canadensys.net/explorer/](https://data.canadensys.net/explorer/)
 
+#### Resources
+
+- Code: [Canadensys GitHub account](https://github.com/canadensys)
+- End-user documentation: [How to have access to all the occurrences of a specific taxon?](https://community.canadensys.net/2017/tutorial-n1-how-to-have-access-to-all-the-occurrences-of-a-specific-taxon)
+- End-user Documentation: [How to search for occurrences form a specific location?](https://community.canadensys.net/2018/tutorial-n2-how-to-search-for-occurrences-form-a-specific-location)
+- End-user Documentation: [How to search for a specific collection?](https://community.canadensys.net/2018/tutorial-n3-how-to-search-for-a-specific-collection)
+- End-user Documentation: [How to only select occurrences with coordinates and/or images?](https://community.canadensys.net/2018/tutorial-n4-how-to-only-select-occurrences-with-coordinates-and-or-images)
+- Twitter account: [@Canadensys](https://twitter.com/Canadensys)
+
 
 #### Modules Available 
 
@@ -33,13 +42,5 @@ Link to the data portal: [https://data.canadensys.net/explorer/](https://data.ca
 | Logger            | [http://logger.canadensys.net/](http://logger.canadensys.net/)                     |
 | User details      | [https://auth.canadensys.net/userdetails](https://auth.canadensys.net/userdetails) |
 
-#### Resources
-
-- Code: [Canadensys GitHub account](https://github.com/canadensys)
-- End-user documentation: [How to have access to all the occurrences of a specific taxon?](https://community.canadensys.net/2017/tutorial-n1-how-to-have-access-to-all-the-occurrences-of-a-specific-taxon)
-- End-user Documentation: [How to search for occurrences form a specific location?](https://community.canadensys.net/2018/tutorial-n2-how-to-search-for-occurrences-form-a-specific-location)
-- End-user Documentation: [How to search for a specific collection?](https://community.canadensys.net/2018/tutorial-n3-how-to-search-for-a-specific-collection)
-- End-user Documentation: [How to only select occurrences with coordinates and/or images?](https://community.canadensys.net/2018/tutorial-n4-how-to-only-select-occurrences-with-coordinates-and-or-images)
-- Twitter account: [@Canadensys](https://twitter.com/Canadensys)
 
 For more information, you may contact Carole Sinou on Slack.

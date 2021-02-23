@@ -20,6 +20,13 @@ The spatial portal official introduction can be found here : Le portail national
 
 The GBIF France put only one developer to configure and install the data portal and the spatial portal. But the rest of the GBIF France team was occasionnaly helping on the translation of the portal.
 
+#### Resources
+
+- Code: [GBIF France GitHub account](https://github.com/gbiffrance)
+- Documentation: ?
+- End-user documentation: ?
+- Twitter Account: [@gbiffrance](https://twitter.com/gbiffrance)
+
 #### Modules Available 
 
 | Name              | Link                                                          | 
@@ -30,10 +37,5 @@ The GBIF France put only one developer to configure and install the data portal 
 | Spatial           | [http://spatial.gbif.fr/](http://spatial.gbif.fr/)            |
 
 
-#### Resources
-
-- Code: [GBIF France GitHub account](https://github.com/gbiffrance)
-- Documentation: 
-- Twitter Account: [@gbiffrance](https://twitter.com/gbiffrance)
 
 For more information, you may contact Sylvain Morin on Slack.

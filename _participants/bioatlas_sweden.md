@@ -14,6 +14,15 @@ status: live
 #### Description 
 [BioAtlas Sweden Data Portal](https://bioatlas.se/) is a multi-container Docker application based on ALA components deployed together as Docker services. Each of the ALA modules/components and their necessary backend components (database, search index, webserver, proxy ) run in individual docker containers. Named volumes are used for persisting data generated and used by the docker containers.
 
+#### Resources
+
+- Code: [BioAtlas GitHub account](https://github.com/bioatlas/ala-docker)
+- Docker images: [ALA components packages](https://hub.docker.com/u/bioatlas/)
+- Building and releasing components: [BioAtlas Travis CI](https://travis-ci.org/bioatlas/)
+- Documentation: [Usage instructions for deploying the system](https://bioatlas.github.io/)
+- End-User Documentation: [How to use the BioAtlas](https://bioatlas.se/how-to-use-the-bioatlas/)
+- Twitter Account: [@gbifsweden](https://twitter.com/gbifsweden)
+
 #### Modules Available 
 
 | Name              | Link                                                                         | 
@@ -31,13 +40,6 @@ status: live
 | Logger            | [https://logger.bioatlas.se/](https://logger.bioatlas.se/)                   |
 | User details      | [https://auth.bioatlas.se/userdetails](https://auth.bioatlas.se/userdetails) |
 
-#### Resources
 
-- Code: [BioAtlas GitHub account](https://github.com/bioatlas/ala-docker)
-- Docker images: [ALA components packages](https://hub.docker.com/u/bioatlas/)
-- Building and releasing components: [BioAtlas Travis CI](https://travis-ci.org/bioatlas/)
-- Documentation: [Usage instructions for deploying the system](https://bioatlas.github.io/)
-- End-User Documentation: [How to use the BioAtlas](https://bioatlas.se/how-to-use-the-bioatlas/)
-- Twitter Account: [@gbifsweden](https://twitter.com/gbifsweden)
 
 For more information, you may contact Manash Shah on Slack.

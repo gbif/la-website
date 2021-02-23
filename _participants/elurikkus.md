@@ -14,6 +14,10 @@ status: live
 #### Description 
 Add description
 
+#### Resources
+
+- Twitter Account: [@elurikkus](https://twitter.com/elurikkus)
+
 #### Modules Available 
 
 | Name              | Link                                                                              | 
@@ -26,8 +30,6 @@ Add description
 | Species list      | [https://elurikkus.ee/lists/](https://elurikkus.ee/lists/)                        |  
 | Regions           | [https://elurikkus.ee/regions/](https://elurikkus.ee/regions/)                    |
 
-#### Resources
 
-- Twitter Account: [@elurikkus](https://twitter.com/elurikkus)
 
 For more information, you may contact Dave Martin or Nick Dos Remedios on Slack.

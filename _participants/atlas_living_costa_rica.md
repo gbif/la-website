@@ -18,6 +18,14 @@ Nowadays, the Atlas of Living Costa Rica includes nearly seven million georefere
 
 Four developers are currently working on the portal. 
 
+#### Resources
+
+- Code: [Atlas of Living Costa Rica GitHub account](https://github.com/AtlasBiodiversidadCostaRica)
+- Documentation: ?
+- End-user documentation: ? 
+- Twitter Account: [@CRBiodiv](https://twitter.com/CRBiodiv)
+
+
 #### Modules Available 
 
 | Name              | Link                                                                             | 
@@ -26,9 +34,6 @@ Four developers are currently working on the portal.
 | Biocache          | [http://datos.crbio.cr/generic-hub/](http://datos.crbio.cr/generic-hub/)         |
 | Biocache Service  | [http://datos.crbio.cr/biocache-service](http://datos.crbio.cr/biocache-service) |
 
-#### Resources
 
-- Code: [Atlas of Living Costa Rica GitHub account](https://github.com/AtlasBiodiversidadCostaRica)
-- Twitter Account: [@CRBiodiv](https://twitter.com/CRBiodiv)
 
 For more information, you may contact Manuel Vargas on Slack.

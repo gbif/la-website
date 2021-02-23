@@ -22,6 +22,16 @@ Links to the data portals and available data hubs:
 - MDBA: [https://mdba.ala.org.au](https://mdba.ala.org.au)
 - ASBP: [https://asbp.ala.org.au](https://asbp.ala.org.au)
 
+#### Resources
+
+- Code: [Atlas of Living Australia GitHub account](https://github.com/AtlasOfLivingAustralia)
+- End-User documentation: [ALA User Guides](https://support.ala.org.au/support/solutions/folders/6000234344)
+- End-User Documentation: [ALA Tools & Apps](https://support.ala.org.au/support/solutions/6000138053)
+- End-User Documentation: [ALA Spatial Portal](https://support.ala.org.au/support/solutions/6000138349)
+- End-User Documentation: [ALA data](https://support.ala.org.au/support/solutions/6000137994)
+- Documentation: [ALA Technical Wiki](https://github.com/AtlasOfLivingAustralia/documentation)
+- Twitter Account: [@atlaslivingaust](https://twitter.com/atlaslivingaust)
+
 #### Modules Available 
 
 | Name              | Link                                                                       | 
@@ -47,13 +57,5 @@ Links to the data portals and available data hubs:
 | Phylolink         | [https://phylolink.ala.org.au/](https://phylolink.ala.org.au/)             |
 | DOI               | [https://doi.ala.org.au/](https://doi.ala.org.au/)                         |
 
-#### Resources
-
-- Code: [Atlas of Living Australia GitHub account](https://github.com/AtlasOfLivingAustralia)
-- Documentation: [ALA User Guides](https://support.ala.org.au/support/solutions/folders/6000234344)
-- Documentation: [ALA Tools & Apps](https://support.ala.org.au/support/solutions/6000138053)
-- Documentation: [ALA Spatial Portal](https://support.ala.org.au/support/solutions/6000138349)
-- Documentation: [ALA data](https://support.ala.org.au/support/solutions/6000137994)
-- Twitter Account: [@atlaslivingaust](https://twitter.com/atlaslivingaust)
 
 For more information, you may contact Dave Martin or Nick Dos Remedios on Slack.

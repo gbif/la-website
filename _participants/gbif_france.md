@@ -31,10 +31,7 @@ The GBIF France put only one developer to configure and install the data portal 
 
 | Name              | Link                                                          | 
 | ------------------|---------------------------------------------------------------|
-| Collectory		| [http://metadonnees.gbif.fr/](http://metadonnees.gbif.fr/)    |
-| Biocache          | [http://recherche.gbif.fr/](http://recherche.gbif.fr/)        |
-| Biocache Service  | [http://recherche-ws.gbif.fr/](http://recherche-ws.gbif.fr/)  |
-| Spatial           | [http://spatial.gbif.fr/](http://spatial.gbif.fr/)            |
+
 
 
 

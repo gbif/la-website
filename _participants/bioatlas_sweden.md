@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![BioAtlas Sweden](/assets/img/participants/BioAtlas_Sweden.png)](https://bioatlas.se/)
+[![BioAtlas Sweden](../assets/img/participants/BioAtlas_Sweden.png)](https://bioatlas.se/)
 
 #### Description 
 [BioAtlas Sweden Data Portal](https://bioatlas.se/) is a multi-container Docker application based on ALA components deployed together as Docker services. Each of the ALA modules/components and their necessary backend components (database, search index, webserver, proxy ) run in individual docker containers. Named volumes are used for persisting data generated and used by the docker containers.

@@ -12,16 +12,14 @@ status: live
 [![Biodiversitäts-Atlas Österreich](../assets/img/participants/Biodiversitats_atlas_osterreich.png)](https://biodiversityatlas.at/)
 
 #### Description 
-The Biodiversitäts-Atlas Österreich has been running since december 2019.
+he Biodiversity Atlas Austria ("Biodiversitäts-Atlas Österreich") was launched in december 2019. The aim is to enable free access to information on Austria's biodiversity. The Atlas was implemented as part of a project funded by the State of Lower Austria and is managed by the Danube University Krems.
 
 Links to the data portal: [https://biodiversityatlas.at/](https://biodiversityatlas.at/)
 
 #### Resources
 
-- Code: [Biodiversitäts-Atlas Österreich GitHub account]()
-- Documentation: To add []()
-- End-user Documentation: To add []()
-- Twitter Account: To add []()
+- Code: [Biodiversitäts-Atlas Österreich GitHub account](https://github.com/biodivAtlasAT)
+- Twitter Account: [@biodiversity_at](https://twitter.com/biodiversity_at)
 
 #### Modules Available 
 
@@ -40,10 +38,5 @@ Links to the data portal: [https://biodiversityatlas.at/](https://biodiversityat
 | Logger            | [https://logger.biodiversityatlas.at/](https://logger.biodiversityatlas.at/)                     |
 | User details      | [https://auth.biodiversityatlas.at/userdetails/](https://auth.biodiversityatlas.at/userdetails/) |
 
-
-#### Resources
-
-- Code: [Biodiversitäts-Atlas Österreich GitHub account]()
-- Documentation: []()
 
 For more information, you may contact Tanja Lumetsberger or Georg Neubauer on Slack.

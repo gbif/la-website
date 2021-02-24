@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![GBIF Andorra](/assets/img/participants/gbif_andorra.png)](http://www.gbif.ad/)
+[![GBIF Andorra](../assets/img/participants/gbif_andorra.png)](http://www.gbif.ad/)
 
 #### Description 
 Add description

@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![Biodiversitäts-Atlas Österreich](/assets/img/participants/Biodiversitats_atlas_osterreich.png)](https://biodiversityatlas.at/)
+[![Biodiversitäts-Atlas Österreich](assets/img/participants/Biodiversitats_atlas_osterreich.png)](https://biodiversityatlas.at/)
 
 #### Description 
 The Biodiversitäts-Atlas Österreich has been running since december 2019.

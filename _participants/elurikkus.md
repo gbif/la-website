@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![Elurikkus](/assets/img/participants/elurikkus.png)](https://elurikkus.ee)
+[![Elurikkus](../assets/img/participants/Elurikkus.png)](https://elurikkus.ee)
 
 #### Description 
 Add description

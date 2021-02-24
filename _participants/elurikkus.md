@@ -15,7 +15,9 @@ status: live
 Add description
 
 #### Resources
-
+- Code: ?
+- End-user documentation: ?
+- Documentation: ?
 - Twitter Account: [@elurikkus](https://twitter.com/elurikkus)
 
 #### Modules Available 

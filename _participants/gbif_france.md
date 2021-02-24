@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![GBIF France](/assets/img/participants/gbif_france.png)](https://www.gbif.fr)
+[![GBIF France](../assets/img/participants/gbif_france.png)](https://www.gbif.fr)
 
 #### Description 
 The data portal of the GBIF France can be found on the [GBIF France site](https://www.gbif.fr), section "Consulter/Accès au portail français du GBIF"

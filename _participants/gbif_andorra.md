@@ -22,11 +22,6 @@ Link to the data portal: [http://www.gbif.ad/]([http://www.gbif.ad/)
 #### Resources
 - Twitter account: [@CenmaIEA](https://twitter.com/CenmaIEA)
 - Contact: gbif@andorra.ad
-- Code: _Work in progress_
-- End-user documentation: _Work in progress_
-- Documentation: _Work in progress_
-
-
 
 #### Modules Available 
 

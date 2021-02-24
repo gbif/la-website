@@ -20,6 +20,7 @@ Links to the data portal: [https://biodiversityatlas.at/](https://biodiversityat
 
 - Code: [Biodiversitäts-Atlas Österreich GitHub account]()
 - Documentation: To add []()
+- End-user Documentation: To add []()
 - Twitter Account: To add []()
 
 #### Modules Available 

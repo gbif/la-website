@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![Canadensys](/assets/img/participants/canadensys.png)](https://canadensys.net)
+[![Canadensys](../assets/img/participants/canadensys.png)](https://canadensys.net)
 
 #### Description 
 Since october 2017, Canadensys run its portal in production. The portal is offering these user modules:

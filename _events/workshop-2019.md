@@ -38,7 +38,8 @@ GBIF Brazil covered the travel expenses of all the participants. This workshop h
 - Exercises: [Paris CESP Workshop 2019](https://docs.google.com/document/d/1efCVnXV9JxbKG6f-b4BtE_w8iQf-4bElEcRqINh5WfY/edit?usp=sharing) created by David Martin (ALA)
 
 ##### Resources 
-- [Agenda]()
-- [Helpful guide to Paris]()
+- [Project page](../_projects/1-cesp-2019)
+- [Official website](http://livingatlases.mnhn.fr/)
+- [Agenda](http://livingatlases.mnhn.fr/agenda/)
 
-##### Photos
+

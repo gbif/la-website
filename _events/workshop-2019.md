@@ -30,10 +30,10 @@ GBIF Brazil covered the travel expenses of all the participants. This workshop h
 #### Resources 
 
 ##### Presentations & Exercises
-- Day 1: [Brief Introduction of each participant](https://drive.google.com/drive/folders/136ExCL6lPWL84b2X5HQnQh5GBlxKvAMl?usp=sharing) (Google Folder)
-- Day 1: [Living Atlases community](https://drive.google.com/file/d/15H_sy0KEqSwfzscp5HofifYHVU-eYffT/view?usp=sharing)(PPTx) done by Marie-Elise Lecoq (VertNet)
-- Day 3: [Intro to Docker](https://drive.google.com/file/d/1CK6GL5Pur85y7AfKO8F4O6azL1zNH5zd/view) (PPTx) done by Manash Shah & Markus Skyttner (GBIF Sweden)
-- Day 3: [ALA4R & Mirroreum](https://drive.google.com/file/d/1vLBYnFD3XmuyWivjkHbpfIwNY92unD1x/view?usp=sharing) PPTx) done by Manash Shah & Markus Skyttner (GBIF Sweden)
+- Day 1: [Brief Introduction of each participant](https://drive.google.com/drive/folders/136ExCL6lPWL84b2X5HQnQh5GBlxKvAMl?usp=sharing) (Google Folder) by all participants 
+- Day 1: [Living Atlases community](https://drive.google.com/file/d/15H_sy0KEqSwfzscp5HofifYHVU-eYffT/view?usp=sharing)(PPTx) by Marie-Elise Lecoq (VertNet)
+- Day 3: [Intro to Docker](https://drive.google.com/file/d/1CK6GL5Pur85y7AfKO8F4O6azL1zNH5zd/view) (PPTx) by Manash Shah & Markus Skyttner (GBIF Sweden)
+- Day 3: [ALA4R & Mirroreum](https://drive.google.com/file/d/1vLBYnFD3XmuyWivjkHbpfIwNY92unD1x/view?usp=sharing) PPTx) by Manash Shah & Markus Skyttner (GBIF Sweden)
 
 - Exercises: [Paris CESP Workshop 2019](https://docs.google.com/document/d/1efCVnXV9JxbKG6f-b4BtE_w8iQf-4bElEcRqINh5WfY/edit?usp=sharing) created by David Martin (ALA)
 

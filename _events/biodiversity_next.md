@@ -30,7 +30,7 @@ As we did not request a registration to participate to the symposium, it is diff
 #### Resources 
 
 ##### Presentations
-- Presentation: [The Living Atlases Community of Practice](https://biss.pensoft.net/article/35779/) done by Marie-Elise Lecoq (Living Atlases Administrative coordinator - VertNet)
-- Presentation: [Improving The Documentation For End Users Of Living Atlases Around The World](https://biss.pensoft.net/article/37071/) done by Cristina Villaverde (GBIF Spain)
-- Presentation: [Sharing Species Pages in the Atlas of Living Costa Rica using Plinian Core](https://biss.pensoft.net/article/35474/) done by William Ulate Rodríguez (CRBio)
-- Presentation: [Aligning GBIF.org and the Atlas of Living Australia](https://biss.pensoft.net/article/35867/) done by Tim Robertson (GBIF)
+- Presentation: [The Living Atlases Community of Practice](https://biss.pensoft.net/article/35779/) by Marie-Elise Lecoq (Living Atlases Administrative coordinator - VertNet)
+- Presentation: [Improving The Documentation For End Users Of Living Atlases Around The World](https://biss.pensoft.net/article/37071/) by Cristina Villaverde (GBIF Spain)
+- Presentation: [Sharing Species Pages in the Atlas of Living Costa Rica using Plinian Core](https://biss.pensoft.net/article/35474/) by William Ulate Rodríguez (CRBio)
+- Presentation: [Aligning GBIF.org and the Atlas of Living Australia](https://biss.pensoft.net/article/35867/) by Tim Robertson (GBIF)

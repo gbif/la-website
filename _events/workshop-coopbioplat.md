@@ -36,7 +36,7 @@ CoopBioPlat was a Pilot Coordination Action, funded by ERANet-LAC of the Europea
 - Presentation: [Atlas of Living France (ALF)](../assets/presentation/workshop-coopbioplat/5-ALF.pdf) (PDF)
 
 ##### Resources 
-- YouTube Video: CoopBioPlat - Madrid 2015](https://www.youtube.com/watch?v=molYVbldkwM&feature=youtu.be)
+- YouTube Video: [CoopBioPlat - Madrid 2015](https://www.youtube.com/watch?v=molYVbldkwM&feature=youtu.be)
 - GBIF.es Website: [CoopBioPlat — A cooperative framework for building a common platform to serve biodiversity information at national level](https://www.gbif.es/en/proyecto/coopbioplat/)
 - Memorandum of Understanding: [PDF](https://www.gbif.es/wp-content/uploads/2018/02/COOPBIOPLAT-MOU-signed.pdf)
 - Workshop Agenda: [Google Doc](https://docs.google.com/document/d/1wyvoWjN6HNkxINFQn0DYHJtXK8oRgq4XrmYiLW1NpZ8/edit#heading=h.f5p66ilxdqik) 

@@ -1,6 +1,6 @@
 ---
 layout: single-page
-title: ALA/GBIF Software Workshop
+title: "ALA/GBIF Software Workshop"
 date: 2014/07/20
 date_shown: 2014-07-20 to 2014-07-20
 type: Workshop

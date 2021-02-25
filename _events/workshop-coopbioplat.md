@@ -1,6 +1,6 @@
 ---
 layout: single-page
-title: CoopBioPlat - Madrid 2015
+title: CoopBioPlat meeting 2 
 date: 2015/10/20
 date_shown: 2015/10/20 to 2015/10/23
 type: Workshop

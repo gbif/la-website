@@ -1,8 +1,8 @@
 ---
 layout: single-page
 title: Atlas of Living Europe Workshop 
-date: 2015/05/04
-date_shown: 2015/05/04 to 2015/05/05
+date: 2015-05-04
+date_shown: 2015-05-04 to 2015-05-05
 type: Workshop
 status: Finished
 ---

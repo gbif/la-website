@@ -2,7 +2,7 @@
 layout: single-page
 title: TDWG Working Session 2020
 date: 2020-09-21
-date_shown: 2019-09-21 to 2019-09-25
+date_shown: 2020-09-21 to 2020-09-25
 type: Online Workshop
 status: Finished
 ---

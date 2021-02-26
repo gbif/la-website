@@ -3,7 +3,7 @@ layout: single-page
 title: CoopBioPlat
 date: 2015/01/01
 type: Meeting & Workshop
-funding: EU
+funding: European Union
 lead: GBIF Spain
 year: 2015
 status: Closed

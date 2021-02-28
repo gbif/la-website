@@ -7,7 +7,7 @@ layout: default
 
 <div class="row">
   {% for post in site.posts limit:2 %}
-  <div class="col">
+  <div class="col col-index">
     <div class="feature">
       <div class="text-center">
         <img src="{{ post.picture | relative_url }}" class="img-fluid" alt="" > 

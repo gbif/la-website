@@ -29,7 +29,7 @@ layout: default
 </div>
 
 <div class="row">
-  <div class="col">
+  <div class="col col-index">
     <div class="feature">
       <div class="text-center">
         <a href="https://github.com/AtlasOfLivingAustralia/documentation/wiki/LA-Quick-Start-Guide">
@@ -37,12 +37,12 @@ layout: default
         </a>
       </div>
       <div class="feature-content feature-content--centered">
-          <p>LA Quick Start guide</p>
+          <h4>LA Quick Start guide</h4>
           <p>Contact the technical coordinator if you have any questions</p>
       </div>
     </div>
   </div>
-  <div class="col">
+  <div class="col col-index">
     <div class="feature">
       <div class="text-center">
         <a href="https://docs.google.com/document/d/1v_j7tHNGmEPu6RH1uv3mCUBc4FzHLmTvcpeLP4MR0o4/edit">
@@ -50,15 +50,15 @@ layout: default
         </a>
       </div>
       <div class="feature-content feature-content--centered">
-        <p>Technical support sessions</p>
+        <h4>Technical support sessions</h4>
         <p>Contact the technical coordinator for more information.</p>
       </div>
     </div>
   </div>
 </div>
 <div class="row">
-  <div class="col">
-    <div class="feature">
+  <div class="col col-index">
+    <div class="feature-highlight">
       <div class="text-center">
         <a href="">
           <img src="{{ "/assets/img/participants/atlas_living_costa_rica.png" | relative_url }}" class="img-fluid" alt="" > 

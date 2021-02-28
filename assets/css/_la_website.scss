@@ -195,14 +195,32 @@ table {
 
 // HOME PAGE
 
+.col-index{
+	display: flex;
+	justify-content: center;
+}
+
 .feature{
-    flex: 0 0 360px;
+    flex: 0 0 95%;
     max-width: 100%;
     margin: 12px;
     overflow: hidden;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
     border: 1px solid #ddd;
     background: #fff;
+}
+
+.feature-highlight{
+	max-width: 100%;
+    margin: 12px;
+    overflow: hidden;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    background: #fff;
+}
+
+.feature-highlight .feature-content{
+	padding: 24px 24px 48px 24px;
 }
 
 .feature .feature-content{

@@ -2,7 +2,7 @@
 layout: single-page
 title: "Regional Engagement Workshop, BID Pacific"
 date: 2017-07-27
-date_shown: 2017-07-27 to 2017-07-128
+date_shown: 2017-07-27 to 2017-07-28
 type: Meeting
 status: Finished
 ---

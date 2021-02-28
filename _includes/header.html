@@ -31,10 +31,10 @@
           <a {% if url_prefix == "projects"  %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/projects" | relative_url }}">Projects</a>
         </li>
         <li class="nav-item">
-          <a {% if url_prefix == "resources"  %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/resources" | relative_url }}">Resources</a>
+          <a {% if url_prefix == "events" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/events" | relative_url }}">Events</a>
         </li>
         <li class="nav-item">
-          <a {% if url_prefix == "events" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/events" | relative_url }}">Events</a>
+          <a {% if url_prefix == "resources"  %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/resources" | relative_url }}">Resources</a>
         </li>
        <!--  <li class="nav-item">
           <a {% if url_prefix == "faq" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/faq" | relative_url }}">FAQ</a>

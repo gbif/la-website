@@ -1,7 +1,7 @@
 ---
 layout: single-page
 title: International Living Atlases workshop - how to improve data use with Atlas of Living Australia modules
-date: 2019/04/01
+date: 2019-04-01
 date_shown: 2019-04-01 to 2019-04-05
 type: Workshop
 status: Finished
@@ -15,7 +15,7 @@ Since the beginning, our workshops have focused on the installation, the configu
 
 In order to do this, a workshop has been organized at the National Museum of Natural History (MNHN) in Paris. The focus of this workshop has been on the ALA spatial modules like the spatial portal and the explore region tool and also on analysis elements such as ALA4R.
 
-GBIF Brazil covered the travel expenses of all the participants. This workshop has been founded by the [CESP Project (CESP2018-004)](/projects/cesp-2019.html).
+GBIF Brazil covered the travel expenses of all the participants. This workshop has been founded by the [CESP Project (CESP2018-004)](../projects/1-cesp-2019.html).
 
 #### Participants 
 

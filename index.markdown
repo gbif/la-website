@@ -10,7 +10,7 @@ layout: default
   <div class="col col-index">
     <div class="feature">
       <div class="text-center">
-        <a href="{{ post.url }}">
+        <a href="{{ post.url | relative_url }}">
           <img src="{{ post.picture | relative_url }}" class="img-fluid" alt="" > 
         </a>
       </div>

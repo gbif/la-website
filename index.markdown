@@ -10,7 +10,9 @@ layout: default
   <div class="col col-index">
     <div class="feature">
       <div class="text-center">
-        <img src="{{ post.picture | relative_url }}" class="img-fluid" alt="" > 
+        <a href="{{ post.url }}">
+          <img src="{{ post.picture | relative_url }}" class="img-fluid" alt="" > 
+        </a>
       </div>
       <div class="feature-content feature-content--centered">
           <div class="feature-date">
@@ -66,7 +68,7 @@ layout: default
       </div>
       <div class="feature-content feature-content--centered">
         <h4>
-          Highlight on a Living Atlas 
+          Highlighting the Costa Rican Atlas
         </h4>
         <p>
           The Atlas of Living Costa Rica was launched in 2006 aiming at providing integrated, free, and open access to data and information about the Costa Rican biodiversity in order to support science, education, and biodiversity conservation. In 2016, it was rebuild with software components developed by the Atlas of Living Australia (ALA). The Atlas is managed by the <b>Biodiversity Informatics Research Center (CRBio)</b> and the <b>National Biodiversity Institute (INBio)</b>.

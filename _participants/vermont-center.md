@@ -18,7 +18,7 @@ The Vermont Atlas of Life (VAL) at the Vermont Center for Ecostudies is helping 
 
 - Code: [Vermont Center for ecostudies GitHub account](https://github.com/VtEcostudies)
 - End-User documentation: [How can I help you today?](https://vtatlasoflife.freshdesk.com/support/home)
-- Twitter Account: [@VTEcostudies](https://twitter.com/VTEcostudies)
+- Twitter Account: [@VTAtlasofLife](https://twitter.com/VTAtlasofLife)
 
 #### Modules Available 
 

@@ -1,19 +1,19 @@
-name,url,country,imgs
-Atlas of Living Australia,https://ala.org.au,au,
-Atlas of Living Costa Rica,http://www.crbio.cr,cr,
-Biodiversity Atlas Sweden,https://biodiversitydata.se,se,
-Biodiversitäts-Atlas Österreich,https://biodiversityatlas.at,at,
-Canadensys,http://canadensys.net,ca,
-Elurikkus - Estonia,https://elurikkus.ee/en,ee,
-GBIF Andorra,https://gbif.ad,ad,
-GBIF Argentina,http://datos.sndb.mincyt.gob.ar,ar,
-GBIF France,http://portail.gbif.fr,fr,
-GBIF Portugal,https://dados.gbif.pt,pt,
-GBIF Spain,https://gbif.es,es,
-NBN Atlas,https://nbnatlas.org,uk,
-SiBBr - Sistemas de Informações sobre a Biodiversidade Brasileira,https://www.sibbr.gov.br,br,
-SNIBgt - Sistema Nacional de Información sobre Diversidad Biológica de Guatemala,https://snib.conap.gob.gt,gt,
-Vermont Atlas of Life,https://vtatlasoflife.org,vt,
-FIXME,http://portail.gbifbenin.org,bj,
-FIXME,http://portail.togo.gbif.fr/,tg,
-FIXME,https://openobs.mnhn.fr,fr2,
+name,desc,url,country,page,img-start,img-end
+Atlas of Living Australia,Australia's biodiversity portal. Its Free and open source IT biodiversity software is used by all our community,https://ala.org.au,au,atlas_living_australia
+Biodiversity Atlas Austria,Online platform for discovering Austria’s biodiversity,https://biodiversityatlas.at,at,Biodiversitats-Atlas-Osterreich
+Canadensys,Canada portal operated from the Université de Montréal Biodiversity Centre,http://canadensys.net,ca,canadensys
+CRBio,Atlas of Living Costa Rica,http://www.crbio.cr,cr,atlas_living_costa_rica
+Elurikkus,Portal for the taxa found in Estonia,https://elurikkus.ee/en,ee,elurikkus
+GBIF Andorra,Centre d’estudis de la Neu i de la Muntanya d’Andorra,https://gbif.ad,ad,gbif_andorra
+GBIF Argentina,Portal de Datos de Biodiversidad Argentina,http://datos.sndb.mincyt.gob.ar,ar,gbif_argentina
+GBIF Benin,&nbsp;,http://portail.gbifbenin.org,bj,gbif_benin
+GBIF France,Portail français du GBIF,http://portail.gbif.fr,fr,gbif_france
+GBIF Portugal,Portal de Dados de Biodiversidade de Portugal,https://dados.gbif.pt,pt,gbif_portugal
+GBIF Spain,Portal de Datos de Biodiversidad,https://datos.gbif.es,es,gbif_spain
+GBIF Togo,&nbsp;,http://portail.togo.gbif.fr/,tg,gbif_togo
+NBN Atlas UK,National Biodiversity Network,https://nbnatlas.org,uk,nbnatlas
+OpenObs,Portail français d'accès aux données d'observation sur les espèces,https://openobs.mnhn.fr,fr2,openobs
+SBDI,Swedish Biodiversity Data Infrastructure,https://biodiversitydata.se,se,bioatlas_sweden
+SiBBr,Sistemas de Informações sobre a Biodiversidade Brasileira,https://www.sibbr.gov.br,br,sibbr
+SNIBgt,Sistema Nacional de Información sobre Diversidad Biológica de Guatemala,https://snib.conap.gob.gt,gt,conap
+Vermont Atlas of Life,&nbsp;,https://vtatlasoflife.org,vt,vermont-center

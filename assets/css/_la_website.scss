@@ -1,59 +1,64 @@
-/**
+/*
  * Reset some basic elements
  */
 
 
 // VARIABLES 
 
-
 // colors 
 // $color-bg: #E4E8E7;
-$color-bg: #FFF;
 $color-news-title: #FF5A6E;
 $color-news-border-description: #D7D7D7;
 $color-title-project: #529D2E;
 $color-font-default: #4e565F;
-$color-green-table-gbif: rgb(82, 157, 46);
-$white: #fff;
+// $color-green-table-gbif: rgb(82, 157, 46);
+$color-green-table-gbif: $primary;
+
+// $white: #fff;
+$white: #f2f2f2;
+$color-bg: $white;
 
 $color-menu: #005819;
 
-$white: #fff;
+$menu-bg: #00ac34;
+
+$darky: darkslategray;
+$caption-bg: $menu-bg;
 
 // BASIC ELEMENTS
 
 body{
-	background-color: $color-bg;
-	color: $color-font-default;
+    background-color: $color-bg;
+    color: $color-font-default;
 }
 
 h2{
-	text-align: center;
-	color: $color-title-project;
+    text-align: center;
+    color: $color-title-project;
 }
 
 h3{
-	text-align: center;
-	color: $color-title-project;
+    text-align: center;
+    color: $color-title-project;
 }
 
 h4{
-	text-align: left;
-	margin-bottom: 1.5rem;
-	margin-top: 1.5rem;
-	border-bottom: 1px solid $color-title-project
+    text-align: left;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    border-bottom: 1px solid $color-title-project
 }
 
 a{
-	color: $color-menu;
+    color: $color-menu;
 }
 
 .nav-item > a, a:hover{
-	color: $white;
+    color: $white;
 }
 
 .navbar, .navbar .container {
-    background-color: #00ac34;
+    background-color: $menu-bg;
 }
 
 
@@ -73,167 +78,238 @@ a{
 }
 
 .container{
-	background-color: $white;
-	// padding: 1% 3% 1% 3%;
+    // background-color: $white;
+    // padding: 1% 3% 1% 3%;
 }
 
 h5{
-	text-align: center;
-	color: $color-title-project;
+    text-align: center;
+    color: $color-title-project;
 }
 
 .table .thead-light th{
-	background-color: $color-green-table-gbif;
-	color: $white;
-}
-
-table {
-  width: 100%;
-  max-width: 100%;
-  margin-bottom: $spacer;
-  background-color: $table-bg; // Reset for nesting within parents with `background-color`.
-
-  th,
-  td {
-    padding: $table-cell-padding;
-    vertical-align: top;
-    border-top: $table-border-width solid $table-border-color;
-  }
-
-  thead th {
-    vertical-align: bottom;
-    border-bottom: (2 * $table-border-width) solid $table-border-color;
-  }
-
-  tbody + tbody {
-    border-top: (2 * $table-border-width) solid $table-border-color;
-  }
-
-  .table {
-    background-color: $body-bg;
-  }
+    background-color: $color-green-table-gbif;
+    color: $white;
 }
 
 .page-content {
     margin-top: 30px;
 }
 
-
 // HEADER
 .site-header, .site-header .container {
-   // background-color: #d4e7cc;
-   background-color: $white;
+    // background-color: #d4e7cc;
+    background-color: $white;
 }
 
 // HOME
 
+.carousel-caption > h4,
+.carousel-caption > h5 {
+    color: $white,
+}
+
 .carousel-caption {
-	color: $color-font-default;
-	background-color: white; 
-	right: 0%;
-	left: 0%;
-	padding-top: 0px;
-	padding-bottom: 0px;
+    color: $white;
+    background-color: $caption-bg;
+    opacity: .8;
+    right: 0%;
+    left: 0%;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin: 0 0 100px 0;
 }
 
 #carouselIndicators {
     margin-top: -30px;
+    // height: 500px;
 }
 
+#carouselIndicators > div > div > div > div > div > div.img-box > div > div,
 #carouselIndicators > div.carousel-inner > div > div.row > div.col {
     padding: 0px !important;
 }
 
-div.carousel-inner > div > div.row  {
-    height: 500px;
-}
+div.carousel-inner {
 
-ol.carousel-indicators {
-     position: absolute;
-     bottom: 5px;
-     margin: 0;
-     left: 0;
-     right: 0;
-     width: auto;
-}
-
-ol.carousel-indicators li, ol.carousel-indicators li.active {
-     width: 1rem;
-     height: 1rem;
-     margin: 0;
-     border-radius: 50%;
-     border: 0;
-     background: transparent;
 }
 
 ol.carousel-indicators li {
-     background: rgba(255,255,255,0.69);
-     margin-left: .5rem;
-     margin-right: .5rem;
+    // background-color: gray;
+}
+
+#carouselIndicators > div > div > div > div > div > div > div > div > img
+{
+    display: block;
+    object-fit: cover;
+    object-position: 100% 0;
+    height: 400px !important;
+}
+
+#carouselIndicators > div > div > div > div > div > div > div > div > img.img-first {
+    object-position: 50% 50%;
 }
 
 ol.carousel-indicators li.active {
-    background: $color-green-table-gbif;
+      background-color: $darky;
+}
+
+.carousel {
+    // margin: 30px auto 60px;
+    // padding: 0 80px;
+}
+
+.carousel .carousel-item {
+    text-align: center;
+    overflow: hidden;
+}
+.carousel .carousel-item h4 {
+    // font-family: 'Varela Round', sans-serif;
+    border-bottom: 0px;
+}
+.carousel .carousel-item img {
+    max-width: 100%;
+    display: inline-block;
+}
+.carousel .carousel-item .btn {
+    // border-radius: 0;
+    // font-size: 12px;
+    // text-transform: uppercase;
+    // font-weight: bold;
+    // border: none;
+    // background: $color-menu;
+    padding: 6px 15px;
+    margin-top: 5px;
+}
+.carousel .carousel-item .btn:hover {
+    // background: $color-menu;
+}
+.carousel .carousel-item .btn i {
+    font-size: 14px;
+    // font-weight: bold;
+    margin-left: 5px;
+}
+
+.carousel .thumb-wrapper {
+    // margin: 5px;
+    text-align: left;
+    background: $caption-bg;
+    box-shadow: 0px 2px 2px rgba(0,0,0,0.1);
+}
+.carousel .thumb-content,
+.carousel .thumb-content .container
+{
+    padding: 15px;
+    color: $white;
+    background: $caption-bg;
+    // font-size: 13px;
+}
+.carousel-control-prev, .carousel-control-next {
+    // height: 64px;
+    width: 34px;
+    background: none;
+    // margin: auto 0;
+    align-self: flex-end;
+    // border-radius: 50%;
+    // border: 6px solid rgba(0, 0, 0, 0.8);
+    background-color: black;
+}
+.carousel-control-prev i, .carousel-control-next i {
+    font-size: 46px;
+    color: $caption-bg;
+    position: absolute;
+    bottom: 10%;
+    display: inline-block;
+    align-self: flex-end;
+    // margin: -19px 0 0 0;
+    z-index: 5;
+    left: 0;
+    right: 0;
+    // color: rgba(0, 0, 0, 0.8);
+    text-shadow: none;
+    font-weight: bold;
+}
+.carousel-control-prev i {
+    margin-left: -3px;
+}
+.carousel-control-next i {
+    margin-right: -3px;
+}
+.carousel-indicators {
+    bottom: 140px !important;
+}
+.carousel-indicators li, .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: 4px;
+    border: none;
+}
+.carousel-indicators li {
+    background: #FFF;
+}
+.carousel-indicators li.active {
+    background: $caption-bg;
 }
 
 // PAGE NEWS
 #container-news {
-	background-color: $color-bg;
+    background-color: $color-bg;
 }
 
 .news{
-	background-color: $white;
-	border: 1px solid #1B1B1B;
+    background-color: $white;
+    border: 1px solid #1B1B1B;
 }
 
 .news > .col > h3 {
-	border-bottom: 1px solid $color-news-border-description;
-	padding: 1%;
-	text-align: left;
+    border-bottom: 1px solid $color-news-border-description;
+    padding: 1%;
+    text-align: left;
 }
 
 .news > .col > h3 > a {
-	color: $color-title-project;
-	text-decoration: none;
+    color: $color-title-project;
+    text-decoration: none;
 }
 
 .news > h3 > a:hover{
-	text-decoration: none;
+    text-decoration: none;
 }
 
 .short-description{
-	padding: 1%;
+    padding: 1%;
 }
 
 .published-by{
-	border-top: 1px solid $color-news-border-description;
-	font-style: italic;
-	padding: 1%;
+    border-top: 1px solid $color-news-border-description;
+    font-style: italic;
+    padding: 1%;
 }
 
 // PAGE ABOUT
 
 .tab-content h4{
-	text-align: left;
-	margin-bottom: 1.5rem;
-	margin-top: 1.5rem;
-	border-bottom: 1px solid $color-title-project
+    text-align: left;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    border-bottom: 1px solid $color-title-project
 }
 
 #pills-coordinators li{
-	list-style-type: lower-alpha;
+    list-style-type: lower-alpha;
 }
 
 
 // PAGE SINGLE NEWS
 #container-single-news img {
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #container-single-project h5{
-	text-align: left;
+    text-align: left;
 }
 
 // PAGE PARTICIPANT
@@ -242,26 +318,26 @@ ol.carousel-indicators li.active {
     width: auto; 
     max-width: 100%; 
     align-content: center;
-	display: flex;
-	padding-top:1%;
+    display: flex;
+    padding-top:1%;
 }
 
 // HEADER
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link{
-	background-color: $color-menu;
+    background-color: $color-menu;
 }
 
 
 .dropdown-item:hover{
-	background-color: $color-green-table-gbif;
+    background-color: $color-green-table-gbif;
 }
 
 // HOME PAGE
 
 .col-index{
-	display: flex;
-	justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 .feature{
@@ -275,7 +351,7 @@ ol.carousel-indicators li.active {
 }
 
 .feature-highlight{
-	max-width: 100%;
+    max-width: 100%;
     margin: 12px;
     overflow: hidden;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
@@ -284,11 +360,11 @@ ol.carousel-indicators li.active {
 }
 
 .feature-highlight .feature-content{
-	padding: 24px 24px 48px 24px;
+    padding: 24px 24px 48px 24px;
 }
 
 .feature .feature-content{
-	padding: 24px 24px 48px 24px;
+    padding: 24px 24px 48px 24px;
 }
 
 .feature-date {
@@ -296,17 +372,16 @@ ol.carousel-indicators li.active {
     font-size: 90%;
 }
 
-
 // FOOTER
 
 .logo-footer{
-	width: 60%;
-	margin-left: auto;
-	margin-right: auto; 
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .twitter-follow{
-	margin-right: 2%;
-	margin-top: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
 }
 

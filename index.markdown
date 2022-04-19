@@ -56,27 +56,4 @@ layout: home
     </div>
   </div>
 </div>
-<div class="row">
-  <div class="col col-index">
-    <div class="feature-highlight">
-      <div class="text-center">
-        <a href="">
-          <img src="{{ "/assets/img/participants/atlas_living_costa_rica.png" | relative_url }}" class="img-fluid" alt="" > 
-        </a>
-      </div>
-      <div class="feature-content feature-content--centered">
-        <h4>
-          Highlighting the Costa Rican Atlas
-        </h4>
-        <p>
-          The Atlas of Living Costa Rica was launched in 2006 aiming at providing integrated, free, and open access to data and information about the Costa Rican biodiversity in order to support science, education, and biodiversity conservation. In 2016, it was rebuild with software components developed by the Atlas of Living Australia (ALA). The Atlas is managed by the <b>Biodiversity Informatics Research Center (CRBio)</b> and the <b>National Biodiversity Institute (INBio)</b>.
-        </p>
-        <p>
-          More information <a href="{{ "/participants/atlas_living_costa_rica" | relative_url }}">here</a>
-        </p>
-      </div>
-    </div>
-  </div>
-</div>	
 </div>
-    

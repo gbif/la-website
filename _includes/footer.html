@@ -1,57 +1,58 @@
 <div class="container">
-	<div class="container-fluid" role="navigation">
-		<ul class="nav justify-content-center">
-	  		<li class="nav-item">
-	    		<a {% if url_prefix == "faq" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/faq" | relative_url }}">FAQ</a>
-	  		</li>
-	  		<li class="nav-item">
-	    		 <a {% if url_prefix == "contact" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/contact" | relative_url }}">Contact</a>
-	  		</li>
-	  		<li class="nav-item">
-	    		<a class="nav-link" href="https://atlaslivingaustralia.slack.com">Slack</a>
-	  		</li>
-	  		<li class="nav-item">
-	    		<a class="nav-link" href="https://crowdin.com/project/ala-i18n">Crowdin</a>
-	  		</li>
-	  		<li class="nav-item">
-	    		<a class="nav-link" href="https://github.com/living-atlases">LA GitHub</a>
-	  		</li>
-	  		<li class="nav-item">
-	    		<a class="nav-link" href="https://github.com/AtlasOfLivingAustralia/">ALA GitHub</a>
-	  		</li>
-	  		<li class="nav-item">
-	    		<a class="nav-link" href="">Memorandum of Understanding</a>
-	  		</li>
-		</ul>
-	</div>
+  <div class="container-fluid" role="navigation">
+	<ul class="nav justify-content-center">
+	  <li class="nav-item">
+	    <a {% if url_prefix == "faq" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/faq" | relative_url }}">FAQ</a>
+	  </li>
+	  <li class="nav-item">
+	    <a {% if url_prefix == "contact" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/contact" | relative_url }}">Contact</a>
+	  </li>
+	  <li class="nav-item">
+	    <a class="nav-link" href="https://atlaslivingaustralia.slack.com">Slack</a>
+	  </li>
+	  <li class="nav-item">
+	    <a class="nav-link" href="https://crowdin.com/project/ala-i18n">Crowdin</a>
+	  </li>
+	  <li class="nav-item">
+	    <a class="nav-link" href="https://github.com/living-atlases">LA GitHub</a>
+	  </li>
+	  <li class="nav-item">
+	    <a class="nav-link" href="https://github.com/AtlasOfLivingAustralia/">ALA GitHub</a>
+	  </li>
+	  <li class="nav-item">
+	    <a class="nav-link" href="">Memorandum of Understanding</a>
+	  </li>
+	</ul>
+  </div>
 
-	<div class="container-fluid">
-		<ul class="nav justify-content-center">
-			<li class="twitter-follow nav-item">
-				<a href="https://twitter.com/atlaslivingaust" class="twitter-follow-button" data-show-count="false">Follow @atlaslivingaust</a>
-				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-			</li><!--//twitter-follow-->
-			<li class="twitter-follow nav-item">
-				<a href="https://twitter.com/LivingAtlases" class="twitter-follow-button" data-show-count="false">Follow @LivingAtlases</a>
-				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-            </li><!--//twitter-follow-->
-		</ul>
+  <div class="container-fluid">
+	<ul class="nav justify-content-center">
+	  <li class="twitter-follow nav-item">
+		<a href="https://twitter.com/atlaslivingaust" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @gbif</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	  </li>
+	  <li class="twitter-follow nav-item">
+		<a href="https://twitter.com/gbif" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @gbif</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	  </li>
+	  <li class="twitter-follow nav-item">
+		<a href="https://twitter.com/LivingAtlases" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @gbif</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </li>
+	</ul>
 	<div class="row logo-footer">
-  		<div class="col align-self-center">
-		  	<a href="https://www.ala.org.au/"><img src="{{ "/assets/img/logo/ALA.png" | relative_url }}" alt="" class="img-fluid mw-100"> </a>
-		</div>
-		<div class="col align-self-center">
-		  	<a href="https://www.gbif.org"><img src="{{ "/assets/img/logo/GBIF-2015.png" | relative_url }}"  alt="" class="img-fluid mw-100" ></a>
-		</div>
+  	  <div class="col align-self-center">
+		<a href="https://www.ala.org.au/"><img src="{{ "/assets/img/logo/ALA.png" | relative_url }}" alt="" class="img-fluid mw-100"> </a>
+	  </div>
+	  <div class="col align-self-center">
+		<a href="https://www.gbif.org"><img src="{{ "/assets/img/logo/GBIF-2015.png" | relative_url }}"  alt="" class="img-fluid mw-100" ></a>
+	  </div>
 	</div>   
 
     <!-- ******FOOTER****** --> 
     <footer class="footer">
-        <div class="container text-center">
-            <small class="copyright">Design under the <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons Attribution 3.0 </a> License (CC BY 3.0) and developed by The Living Atlases community</small>
-        </div><!--//container-->
+      <div class="container text-center">
+        <small class="copyright">Design under the <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons Attribution 3.0 </a> License (CC BY 3.0) and developed by The Living Atlases community</small>
+      </div><!--//container-->
     </footer><!--//footer-->   
-</div>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>

@@ -1,4 +1,4 @@
-name,desc,url,country,page,img-start,img-end
+name,desc,url,country,page
 Atlas of Living Australia,Australia's biodiversity portal. Its Free and open source IT biodiversity software is used by all our community,https://ala.org.au,au,atlas_living_australia
 Biodiversity Atlas Austria,Online platform for discovering Austria’s biodiversity,https://biodiversityatlas.at,at,Biodiversitats-Atlas-Osterreich
 Canadensys,Canada portal operated from the Université de Montréal Biodiversity Centre,http://canadensys.net,ca,canadensys
@@ -16,4 +16,5 @@ OpenObs,Portail français d'accès aux données d'observation sur les espèces,h
 SBDI,Swedish Biodiversity Data Infrastructure,https://biodiversitydata.se,se,bioatlas_sweden
 SiBBr,Sistemas de Informações sobre a Biodiversidade Brasileira,https://www.sibbr.gov.br,br,sibbr
 SNIBgt,Sistema Nacional de Información sobre Diversidad Biológica de Guatemala,https://snib.conap.gob.gt,gt,conap
+TanBIF,Tanzania National Biodiversity Data Portal,https://tanbif.costech.or.tz/,tz,tanzania
 Vermont Atlas of Life,&nbsp;,https://vtatlasoflife.org,vt,vermont-center

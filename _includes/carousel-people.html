@@ -1,0 +1,27 @@
+<div id="communityAction" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    {% for photo in site.data.carousel %}
+      <li data-target="#communityAction" data-slide-to="{{ photo.id }}" class="{% if forloop.index == 1 %}active{% endif %}"></li>
+    {% endfor %}
+  </ul>
+
+  <div class="carousel-inner">
+    {% for photo in site.data.carousel-community %}
+      <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
+        <img src="/assets/img/community/{{ photo.image_name }}" alt="{{ photo.caption}}">
+        <div class="carousel-caption">
+          {{ photo.caption }}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#communityAction" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#communityAction" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>

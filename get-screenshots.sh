@@ -2,6 +2,7 @@
 #chromium --run-all-compositor-stages-before-draw --headless --screenshot="au.png" --hide-scrollbars --window-size=1800,1200 "https://ala.org.au"
 #chromium --virtual-time-budget=5000 --run-all-compositor-stages-before-draw --headless --screenshot="se.png" --hide-scrollbars --window-size=1800,1200 "https://biodiversitydata.se/"
 for i in \
+https://tanbif.costech.or.tz%tz \
 https://ala.org.au%au \
 http://crbio.cr%cr \
 https://biodiversityatlas.at%at \
@@ -39,4 +40,5 @@ do
 
    # https://github.com/sindresorhus/pageres-cl"
    pageres $var1 2000x1600 --filename="assets/img/participants/$var2" --delay=5 --overwrite --crop --hide "#cookie-notice-container"
+	 break
 done

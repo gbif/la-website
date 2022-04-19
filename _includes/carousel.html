@@ -8,7 +8,7 @@
     <div class="carousel-inner">
         {% for participant in participants %}
             {% assign min = 1 %}
-            {% assign max = 11 %}
+            {% assign max = 19 %}
             {% assign diff = max | minus: min %}
             {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
             <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">

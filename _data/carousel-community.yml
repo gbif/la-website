@@ -1,0 +1,65 @@
+- id: 0
+  active: true
+  image_name: montreal1.jpg
+  caption: CESP Canadensys GBIF France 2017 - Montreal, Canada <br /> Photo by Marie-Elise Lecoq, GBIF France
+
+- id: 1
+  active: false
+  image_name: enm_2016_1.jpg
+  caption: European Node Meeting 2017 - Stockholm, Sweden <br /> Photo by GBIF Spain
+
+- id: 2
+  active: false
+  image_name: enm_2016_2.jpg
+  caption: European Node Meeting 2017 - Stockholm, Sweden <br /> Photo by GBIF Spain
+
+- id: 3
+  active: false
+  image_name: ala-madrid-1.jpeg
+  caption: ALA International workshop 2016 - Madrid, Spain <br /> Photo by GBIF Spain
+
+- id: 4
+  active: false
+  image_name: costa-rica.jpg
+  caption: TDWG 2016 - Santa Clara de San Jose, Costa Rica <br /> Photo by Fabien Cavière, GBIF France
+
+- id: 5
+  active: false
+  image_name: international-ala-workshop-1.jpg
+  caption: International ALA workshop 2016 - Madrid, Spain <br /> Photo by GBIF Spain
+
+- id: 6
+  active: false
+  image_name: madrid_2015_1.jpg
+  caption: Atlas of Living Australia workshop 2015 - Madrid, Spain <br /> Photo by Marie-Elise Lecoq, , GBIF France
+
+- id: 7
+  active: false
+  image_name: madrid_2015_3.jpg
+  caption: Atlas of Living Australia workshop 2015 - Madrid, Spain <br /> Photo by Marie-Elise Lecoq, , GBIF France
+
+- id: 8
+  active: false
+  image_name: madrid_2015_5.jpg
+  caption: Atlas of Living Australia workshop 2015 - Madrid, Spain <br /> Photo by Marie-Elise Lecoq, , GBIF France
+
+- id: 9
+  active: false
+  image_name: madrid_2015_7.jpg
+  caption: Atlas of Living Australia workshop 2015 - Madrid, Spain <br /> Photo by Marie-Elise Lecoq, , GBIF France
+
+# - id: 9
+#   active: false
+#   image_name: International-ala-workshop-2015-1.jpg
+#   caption: International ALA workshop 2015 - Paris, France <br /> Photo by Sophie Pamerlon, GBIF France
+
+- id: 10
+  active: false
+  image_name: canberra1.jpg
+  caption: International ALA workshop 2014 - Canberra, Australia <br /> Photo by Atlas of Living Australia
+
+- id: 11
+  active: false
+  image_name: canberra2.jpg
+  caption: International ALA workshop 2014 - Canberra, Australia <br /> Photo by Atlas of Living Australia
+

@@ -7,7 +7,8 @@
 
 
 // colors 
-$color-bg: #E4E8E7;
+// $color-bg: #E4E8E7;
+$color-bg: #FFF;
 $color-news-title: #FF5A6E;
 $color-news-border-description: #D7D7D7;
 $color-title-project: #529D2E;
@@ -15,8 +16,7 @@ $color-font-default: #4e565F;
 $color-green-table-gbif: rgb(82, 157, 46);
 $white: #fff;
 
-$color-menu: #509e30;
-
+$color-menu: #005819;
 
 $white: #fff;
 
@@ -49,12 +49,32 @@ a{
 }
 
 .nav-item > a, a:hover{
-	color: $color-menu;
+	color: $white;
+}
+
+.navbar, .navbar .container {
+    background-color: #00ac34;
+}
+
+
+.header-la-logo {
+    padding: 14px 0 5px 0px;
+}
+
+.header-la-desc {
+    padding-bottom: 12px;
+    font-family: 'Signika', sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+}
+
+.nav-item:not(:first-child) {
+    padding: 0px 10px;
 }
 
 .container{
 	background-color: $white;
-	padding: 1% 3% 1% 3%;
+	// padding: 1% 3% 1% 3%;
 }
 
 h5{
@@ -94,15 +114,20 @@ table {
   }
 }
 
+.page-content {
+    margin-top: 30px;
+}
+
 
 // HEADER
-.site-header{
-	background-color: $white;
+.site-header, .site-header .container {
+   // background-color: #d4e7cc;
+   background-color: $white;
 }
 
 // HOME
 
-.carousel-caption{
+.carousel-caption {
 	color: $color-font-default;
 	background-color: white; 
 	right: 0%;
@@ -111,6 +136,45 @@ table {
 	padding-bottom: 0px;
 }
 
+#carouselIndicators {
+    margin-top: -30px;
+}
+
+#carouselIndicators > div.carousel-inner > div > div.row > div.col {
+    padding: 0px !important;
+}
+
+div.carousel-inner > div > div.row  {
+    height: 500px;
+}
+
+ol.carousel-indicators {
+     position: absolute;
+     bottom: 5px;
+     margin: 0;
+     left: 0;
+     right: 0;
+     width: auto;
+}
+
+ol.carousel-indicators li, ol.carousel-indicators li.active {
+     width: 1rem;
+     height: 1rem;
+     margin: 0;
+     border-radius: 50%;
+     border: 0;
+     background: transparent;
+}
+
+ol.carousel-indicators li {
+     background: rgba(255,255,255,0.69);
+     margin-left: .5rem;
+     margin-right: .5rem;
+}
+
+ol.carousel-indicators li.active {
+    background: $color-green-table-gbif;
+}
 
 // PAGE NEWS
 #container-news {

@@ -26,9 +26,10 @@
             <li class="nav-item">
                 <a {% if url_prefix == "news" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/news" | relative_url }}">News</a>
             </li>
-            <li class="nav-item">
+
+            <li class="nav-item dropdown">
                 <!-- <a class="nav-link" href="{{ "/about" | relative_url }}">About</a> -->
-                <a {% if url_prefix == "about" %}class="nav-link dropdown-toggle active" aria-current="page"{% else %}class="nav-link dropdown-toggle"{% endif %} data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About</a>
+              <a {% if url_prefix == "about" %}class="nav-link dropdown-toggle active" aria-current="page"{% else %}class="nav-link dropdown-toggle"{% endif %} data-toggle="dropdown" href="#" role="button" role="button" aria-expanded="false">About</a>
 
                 <div class="dropdown-menu">
                     <a class="dropdown-item" href="{{ "/about" | relative_url }}">About</a>

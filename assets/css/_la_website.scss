@@ -23,7 +23,8 @@ $color-menu: #005819;
 $menu-bg: #00ac34;
 
 $darky: darkslategray;
-$caption-bg: $menu-bg;
+// $caption-bg: $menu-bg;
+$caption-bg: $darky;
 
 // BASIC ELEMENTS
 
@@ -42,9 +43,9 @@ h3{
     color: $color-title-project;
 }
 
-h4{
+h4 {
     text-align: left;
-    margin-bottom: 1.5rem;
+    // margin-bottom: 1.5rem;
     margin-top: 1.5rem;
     border-bottom: 1px solid $color-title-project
 }
@@ -122,7 +123,6 @@ h5{
 
 #carouselIndicators {
     margin-top: -30px;
-    // height: 500px;
 }
 
 #carouselIndicators > div > div > div > div > div > div.img-box > div > div,
@@ -130,13 +130,10 @@ h5{
     padding: 0px !important;
 }
 
-div.carousel-inner {
-
-}
+div.carousel-inner {}
 
 ol.carousel-indicators li {
-    // background-color: gray;
-}
+  }
 
 #carouselIndicators > div > div > div > div > div > div > div > div > img
 {
@@ -151,39 +148,34 @@ ol.carousel-indicators li {
 }
 
 ol.carousel-indicators li.active {
-      background-color: $darky;
+      background-color: $white;
 }
 
 .carousel {
-    // margin: 30px auto 60px;
-    // padding: 0 80px;
 }
 
 .carousel .carousel-item {
     text-align: center;
     overflow: hidden;
 }
+
 .carousel .carousel-item h4 {
-    // font-family: 'Varela Round', sans-serif;
     border-bottom: 0px;
 }
+
 .carousel .carousel-item img {
     max-width: 100%;
     display: inline-block;
 }
+
 .carousel .carousel-item .btn {
-    // border-radius: 0;
-    // font-size: 12px;
-    // text-transform: uppercase;
-    // font-weight: bold;
-    // border: none;
-    // background: $color-menu;
     padding: 6px 15px;
     margin-top: 5px;
 }
+
 .carousel .carousel-item .btn:hover {
-    // background: $color-menu;
 }
+
 .carousel .carousel-item .btn i {
     font-size: 14px;
     // font-weight: bold;
@@ -191,29 +183,26 @@ ol.carousel-indicators li.active {
 }
 
 .carousel .thumb-wrapper {
-    // margin: 5px;
     text-align: left;
     background: $caption-bg;
     box-shadow: 0px 2px 2px rgba(0,0,0,0.1);
 }
+
 .carousel .thumb-content,
-.carousel .thumb-content .container
-{
+.carousel .thumb-content .container {
     padding: 15px;
     color: $white;
     background: $caption-bg;
-    // font-size: 13px;
 }
+
 .carousel-control-prev, .carousel-control-next {
-    // height: 64px;
     width: 34px;
     background: none;
     // margin: auto 0;
     align-self: flex-end;
-    // border-radius: 50%;
-    // border: 6px solid rgba(0, 0, 0, 0.8);
-    background-color: black;
+    background-color: grey;
 }
+
 .carousel-control-prev i, .carousel-control-next i {
     font-size: 46px;
     color: $caption-bg;
@@ -229,15 +218,19 @@ ol.carousel-indicators li.active {
     text-shadow: none;
     font-weight: bold;
 }
+
 .carousel-control-prev i {
     margin-left: -3px;
 }
+
 .carousel-control-next i {
     margin-right: -3px;
 }
+
 .carousel-indicators {
-    bottom: 140px !important;
+    bottom: 130px !important;
 }
+
 .carousel-indicators li, .carousel-indicators li {
     width: 10px;
     height: 10px;
@@ -245,11 +238,13 @@ ol.carousel-indicators li.active {
     margin: 4px;
     border: none;
 }
+
 .carousel-indicators li {
     background: #FFF;
 }
+
 .carousel-indicators li.active {
-    background: $caption-bg;
+    background: $white;
 }
 
 // PAGE NEWS
@@ -289,9 +284,9 @@ ol.carousel-indicators li.active {
 
 // PAGE ABOUT
 
-.tab-content h4{
+.tab-content h4 {
     text-align: left;
-    margin-bottom: 1.5rem;
+    // margin-bottom: 1.5rem;
     margin-top: 1.5rem;
     border-bottom: 1px solid $color-title-project
 }

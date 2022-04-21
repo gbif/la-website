@@ -1,10 +1,11 @@
 name,type,year,link,licence,list
-"ALA Key Technical Documentation (available in English, French,Spanish and Portugese)",Document,2017, https://www.gbif.org/document/82847/ala-key-technical-documentation,CC BY-SA 4.0,technical
 ALA Quick Start Guide,Github wiki,On-going,https://github.com/AtlasOfLivingAustralia/documentation/wiki/LA-Quick-Start-Guide,NA,technical
-Instructions for Living Atlas technical bootstrap support sessions,Document,On-going,https://docs.google.com/document/d/1pNbT6suWcnyXaUcRhtLcsTfNNodtuIMO16CMaUGE0qA/edit#heading=h.spe7ow8l3zy4,NA,technical
+Living Atlases Toolkit,GitHub Repository,On-going,https://github.com/living-atlases/la-toolkit, Apache-2.0,technical
 Living Atlas Ansible Generator, GitHub Repository,On-going,https://github.com/living-atlases/generator-living-atlas, Apache-2.0,technical
 "Living Atlases Artwork (logo, color palette, favicon, etc.)",GitHub Repository,2020,https://github.com/living-atlases/artwork,NA,communication
 Technical Documentation,Github wiki,On-going,https://github.com/AtlasOfLivingAustralia/documentation/wiki,NA,technical
 Technical support sessions for bootstrap and launch new LA national nodes,Document,On-going,https://docs.google.com/document/d/1v_j7tHNGmEPu6RH1uv3mCUBc4FzHLmTvcpeLP4MR0o4/edit,NA,technical
+Instructions for Living Atlas technical bootstrap support sessions,Document,On-going,https://docs.google.com/document/d/1pNbT6suWcnyXaUcRhtLcsTfNNodtuIMO16CMaUGE0qA/edit#heading=h.spe7ow8l3zy4,NA,technical
+"ALA Key Technical Documentation (available in English, French,Spanish and Portugese)",Document,2017, https://www.gbif.org/document/82847/ala-key-technical-documentation,CC BY-SA 4.0,technical
 Tutorial video: How to use regions/spatial module in an Atlas,YouTube video,2018,https://youtu.be/Uo64PUNuxXs,NA,communication
 Tutorial video: how to search and download biodiversity data in an Atlas,YouTube video,2018,https://youtu.be/pEUp1B1pRxw,NA,communication

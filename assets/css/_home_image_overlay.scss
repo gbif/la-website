@@ -1,0 +1,38 @@
+// From: https://bootstrapious.com/p/bootstrap-image-overlay
+
+.overlay-gradient {
+    position: relative;
+}
+
+.overlay-gradient::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(to bottom, #4FC3F7, #8E24AA);
+    display: block;
+    opacity: 0.55;
+}
+
+.overlay-dark {
+    position: relative;
+}
+
+.overlay-dark::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #000;
+    display: block;
+    opacity: 0.55;
+}
+
+.overlay-content {
+    z-index: 99;
+    position: relative;
+}

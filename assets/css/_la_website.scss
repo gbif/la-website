@@ -41,6 +41,7 @@ h2{
 h3{
     text-align: center;
     color: $color-title-project;
+    margin-bottom: 30px;
 }
 
 h4 {
@@ -50,9 +51,11 @@ h4 {
     border-bottom: 1px solid $color-title-project
 }
 
-a{
+a {
     color: $color-menu;
 }
+
+/* navbar  */
 
 .nav-item > a, .nav-item > a:hover{
     color: $white;
@@ -62,6 +65,14 @@ a{
     background-color: $menu-bg;
 }
 
+.navbar-toggler-icon {
+    background-image: escape-svg($navbar-light-toggler-icon-bg);
+  }
+
+.navbar-toggler {
+    color: $navbar-light-color;
+    border-color: $navbar-light-toggler-border-color;
+}
 
 .header-la-logo {
     padding: 14px 0 5px 0px;
@@ -94,7 +105,8 @@ h5{
 }
 
 .page-content {
-    margin-top: 30px;
+      margin-top: 30px;
+
 }
 
 // HEADER

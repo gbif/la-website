@@ -10,7 +10,10 @@
       <main class="page-content" aria-label="Content">
         {%- include carousel.html -%}
         {{ content }}
+        {% comment %}
         {%- include carousel-people.html -%}
+        {% endcomment %}
+
       </main>
 
         {%- include footer.html -%}

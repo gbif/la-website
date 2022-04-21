@@ -1,58 +1,58 @@
-<div class="container">
-  <div class="container-fluid" role="navigation">
-	<ul class="nav justify-content-center">
-	  <li class="nav-item">
-	    <a {% if url_prefix == "faq" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/faq" | relative_url }}">FAQ</a>
-	  </li>
-	  <li class="nav-item">
-	    <a {% if url_prefix == "contact" %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="{{ "/contact" | relative_url }}">Contact</a>
-	  </li>
-	  <li class="nav-item">
-	    <a class="nav-link" href="https://atlaslivingaustralia.slack.com">Slack</a>
-	  </li>
-	  <li class="nav-item">
-	    <a class="nav-link" href="https://crowdin.com/project/ala-i18n">Crowdin</a>
-	  </li>
-	  <li class="nav-item">
-	    <a class="nav-link" href="https://github.com/living-atlases">LA GitHub</a>
-	  </li>
-	  <li class="nav-item">
-	    <a class="nav-link" href="https://github.com/AtlasOfLivingAustralia/">ALA GitHub</a>
-	  </li>
-	  <li class="nav-item">
-	    <a class="nav-link" href="">Memorandum of Understanding</a>
-	  </li>
-	</ul>
+<!-- ******FOOTER****** -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+<script src="{{ base.url | prepend: site.url }}/assets/js/la-website.js"></script>
+<!-- Footer -->
+<footer class="bg-white">
+  <div class="container py-5">
+    <div class="row py-4">
+      <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+		<div class="row logo-footer">
+		  <a href="https://www.ala.org.au/"><img src="{{ "/assets/img/logo/ALA.png" | relative_url }}" alt="" class="img-fluid mw-100"> </a>
+		  <a href="https://www.gbif.org"><img src="{{ "/assets/img/logo/GBIF-2015.png" | relative_url }}"  alt="" class="img-fluid mw-100" ></a>
+		</div>
+      </div>
+	  <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
+		<h6 class="text-uppercase font-weight-bold mb-4">CODE</h6>
+        <ul class="list-unstyled mb-0">
+		  <li class="mb-2"><a class="text-muted" href="https://github.com/AtlasOfLivingAustralia/">ALA GitHub</a></li>
+		  <li class="mb-2"><a class="text-muted" href="https://github.com/living-atlases">LA GitHub</a></li>
+		  <li class="mb-2"><a class="text-muted" href="https://crowdin.com/project/ala-i18n">Crowdin</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
+		<h6 class="text-uppercase font-weight-bold mb-4">MORE</h6>
+        <ul class="list-unstyled mb-0">
+		  <li class="mb-2"><a class="text-muted" href="{{ "/faq" | relative_url }}">FAQ</a></li>
+  		  <li class="mb-2"><a class="text-muted" href="{{ "/contact" | relative_url }}">Contact</a></li>
+		  <li class="mb-2"><a class="text-muted" href="https://atlaslivingaustralia.slack.com">Slack</a></li>
+		  {% comment %}
+		  <li class="mb-2"><a class="text-muted" href="">Memorandum of Understanding</a></li>
+		  {% endcomment %}
+        </ul>
+      </div>
+      <div class="col-lg-4 col-md-6 mb-lg-0">
+		<h6 class="text-uppercase font-weight-bold mb-4">SOCIAL</h6>
+		<ul class="list-unstyled mb-0">
+		  <li class="mb-2">
+			<a href="https://twitter.com/atlaslivingaust" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @gbif</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		  </li>
+		  <li class="mb-2">
+			<a href="https://twitter.com/gbif" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @gbif</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		  </li>
+		  <li class="mb-2">
+			<a href="https://twitter.com/LivingAtlases" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @gbif</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		  </li>
+		</ul>
+      </div>
+    </div>
   </div>
 
-  <div class="container-fluid">
-	<ul class="nav justify-content-center">
-	  <li class="twitter-follow nav-item">
-		<a href="https://twitter.com/atlaslivingaust" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @gbif</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-	  </li>
-	  <li class="twitter-follow nav-item">
-		<a href="https://twitter.com/gbif" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @gbif</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-	  </li>
-	  <li class="twitter-follow nav-item">
-		<a href="https://twitter.com/LivingAtlases" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @gbif</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </li>
-	</ul>
-	<div class="row logo-footer">
-  	  <div class="col align-self-center">
-		<a href="https://www.ala.org.au/"><img src="{{ "/assets/img/logo/ALA.png" | relative_url }}" alt="" class="img-fluid mw-100"> </a>
-	  </div>
-	  <div class="col align-self-center">
-		<a href="https://www.gbif.org"><img src="{{ "/assets/img/logo/GBIF-2015.png" | relative_url }}"  alt="" class="img-fluid mw-100" ></a>
-	  </div>
-	</div>   
-
-    <!-- ******FOOTER****** --> 
-    <footer class="footer">
-      <div class="container text-center">
-        <small class="copyright">Design under the <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons Attribution 3.0 </a> License (CC BY 3.0) and developed by The Living Atlases community</small>
-      </div><!--//container-->
-    </footer><!--//footer-->   
+  <!-- Copyrights -->
+  <div class="bg-light py-4">
+    <div class="container text-center">
+      <p class="text-muted mb-0 py-2">Design under the <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 License (CC BY 4.0)</a> and developed by The Living Atlases Community</p>
+    </div>
   </div>
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</footer>
+<!-- End footer -->

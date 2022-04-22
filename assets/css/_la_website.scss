@@ -133,12 +133,12 @@ h5{
     margin: 0 0 100px 0;
 }
 
-#carouselIndicators {
+#la-partipants-carousel {
     margin-top: -30px;
 }
 
-#carouselIndicators > div > div > div > div > div > div.img-box > div > div,
-#carouselIndicators > div.carousel-inner > div > div.row > div.col {
+#la-partipants-carousel > div > div > div > div > div > div.img-box > div > div,
+#la-partipants-carousel > div.carousel-inner > div > div.row > div.col {
     padding: 0px !important;
 }
 
@@ -147,7 +147,7 @@ div.carousel-inner {}
 ol.carousel-indicators li {
   }
 
-#carouselIndicators > div > div > div > div > div > div > div > div > img
+#la-partipants-carousel > div > div > div > div > div > div > div > div > img
 {
     display: block;
     object-fit: cover;
@@ -155,7 +155,7 @@ ol.carousel-indicators li {
     height: 400px !important;
 }
 
-#carouselIndicators > div > div > div > div > div > div > div > div > img.img-first {
+#la-partipants-carousel > div > div > div > div > div > div > div > div > img.img-first {
     object-position: 50% 50%;
 }
 

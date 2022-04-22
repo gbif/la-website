@@ -1,26 +1,38 @@
-// Enable BS4 tooltips
+var currentSlide;
+var rand;
 
-$(function () {
-  $('[data-toggle="tooltip"]').tooltip()
-})
+$(document).ready(function() {
 
-// carousel on swipe
-// https://stackoverflow.com/questions/21349984/how-to-make-bootstrap-carousel-slider-use-mobile-left-right-swipe
-$('.carousel').on('touchstart', function(event){
-  const xClick = event.originalEvent.touches[0].pageX;
-  $(this).one('touchmove', function(event){
-    const xMove = event.originalEvent.touches[0].pageX;
-    const sensitivityInPx = 5;
+  function initCarousel(){
+    var $item = $('#la-partipants-carousel .carousel-inner .carousel-item');
 
-    // https://stackoverflow.com/questions/21349984/how-to-make-bootstrap-carousel-slider-use-mobile-left-right-swipe
-    if( Math.floor(xClick - xMove) > sensitivityInPx ){
-      $(this).carousel('next');
-    }
-    else if( Math.floor(xClick - xMove) < -sensitivityInPx ){
-      $(this).carousel('prev');
-    }
-  });
-  $(this).on('touchend', function(){
-    $(this).off('touchmove');
-  });
+    var $numberofSlides = $('#la-partipants-carousel > ol li').length;
+    // Exclude ALA as first slide
+    var $currentSlide = Math.floor((Math.random() * ($numberofSlides - 1 - 1)) + 1);
+    // console.log($currentSlide);
+    $('#la-partipants-carousel .carousel-indicators li').each(function(){
+      var $slideValue = $(this).attr('data-slide-to');
+      // console.log($slideValue);
+      if($currentSlide == $slideValue) {
+        $(this).addClass('active');
+        $item.eq($slideValue).addClass('active');
+      } else {
+        $(this).removeClass('active');
+        $item.eq($slideValue).removeClass('active');
+      }
+    });
+
+
+    //$('#la-partipants-carousel').css('visibility','visible');
+    $('#la-partipants-carousel').fadeIn('slow');
+
+
+    // Enable BS4 tooltips
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
+
+  }
+
+  initCarousel();
 });

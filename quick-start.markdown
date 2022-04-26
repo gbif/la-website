@@ -1,7 +1,6 @@
 ---
 layout: default
 title: quick-start
-permalink: /:title/
 ---
 
 <h4>Quick start to install, tune and maintain a LA Portal</h4>

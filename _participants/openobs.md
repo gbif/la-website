@@ -1,6 +1,6 @@
 ---
 layout: participant
-institution: OpenObs, portail français d'accès aux données d'observation sur les espèces (UMS Patrinat (OFB, CNRS, MNHN))
+institution: OpenObs - Portail français d'accès aux données d'observation sur les espèces, UMS Patrinat (OFB, CNRS, MNHN)
 country: France
 language: French
 year: 2020

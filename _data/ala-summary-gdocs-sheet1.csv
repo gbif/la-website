@@ -1,15 +1,15 @@
-Installation,Area,GBIF Node,GBIF Status,Notes,Language,Declared status,Online,Recent activity,URL,Show in LA web
+Installation,Area,GBIF Node,GBIF Status,Notes,Language,Declared status,Online,Recent activity,URL,LA_web_status
 Living Atlas of Barbados,Barbados,,,,English,Live,No,Asked for help recently,dead link?,list
 Living Atlas of the Caribbean,Caribbeam,,,Contacted recently asking for help to hire a dev and to select a hosting and several other recomendations,English,Live,No,Asked for help recently,dead link?,list
 Living Atlas of Suriname,Suriname,,,sam,English,Live,No,Asked for help recently,dead link?,list
 Living Atlas of Trinidad & Tobago,Trinidad & Tobago,,,,English,Live,No,Asked for help recently,dead link?,list
-CRBio,Costa Rica,Costa Rica,Voting,,Spanish & English,Live,No - broken site,Last contact GNM 2021 interested in the la-toolkit,http://www.crbio.cr/crbio,list
+CRBio,Costa Rica,Costa Rica,Voting,,Spanish & English,Live,No - broken site,Last contact GNM 2021 interested in the la-toolkit,http://www.crbio.cr/crbio,highlight
 Sistema Nacional de Datos Biologicos,Argentina,Argentina,Voting,,Spanish,Live,No - broken site,No news,https://datos.sndb.mincyt.gob.ar/,highlight
 GBIF Andorra,Andorra,Andorra,Voting,,Catalan & Spanish,Under development after migration,Yes,"They moved outside Bimeo without success, still trying. Last contact Sep-2021",https://www.gbif.ad/,highlight
 Atlas of Living Australia,Australia,Australia,Voting,,English,Live,Yes,High,https://www.ala.org.au/,highlight
 Biodiversity Atlas Austria,Austria,,,,German,Live,Yes,High,https://biodiversityatlas.at,highlight
 Canadensys,Canada,Canadensys,Organisation,,English & French,Live,Yes,Low but active,https://data.canadensys.net/,highlight
-Consejo Nacional de Áreas Protegidas (CONAP),Guatemala,,,,Spanish,Live,Yes,Low but active,https://snib.conap.gob.gt/,highlight
+Atlas of Living Costa Rica - CRBio,Guatemala,,,Consejo Nacional de Áreas Protegidas (CONAP),Spanish,Live,Yes,Low but active,https://snib.conap.gob.gt/,highlight
 eElurikkus,Estonia,Estonia,Voting,,Estonian & English,Live,Yes,High,https://elurikkus.ee/,highlight
 GBIF Benin,Benin,Benin,Voting,Hosted by GBIF FR,French,Live,Yes,Via GBIF France,http://portail.gbifbenin.org/,highlight
 GBIF France,France,France,Voting,,French,Live,Yes,High,http://portail.gbif.fr/,highlight
@@ -17,22 +17,22 @@ GBIF Spain,Spain,Spain,Voting,,Spanish & English & Catalan,Live,Yes,High,https:/
 GBIF Sweden,Sweden,Sweden,Voting,,English & Swedish,Live,Yes,High,https://biodiversitydata.se/,highlight
 GBIF Portugal,Portugal,Portugal,Voting,,Portugese,Live,Yes,Low doing normal maintenance & use,https://dados.gbif.pt/,highlight
 GBIF Togo,Togo,Togo,Voting,Hosted by GBIF FR,French,Live,Yes,Via GBIF France,http://portail.togo.gbif.fr/,highlight
-Instituto Chico Mendes de Conservaçao de Biodiversidad,Brazilian (Institution),,,Not the node,Portugese,Live,Yes,High,https://portaldabiodiversidade.icmbio.gov.br/portal/,list
+Instituto Chico Mendes de Conservaçao de Biodiversidad,Brazilian (Institution),,,Not the node,Portuguese,Live,Yes,High,https://portaldabiodiversidade.icmbio.gov.br/portal/,list
 NBN Atlas,United Kingdom,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://nbnatlas.org/,highlight
 NBN Atlas Northern Ireland,Northern Ireland,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://northernireland.nbnatlas.org/,list
 NBN Atlas Scotland,Scotland,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://scotland.nbnatlas.org/,list
 NBN Atlas Wales,Wales,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://wales.nbnatlas.org/,list
 NBN Atlas Isle of Man,Isle of Man,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://isleofman.nbnatlas.org/,list
-"OpenObs, portail français d'accès aux données d'observation sur les espèces (UMS Patrinat (OFB, CNRS, MNHN))",France,,,Not the node,French,Live,Yes,High trying to upgrade and use pipelines,https://openobs.mnhn.fr/,highlight
+"OpenObs, portail français d'accès aux données d'observation sur les espèces (UMS Patrinat (OFB, CNRS, MNHN)",France,,,Not the node,French,Live,Yes,High trying to upgrade and use pipelines,https://openobs.mnhn.fr/,highlight
 Sistema de Informação Sobre a Biodiversidade Brasileira (SiBBr),Brazil,Brazil,Voting,,Portuguese & English,Live,Yes,High,https://www.sibbr.gov.br/,highlight
-Vermont Center for Ecostudies,USA,,,,English,Live,Yes,High,https://val.vtecostudies.org/,highlight
+The Vermont Atlas of Life (VAL),USA,,,Vermont Center for Ecostudies,English,Live,Yes,High,https://val.vtecostudies.org/,highlight
 Atlas of Living Tanzania,Tanzania,,,"Unclear on their plans, neither LA or Hosted Portal",English,Under development,Yes,,https://tanbif.ditnet.ac.tz/,highlight
 The Field Museum,USA,,,Need status update,English,Under development,,No news,,list
 GBIF Luxemburg,Luxemburg,Luxembourg,Voting,Need status update,"English, German & French",Under development,,,,list
 GBIF Chile,Chile,Chile,Voting,Need status update,,In discussion,,No news,,list
 Habitat Foundation,Netherlands,,,Need status update,,In discussion,,,,list
 NLBIF / Naturalis,Netherlands,Netherlands,Voting,Need status update,,In discussion,,Contacted us this week,,list
-Philippines Atlas of Biodiversity(PhAB),Philippines,,,Need status update,,In discussion,,No news,,list
+Philippines Atlas of Biodiversity (PhAB),Philippines,,,Need status update,,In discussion,,No news,,list
 "Royal Botanic Gardens, Kew",UK,,,Need status update,,Under development,,Test portal in dev,,list
 SiB Colombia,Colombia,Colombia,Associate,Use hosted portal now,,In discussion,,No news,,list
 TaiBIF,Taiwan,Chinese Taipei,Associate,,,In discussion,,No news,,list

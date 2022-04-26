@@ -3,6 +3,10 @@ layout: default
 title: Participants
 permalink: /about/participants
 ---
+{% assign ps = site.participants | sort: 'institution' %}
+{% assign ps3 = site.data.ala-summary-gdocs-sheet1 | where: "LA_web_status", "highlight" | sort: 'Installation' %}
+{% assign psd = site.data.ala-summary-gdocs-sheet1 | where: "LA_web_status", "list"  | sort: 'Installation' %}
+{% assign psd2 = site.data.participant_development | sort: "institution" %}
 
 <h4>Participants with live data portals</h4>
 
@@ -17,7 +21,7 @@ permalink: /about/participants
 			</tr>
 		</thead>
 		<tbody>
-			{% for participant in site.participants%}
+			{% for participant in ps %}
 			<tr> 
 				<td scope="row" >
 					<a href="{{ participant.url | relative_url }}">
@@ -54,19 +58,22 @@ permalink: /about/participants
 			</tr>
 		</thead>
 		<tbody>
-			{% for participant in site.data.participant_development %}
+			{% for participant in psd %}
+			{% if participant["Declared status"] == 'Live' %}
+			{% continue %}
+			{% endif %}	
 			<tr> 
 				<td scope="row" >
-					{{ participant.institution }}
+					{{ participant.Installation }}
 				</td>
 				<td> 
-					{{ participant.country }}
+					{{ participant.Country }}
 				</td>
 				<td>
-					{{ participant.language }}
+					{{ participant.Language }}
 				</td>
 				<td>
-					{{ participant.status }}
+					{{ participant["Declared status"] }}
 				</td>
 			</tr>
 			{% endfor %}

@@ -39,6 +39,8 @@ permalink: /about/participants
 	</table>
 </div>
 
+{%- include carousel-people.html -%}
+		
 <h4>Other participants and status of their data portals</h4>		
 
 <div class="table-responsive">

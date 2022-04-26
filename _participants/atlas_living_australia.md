@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![Atlas of Living Australia](../assets/img/participants/atlas_living_australia.png)](https://www.ala.org.au)
+{% include browser-frame.html country="au" %}
 
 #### Description 
 The Atlas of Living Australia has been running since 2008, with its first system going live in 2010. The key stakeholders for the Atlas are the zoological collections and herbaria of Australia. The Atlas is a single infrastructure that supports a number of front end (and separately branded) portals.

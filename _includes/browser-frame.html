@@ -1,5 +1,5 @@
 <div class="browser-mockup">
-  <a href="{{include.url}}" target="_blank">
-    <img src="{{include.img}}" alt="">
+  <a href="{% for p in site.data.participant_slider %}{% if p.country == include.country %}{{ p.url }}{% endif %}{% endfor %}" target="_blank">
+    <img src="/assets/img/participants/{{include.country}}.png" alt="">
   </a>
 </div>

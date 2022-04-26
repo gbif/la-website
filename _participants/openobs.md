@@ -9,9 +9,10 @@ status: live
 
 ## {{ page.institution }}
 
-[![OpenObs, portail français d'accès aux données d'observation sur les espèces (UMS Patrinat (OFB, CNRS, MNHN))](../assets/img/participants/openobs.png)](https://openobs.mnhn.fr/)
+{% include browser-frame.html country="fr2" %}
 
 #### Description 
+
 Add description
 
 #### Resources

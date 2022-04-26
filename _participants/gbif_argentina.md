@@ -9,9 +9,10 @@ status: live
 
 ## {{ page.institution }}
 
-[![GBIF Argentina](../assets/img/participants/gbif_argentina.png)](http://datos.sndb.mincyt.gob.ar/)
+{% include browser-frame.html country="ar" %}
 
 #### Description 
+
 From the [data portal of the Argentine national biological data system](http://datos.sndb.mincyt.gob.ar/), you will be able to access the georeferenced data, the published data sets and the collections of the members of the SNDB. At the same time you can search the specimens and other records of published presences, know their geographic location and taxonomic information.
 
 #### Resources

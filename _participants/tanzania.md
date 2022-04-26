@@ -9,6 +9,8 @@ status: live
 
 ## {{ page.institution }}
 
+{% include browser-frame.html country="tz" %}
+
 #### Description 
 
 The Tanzania National Biodiversity Data Portal is still on process of installation

@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![The Vermont Atlas of Life (VAL) - Vermont Center for Ecostudies](../assets/img/participants/vermont-center.png)](https://val.vtecostudies.org/)
+{% include browser-frame.html country="vt" %}
 
 #### Description 
 The Vermont Atlas of Life (VAL) at the Vermont Center for Ecostudies is helping to discover and share knowledge on Vermont’s animals, plants, and fungi. Using the Living Atlas platform, the VAL Data Explorer allows users to view millions of biodiversity records found in the State of Vermont. Accessing an ever-growing statewide biodiversity database, the VAL Data Explorer combines Vermont biodiversity data from multiple sources, and provides access to species information, data downloads, online mapping and analysis tools, data collection, upload, aggregation and sharing, and more. 

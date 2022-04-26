@@ -9,12 +9,14 @@ status: live
 
 ## {{ page.institution }}
 
-[![Elurikkus](../assets/img/participants/Elurikkus.png)](https://elurikkus.ee)
+{% include browser-frame.html country="ee" %}
 
 #### Description 
+
 Add description
 
 #### Resources
+
 - Code: ?
 - End-user documentation: ?
 - Documentation: ?

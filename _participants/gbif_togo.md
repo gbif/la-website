@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![GBIF Togo](../assets/img/participants/gbif_togo.png)](http://portail.togo.gbif.fr/)
+{% include browser-frame.html country="tg" %}
 
 #### Description 
 The GBIF Togo portal is still on process of installation

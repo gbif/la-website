@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![Atlas of Living Costa Rica - CRBio](../assets/img/participants/atlas_living_costa_rica.png)](http://www.crbio.cr/)
+{% include browser-frame.html country="cr" %}
 
 #### Description 
 The [Atlas of Living Costa Rica](http://www.crbio.cr/) was launched in 2006 aiming at providing integrated, free, and open access to data and information about the Costa Rican biodiversity in order to support science, education, and biodiversity conservation. In 2016, it was rebuild with software components developed by the Atlas of Living Australia (ALA). The Atlas is managed by the **Biodiversity Informatics Research Center (CRBio)** and the **National Biodiversity Institute (INBio)**.

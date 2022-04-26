@@ -9,9 +9,10 @@ status: live
 
 ## {{ page.institution }}
 
-[![GBIF Portugal](../assets/img/participants/gbif_portugal.png)](http://dados.gbif.pt/)
+{% include browser-frame.html country="pt" %}
 
 #### Description 
+
 The first contact of GBIF Portugal with Atlas of Living Australia happened in the scope of the activities of the GBIF CESP mentoring project [France-Portugal-Spain](https://www.gbif.pt/node/187), in 2014. The platform raised the interest of GBIF Portugal, that had not a national data portal implemented. Since that time, Portugal has participated in several workshops with hands-on sessions, the first one in Paris, in 2015 (as a co-located event of the European Nodes Meeting). After a second hands-on workshop in Madrid, in the beginning of 2016, it was possible to launch the production portal in 19th October 2016, with the support of Santiago Martinez de la Riva (GBIF Spain) and David Martin (ALA). To know more, check the [report of GBIF Portugal 2016](http://www.gbif.pt/node/385).
 
 The platform was implemented on a cloud service provided by [INCD - National Distributed Computing Infrastructure](https://www.incd.pt/). INCD is a research Infrastructure created to provide digital services and support to the other infrastructures of the [Portuguese Roadmap of Research Infrastructures](https://www.fct.pt/apoios/equipamento/roteiro/index.phtml.en). One of these infrastructures is the Portuguese E-Infrastructure for Information and Research on Biodiversity (PORBIOTA), of which GBIF Portugal is a member. This framework enables the access to GBIF Portugal to the resources of the grid computing community in Portugal.

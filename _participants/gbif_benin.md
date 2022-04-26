@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![GBIF Benin](../assets/img/participants/gbif_benin.png)](http://portail.gbifbenin.org/)
+{% include browser-frame.html country="bj" %}
 
 #### Description 
 

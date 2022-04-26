@@ -9,9 +9,10 @@ status: live
 
 ## {{ page.institution }}
 
-[![SiBBr - Sistemas de Informações sobre a Biodiversidade Brasileira](../assets/img/participants/sibbr.png)](https://www.sibbr.gov.br/)
+{% include browser-frame.html country="br" %}
 
 #### Description 
+
 Add description
 
 #### Resources

@@ -9,11 +9,10 @@ status: live
 
 ## {{ page.institution }}
 
-[![SNIBgt - Sistema Nacional de Información sobre Diversidad Biológica de Guatemala](../assets/img/participants/conap.png)](https://snib.conap.gob.gt/)
-[![SNIBgt - Sistema Nacional de Información sobre Diversidad Biológica de Guatemala](../assets/img/participants/conap2.png)](https://snib.conap.gob.gt/)
-
+{% include browser-frame.html country="gt" %}
 
 #### Description 
+
 Network of networks of providers, publishers, and users of information on biological diversity in Guatemala. The information integrated within the SNIBgt is a public service that allows feeding the national and global network, and improving the mobilization and exchange of Information, with updated and reliable information that guides decision-making with scientific bases. The SNIBgt is administrated by the (Consejo Nacional de Áreas Protegidas –CONAP- of Guatemala Government)https://conap.gob.gt/]
 
 It is based on the following principles:

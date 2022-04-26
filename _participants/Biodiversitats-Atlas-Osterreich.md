@@ -9,7 +9,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![Biodiversitäts-Atlas Österreich](../assets/img/participants/Biodiversitats_atlas_osterreich.png)](https://biodiversityatlas.at/)
+{% include browser-frame.html country="at" %}
 
 #### Description 
 The Biodiversity Atlas Austria ("Biodiversitäts-Atlas Österreich") was launched in december 2019. The aim is to enable free access to information on Austria's biodiversity. The Atlas was implemented as part of a project funded by the State of Lower Austria and is managed by the Danube University Krems.

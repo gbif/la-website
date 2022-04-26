@@ -29,7 +29,7 @@ url: https://web-demo.l-a.site
 baseurl:
 twitter_username: livingatlases
 github_username:  jekyll
-repository: vjrj/la-website
+repository: living-atlases/la-website
 permalink: /:categories/:title/
 
 # Build settings

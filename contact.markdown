@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Contact
-permalink: /:title/ 
+permalink: /contact
 ---
 
-### {{ page.title }}
+## {{ page.title }}
 
 Our main meeting point is our slack channel at [https://atlaslivingaustralia.slack.com/](https://atlaslivingaustralia.slack.com/).
 

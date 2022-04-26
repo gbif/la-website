@@ -4,7 +4,7 @@ title: Management Committee
 permalink: /about/lamc
 ---
 
-<h4>About the Living Atlases Management Community</h4>
+<h4>About the Living Atlases Management Committe</h4>
 
 <p> The LAMC is responsible for the global management of the LA community. It establishes direction for the community with the help of both coordinators. Based on the Kilkenny accord, its responsibilities are:</p>
 

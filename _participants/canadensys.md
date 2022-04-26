@@ -1,8 +1,8 @@
 ---
 layout: participant
-institution: Canadensys Explorer
+institution: Canadensys
 country: Canada
-language: English
+language: English & French
 year: 2017
 status: live
 ---
@@ -12,6 +12,7 @@ status: live
 {% include browser-frame.html country="ca" %}
 
 #### Description 
+
 Since october 2017, Canadensys run its portal in production. The portal is offering these user modules:
 
 The portal has been developped by 1 programmer.

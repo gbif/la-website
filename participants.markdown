@@ -8,7 +8,7 @@ permalink: /about/participants
 {% assign psd = site.data.ala-summary-gdocs-sheet1 | where: "LA_web_status", "list"  | sort: 'Installation' %}
 {% assign psd2 = site.data.participant_development | sort: "institution" %}
 
-<h4>Participants with live data portals</h4>
+### Participants with live data portals
 
 <div class="table-responsive">
 	<table class="table table-bordered table-hover"> 
@@ -43,9 +43,7 @@ permalink: /about/participants
 	</table>
 </div>
 
-{%- include carousel-people.html -%}
-		
-<h4>Other participants and status of their data portals</h4>		
+### Other participants and status of their data portals
 
 <div class="table-responsive">
 	<table class="table table-bordered"> 
@@ -80,3 +78,9 @@ permalink: /about/participants
 		</tbody>
 	</table>
 </div>
+
+### The community in action
+
+<section>
+{%- include carousel-people.html -%}
+</section>

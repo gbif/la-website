@@ -17,8 +17,3 @@ On this website, you will find documentation and information about participants 
 You will also be able to see the community in action because we are a group of developers that love to work together and improve tools to facilitate a free and open access to biodiversity data.
 
 
-#### The community in action
-
-
-    
-

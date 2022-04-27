@@ -10,7 +10,7 @@
   <div class="carousel-inner">
     {% for photo in site.data.carousel-community %}
       <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
-        <img loading="lazy" src="/assets/img/community/{{ photo.image_name }}" alt="{{ photo.caption}}">
+        <img loading="lazy" class="carousel-lazy-image" src="/assets/img/community/{{ photo.image_name }}" alt="{{ photo.caption}}">
         <div class="carousel-caption">
           {{ photo.caption }}
         </div>

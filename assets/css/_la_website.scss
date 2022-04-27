@@ -314,6 +314,10 @@ ol.carousel-indicators li.active {
     background: $white;
   }
 
+.carousel-lazy-image {
+      background: url("/assets/img/loader.gif") center center no-repeat;
+  }
+
 // PAGE NEWS
 #container-news {
     background-color: $color-bg;

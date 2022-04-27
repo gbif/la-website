@@ -25,4 +25,4 @@ The NBN Trust employs two full-time developers, a project manager, a data manage
 
 
 
-For more information, you may contact Justin Dee on Slack.
+For more information, you may contact Helen M Jones on Slack.

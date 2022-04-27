@@ -34,19 +34,19 @@ Datasets are ingested to the platform after their download at GBIF.org. No datas
 
 #### Modules Available 
 
-| Name              | Link                                                                   | 
-| ------------------|------------------------------------------------------------------------|
-| Collectory		| [https://metadados.gbif.pt/](https://metadados.gbif.pt/)               |
-| Biocache          | [https://registos.gbif.pt/](https://registos.gbif.pt/)                 |
-| Biocache Service  | [https://registos-ws.gbif.pt/](https://registos-ws.gbif.pt/)           |
-| Species           | [https://especies.gbif.pt/](https://especies.gbif.pt/)                 |
-| Species list      | [https://listas.gbif.pt/](https://listas.gbif.pt/)                     |  
-| Regions           | [https://regioes.gbif.pt/](https://regioes.gbif.pt/)                   |
-| Images            | [https://imagens.gbif.pt/](https://imagens.gbif.pt/)                   |
-| Spatial           | [hhttps://espacial.gbif.pt/](https://espacial.gbif.pt/)                |
-| CAS               | [https://auth.gbif.pt/](https://auth.gbif.pt/)                         |
-| Logger            | [https://logger.gbif.pt/](https://logger.gbif.pt/)                     |
-| User details      | [https://auth.gbif.pt/userdetails/](https://auth.gbif.pt/userdetails/) |
+| Name             | Link                                                                   |
+|------------------|------------------------------------------------------------------------|
+| Collectory       | [https://metadados.gbif.pt/](https://metadados.gbif.pt/)               |
+| Biocache         | [https://registos.gbif.pt/](https://registos.gbif.pt/)                 |
+| Biocache Service | [https://registos-ws.gbif.pt/](https://registos-ws.gbif.pt/)           |
+| Species          | [https://especies.gbif.pt/](https://especies.gbif.pt/)                 |
+| Species list     | [https://listas.gbif.pt/](https://listas.gbif.pt/)                     |
+| Regions          | [https://regioes.gbif.pt/](https://regioes.gbif.pt/)                   |
+| Images           | [https://imagens.gbif.pt/](https://imagens.gbif.pt/)                   |
+| Spatial          | [hhttps://espacial.gbif.pt/](https://espacial.gbif.pt/)                |
+| CAS              | [https://auth.gbif.pt/](https://auth.gbif.pt/)                         |
+| Logger           | [https://logger.gbif.pt/](https://logger.gbif.pt/)                     |
+| User details     | [https://auth.gbif.pt/userdetails/](https://auth.gbif.pt/userdetails/) |
 
 
 For more information, you may contact Rui Figueira on Slack.

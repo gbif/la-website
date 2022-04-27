@@ -28,4 +28,4 @@ The Tanzania National Biodiversity Data Portal is still on process of installati
 | ------------------|----------------------------------------------------------------------------|
 
 
-For more information, you may contact ? on Slack.
+For more information, you may contact Meshack Victor or Finian Mwalongo  on Slack.

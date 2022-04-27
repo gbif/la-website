@@ -33,22 +33,22 @@ The NBN Atlas uses the [UK Species Inventory](http://www.nhm.ac.uk/our-science/d
 
 #### Modules Available 
 
-| Name              | Link                                                                             | 
-| ------------------|----------------------------------------------------------------------------------|
-| Collectory		| [https://registry.nbnatlas.org/](https://registry.nbnatlas.org/)                 |
-| Biocache          | [https://records.nbnatlas.org/](https://records.nbnatlas.org/)                   |
-| Biocache Service  | [https://records-ws.nbnatlas.org/](https://records-ws.nbnatlas.org/)             |
-| Species           | [https://species.nbnatlas.org/](https://species.nbnatlas.org/)   |
-| Species service   | [https://species-ws.nbnatlas.org/](https://species-ws.nbnatlas.org/)             | 
-| Species list      | [https://lists.nbnatlas.org/](https://lists.nbnatlas.org/)                       |  
-| Regions           | [https://regions.nbnatlas.org/](https://regions.nbnatlas.org/)                   |
-| Images            | [https://images.nbnatlas.org/](https://images.nbnatlas.org/)                     |
-| Spatial           | [https://spatial.nbnatlas.org/](https://spatial.nbnatlas.org/)                   |
-| CAS               | [https://auth.nbnatlas.org/cas/](https://auth.nbnatlas.org/cas/)                 |
-| Alerts            | [https://alerts.nbnatlas.org/](https://alerts.nbnatlas.org/)                     |
-| Logger            | [https://logger.nbnatlas.org/](https://logger.nbnatlas.org/)                     |
-| User details      | [https://auth.nbnatlas.org/userdetails/](https://auth.nbnatlas.org/userdetails/) |
+| Name             | Link                                                                             |
+|------------------|----------------------------------------------------------------------------------|
+| Collectory       | [https://registry.nbnatlas.org/](https://registry.nbnatlas.org/)                 |
+| Biocache         | [https://records.nbnatlas.org/](https://records.nbnatlas.org/)                   |
+| Biocache Service | [https://records-ws.nbnatlas.org/](https://records-ws.nbnatlas.org/)             |
+| Species          | [https://species.nbnatlas.org/](https://species.nbnatlas.org/)                   |
+| Species service  | [https://species-ws.nbnatlas.org/](https://species-ws.nbnatlas.org/)             |
+| Species list     | [https://lists.nbnatlas.org/](https://lists.nbnatlas.org/)                       |
+| Regions          | [https://regions.nbnatlas.org/](https://regions.nbnatlas.org/)                   |
+| Images           | [https://images.nbnatlas.org/](https://images.nbnatlas.org/)                     |
+| Spatial          | [https://spatial.nbnatlas.org/](https://spatial.nbnatlas.org/)                   |
+| CAS              | [https://auth.nbnatlas.org/cas/](https://auth.nbnatlas.org/cas/)                 |
+| Alerts           | [https://alerts.nbnatlas.org/](https://alerts.nbnatlas.org/)                     |
+| Logger           | [https://logger.nbnatlas.org/](https://logger.nbnatlas.org/)                     |
+| User details     | [https://auth.nbnatlas.org/userdetails/](https://auth.nbnatlas.org/userdetails/) |
 
 
 
-For more information, you may contact Justin Dee on Slack.
+For more information, you may contact Helen M Jones on Slack.

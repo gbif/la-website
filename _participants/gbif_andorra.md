@@ -26,11 +26,11 @@ Link to the data portal: [http://www.gbif.ad/]([http://www.gbif.ad/)
 
 #### Modules Available 
 
-| Name             | Link                                                                         |
-|------------------|------------------------------------------------------------------------------|
-| Collectory       | [http://www.gbif.ad/collectory/](http://www.gbif.ad/collectory/)             |
-| Biocache         | [http://www.gbif.ad/generic-hub](http://www.gbif.ad/generic-hub)             |
-| Biocache Service | [http://www.gbif.ad/biocache-service/](http://www.gbif.ad/biocache-service/) |
+| Name             | Link                                                         |
+|------------------|--------------------------------------------------------------|
+| Collectory       | [https://collections.gbif.ad/](https://collections.gbif.ad/) |
+| Biocache         | [https://records.gbif.ad/](https://records.gbif.ad)          |
+| Biocache Service | [https://records-ws.gbif.ad/](https://records-ws.gbif.ad/)   |
 
 For more information, you may contact Benjamin Komac on Slack.
 

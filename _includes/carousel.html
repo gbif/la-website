@@ -20,13 +20,13 @@
                 <div class="row">
                   <div class="col d-none d-sm-block">
                     {% if participant.home_image_title %}
-                      <img class="img-fluid d-block w-100 img-first" src="/assets/img/participants/{{participant.home_image}}" data-toggle="tooltip" data-placement="bottom" data-html="true" title="<em>{{participant.home_image_title}}</em><br>{{participant.home_image_desc}}" alt="{{paticipant.name}}">
+                      <img loading="lazy" class="img-fluid d-block w-100 img-first carousel-lazy-image" src="/assets/img/participants/{{participant.home_image}}" data-toggle="tooltip" data-placement="bottom" data-html="true" title="<em>{{participant.home_image_title}}</em><br>{{participant.home_image_desc}}" alt="{{paticipant.name}}">
                     {% else %}
-                    <img class="img-fluid d-block w-100 img-first" src="/assets/img/participants/{{participant.home_image}}" alt="{{paticipant.name}}">
+                      <img loading="lazy" class="img-fluid d-block w-100 img-first carousel-lazy-image" src="/assets/img/participants/{{participant.home_image}}" alt="{{paticipant.name}}">
                     {% endif %}
                   </div>
                   <div class="col">
-                    <img class="img-fluid d-block w-100" src="/assets/img/participants/{{participant.country}}.png" alt="{{paticipant.name}}">
+                    <img loading="lazy" class="img-fluid d-block w-100 carousel-lazy-image" src="/assets/img/participants/{{participant.country}}.png" alt="{{paticipant.name}}">
                   </div>
                 </div>
               </div>

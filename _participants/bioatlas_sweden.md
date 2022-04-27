@@ -25,20 +25,20 @@ status: live
 
 #### Modules Available 
 
-| Name              | Link                                                                         | 
-| ------------------|------------------------------------------------------------------------------|
-| Collectory		| [https://collections.bioatlas.se/](https://collections.bioatlas.se/)         |
-| Biocache          | [https://records.bioatlas.se/](https://records.bioatlas.se/)                 |
-| Biocache Service  | [https://records.bioatlas.se/ws/](https://records.bioatlas.se/ws/)           |
-| Species           | [https://species.bioatlas.se/](https://species.bioatlas.se/)                 |
-| Species service   | [https://species.bioatlas.se/ws/](https://species.bioatlas.se/ws/)           | 
-| Species list      | [https://lists.bioatlas.se/](https://lists.bioatlas.se/)                     |  
-| Regions           | [https://regions.bioatlas.se/](https://regions.bioatlas.se/)                 |
-| Images            | [https://images.bioatlas.se/](https://images.bioatlas.se/)                   |
-| Spatial           | [https://spatial.bioatlas.se/](https://spatial.bioatlas.se/)                 |
-| CAS               | [https://auth.bioatlas.se/cas](https://auth.bioatlas.se/cas)                 |
-| Logger            | [https://logger.bioatlas.se/](https://logger.bioatlas.se/)                   |
-| User details      | [https://auth.bioatlas.se/userdetails](https://auth.bioatlas.se/userdetails) |
+| Name             | Link                                                                         |
+|------------------|------------------------------------------------------------------------------|
+| Collectory       | [https://collections.bioatlas.se/](https://collections.bioatlas.se/)         |
+| Biocache         | [https://records.bioatlas.se/](https://records.bioatlas.se/)                 |
+| Biocache Service | [https://records.bioatlas.se/ws/](https://records.bioatlas.se/ws/)           |
+| Species          | [https://species.bioatlas.se/](https://species.bioatlas.se/)                 |
+| Species service  | [https://species.bioatlas.se/ws/](https://species.bioatlas.se/ws/)           |
+| Species list     | [https://lists.bioatlas.se/](https://lists.bioatlas.se/)                     |
+| Regions          | [https://regions.bioatlas.se/](https://regions.bioatlas.se/)                 |
+| Images           | [https://images.bioatlas.se/](https://images.bioatlas.se/)                   |
+| Spatial          | [https://spatial.bioatlas.se/](https://spatial.bioatlas.se/)                 |
+| CAS              | [https://auth.bioatlas.se/cas](https://auth.bioatlas.se/cas)                 |
+| Logger           | [https://logger.bioatlas.se/](https://logger.bioatlas.se/)                   |
+| User details     | [https://auth.bioatlas.se/userdetails](https://auth.bioatlas.se/userdetails) |
 
 
 

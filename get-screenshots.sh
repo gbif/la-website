@@ -2,6 +2,7 @@
 #chromium --run-all-compositor-stages-before-draw --headless --screenshot="au.png" --hide-scrollbars --window-size=1800,1200 "https://ala.org.au"
 #chromium --virtual-time-budget=5000 --run-all-compositor-stages-before-draw --headless --screenshot="se.png" --hide-scrollbars --window-size=1800,1200 "https://biodiversitydata.se/"
 for i in \
+https://nbnatlas.org%uk \
 https://tanbif.costech.or.tz%tz \
 https://ala.org.au%au \
 http://crbio.cr%cr \
@@ -13,10 +14,9 @@ https://gbif.ad%ad \
 http://datos.sndb.mincyt.gob.ar%ar \
 http://portail.gbif.fr%fr \
 https://dados.gbif.pt%pt \
-https://gbif.es%es \
+https://datos.gbif.es%es \
 https://www.sibbr.gov.br%br \
 https://snib.conap.gob.gt%gt \
-https://nbnatlas.org%uk \
 http://portail.gbifbenin.org%bj \
 http://portail.togo.gbif.fr/%tg \
 https://openobs.mnhn.fr%fr2 \
@@ -38,7 +38,6 @@ do
    # rmdir $f
 
 
-   # https://github.com/sindresorhus/pageres-cl"
-   pageres $var1 2000x1600 --filename="assets/img/participants/$var2" --delay=5 --overwrite --crop --hide "#cookie-notice-container"
-	 break
+   # https://github.com/sindresorhus/pageres"
+   pageres "$var1?lang=en" 2000x1600 --filename="assets/img/participants/$var2" --delay=5 --overwrite --crop --hide "#cookie-notice-container"
 done

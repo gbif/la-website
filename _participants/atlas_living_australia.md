@@ -34,28 +34,28 @@ Links to the data portals and available data hubs:
 
 #### Modules Available 
 
-| Name              | Link                                                                       | 
-| ------------------|----------------------------------------------------------------------------|
-| Collectory		| [https://collections.ala.org.au/](https://collections.ala.org.au/)         |
-| Biocache          | [https://biocache.ala.org.au/](https://biocache.ala.org.au/ )              |
-| Biocache Service  | [https://biocache.ala.org.au/ws](https://biocache.ala.org.au/ws )          |
-| Species           | [https://bie.ala.org.au/](https://bie.ala.org.au/)                         |
-| Species service   | [https://bie.ala.org.au/ws](https://bie.ala.org.au/ws)                     | 
-| Species list      | [https://lists.ala.org.au/](https://lists.ala.org.au/)                     |  
-| Regions           | [https://regions.ala.org.au/](https://regions.ala.org.au/)                 |
-| Images            | [https://images.ala.org.au/](https://images.ala.org.au/)                   |
-| Spatial           | [https://spatial.ala.org.au/](https://spatial.ala.org.au/)                 |
-| CAS               | [https://auth.ala.org.au/cas/](https://auth.ala.org.au/cas/)               |
-| Sightings         | [https://sightings.ala.org.au/](https://sightings.ala.org.au/)             |
-| Alerts            | [https://alerts.ala.org.au/](https://alerts.ala.org.au/)                   |
-| Volunteers        | [https://volunteer.ala.org.au/](https://volunteer.ala.org.au/)             |
-| Logger            | [https://logger.ala.org.au/](https://logger.ala.org.au/)                   |
-| Sandbox           | [https://sandbox.ala.org.au/](https://sandbox.ala.org.au/)                 |
-| Dashboard         | [https://dashboard.ala.org.au/](https://dashboard.ala.org.au/)             |
-| User details      | [https://auth.ala.org.au/userdetails](https://auth.ala.org.au/userdetails) |
-| Biocollect        | [https://www.ala.org.au/biocollect/](https://www.ala.org.au/biocollect/)   |
-| Phylolink         | [https://phylolink.ala.org.au/](https://phylolink.ala.org.au/)             |
-| DOI               | [https://doi.ala.org.au/](https://doi.ala.org.au/)                         |
+| Name             | Link                                                                       |
+|------------------|----------------------------------------------------------------------------|
+| Collectory       | [https://collections.ala.org.au/](https://collections.ala.org.au/)         |
+| Biocache         | [https://biocache.ala.org.au/](https://biocache.ala.org.au/ )              |
+| Biocache Service | [https://biocache.ala.org.au/ws](https://biocache.ala.org.au/ws )          |
+| Species          | [https://bie.ala.org.au/](https://bie.ala.org.au/)                         |
+| Species service  | [https://bie.ala.org.au/ws](https://bie.ala.org.au/ws)                     |
+| Species list     | [https://lists.ala.org.au/](https://lists.ala.org.au/)                     |
+| Regions          | [https://regions.ala.org.au/](https://regions.ala.org.au/)                 |
+| Images           | [https://images.ala.org.au/](https://images.ala.org.au/)                   |
+| Spatial          | [https://spatial.ala.org.au/](https://spatial.ala.org.au/)                 |
+| CAS              | [https://auth.ala.org.au/cas/](https://auth.ala.org.au/cas/)               |
+| Sightings        | [https://sightings.ala.org.au/](https://sightings.ala.org.au/)             |
+| Alerts           | [https://alerts.ala.org.au/](https://alerts.ala.org.au/)                   |
+| Volunteers       | [https://volunteer.ala.org.au/](https://volunteer.ala.org.au/)             |
+| Logger           | [https://logger.ala.org.au/](https://logger.ala.org.au/)                   |
+| Sandbox          | [https://sandbox.ala.org.au/](https://sandbox.ala.org.au/)                 |
+| Dashboard        | [https://dashboard.ala.org.au/](https://dashboard.ala.org.au/)             |
+| User details     | [https://auth.ala.org.au/userdetails](https://auth.ala.org.au/userdetails) |
+| Biocollect       | [https://www.ala.org.au/biocollect/](https://www.ala.org.au/biocollect/)   |
+| Phylolink        | [https://phylolink.ala.org.au/](https://phylolink.ala.org.au/)             |
+| DOI              | [https://doi.ala.org.au/](https://doi.ala.org.au/)                         |
 
 
 For more information, you may contact Dave Martin or Nick Dos Remedios on Slack.

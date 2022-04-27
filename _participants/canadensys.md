@@ -32,16 +32,16 @@ Link to the data portal: [https://data.canadensys.net/explorer/](https://data.ca
 
 #### Modules Available 
 
-| Name              | Link                                                                               | 
-| ------------------|------------------------------------------------------------------------------------|
-| Collectory		| [http://collections.canadensys.net/](http://collections.canadensys.net/)           |
-| Biocache          | [http://explorer.canadensys.net/](http://explorer.canadensys.net/)                 |
-| Biocache Service  | [http://explorer-ws.canadensys.net/](http://explorer-ws.canadensys.net/)           |
-| Images            | [http://images.canadensys.net/](http://images.canadensys.net/)                     |
-| CAS               | [http://auth.canadensys.net/](http://auth.canadensys.net/)                         |
-| Alerts            | [http://data.canadensys.net/alerts](http://data.canadensys.net/alerts)             |
-| Logger            | [http://logger.canadensys.net/](http://logger.canadensys.net/)                     |
-| User details      | [https://auth.canadensys.net/userdetails](https://auth.canadensys.net/userdetails) |
+| Name             | Link                                                                               |
+|------------------|------------------------------------------------------------------------------------|
+| Collectory       | [http://collections.canadensys.net/](http://collections.canadensys.net/)           |
+| Biocache         | [http://explorer.canadensys.net/](http://explorer.canadensys.net/)                 |
+| Biocache Service | [http://explorer-ws.canadensys.net/](http://explorer-ws.canadensys.net/)           |
+| Images           | [http://images.canadensys.net/](http://images.canadensys.net/)                     |
+| CAS              | [http://auth.canadensys.net/](http://auth.canadensys.net/)                         |
+| Alerts           | [http://data.canadensys.net/alerts](http://data.canadensys.net/alerts)             |
+| Logger           | [http://logger.canadensys.net/](http://logger.canadensys.net/)                     |
+| User details     | [https://auth.canadensys.net/userdetails](https://auth.canadensys.net/userdetails) |
 
 
 For more information, you may contact Carole Sinou on Slack.

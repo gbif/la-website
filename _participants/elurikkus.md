@@ -24,15 +24,15 @@ Add description
 
 #### Modules Available 
 
-| Name              | Link                                                                              | 
-| ------------------|-----------------------------------------------------------------------------------|
-| Collectory		| [https://elurikkus.ee/collectory/](https://elurikkus.ee/collectory/)              |
-| Biocache          | [https://elurikkus.ee/generic-hub/](https://elurikkus.ee/generic-hub/)            |
-| Biocache Service  | [https://elurikkus.ee/biocache-service/)](https://elurikkus.ee/biocache-service/) |
-| Species           | [https://elurikkus.ee/bie-hub/](https://elurikkus.ee/bie-hub/)                    |
-| Species service   | [https://elurikkus.ee/bie-index/](https://elurikkus.ee/bie-index/)                | 
-| Species list      | [https://elurikkus.ee/lists/](https://elurikkus.ee/lists/)                        |  
-| Regions           | [https://elurikkus.ee/regions/](https://elurikkus.ee/regions/)                    |
+| Name             | Link                                                                             |
+|------------------|----------------------------------------------------------------------------------|
+| Collectory       | [https://elurikkus.ee/collectory/](https://elurikkus.ee/collectory/)             |
+| Biocache         | [https://elurikkus.ee/generic-hub/](https://elurikkus.ee/generic-hub/)           |
+| Biocache Service | [https://elurikkus.ee/biocache-service/](https://elurikkus.ee/biocache-service/) |
+| Species          | [https://elurikkus.ee/bie-hub/](https://elurikkus.ee/bie-hub/)                   |
+| Species service  | [https://elurikkus.ee/bie-index/](https://elurikkus.ee/bie-index/)               |
+| Species list     | [https://elurikkus.ee/lists/](https://elurikkus.ee/lists/)                       |
+| Regions          | [https://elurikkus.ee/regions/](https://elurikkus.ee/regions/)                   |
 
 
 

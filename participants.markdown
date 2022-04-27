@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Participants
-permalink: /participants
+permalink: /about-participants
 ---
 {% assign ps = site.participants | sort: 'institution' %}
 {% assign ps3 = site.data.ala-summary-gdocs-sheet1 | where: "LA_web_status", "highlight" | sort: 'Installation' %}

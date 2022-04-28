@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coordinators
-permalink: /coordinators
+permalink: /about/coordinators/
 ---
 
 <h4>Coordinator roles and duties</h4>

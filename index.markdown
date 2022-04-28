@@ -32,7 +32,7 @@ layout: home
         <div class="card-body pb-5 px-4">
           <h5 class="card-title">Participants</h5>
           <p class="card-text">We are a worldwide community of Living Atlases biodiversity portals.</p>
-          <a href="{{ "/about-participants" | relative_url }}" class="btn btn-info">Read more</a>
+          <a href="{{ "/about/participants" | relative_url }}" class="btn btn-info">Read more</a>
         </div>
       </div>
     </div>
@@ -47,7 +47,7 @@ layout: home
         <div class="card-body pb-5 px-4">
           <h5 class="card-title">LA Management Committee</h5>
           <p class="card-text">The LAMC is responsible for the global management of the LA community.</p>
-          <a href="{{ "/lamc" | relative_url }}" class="btn btn-warning">Read more</a>
+          <a href="{{ "/about/lamc" | relative_url }}" class="btn btn-warning">Read more</a>
         </div>
       </div>
     </div>

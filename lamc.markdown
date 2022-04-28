@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Management Committee
-permalink: /lamc
+permalink: /about/lamc/
 ---
 
 <h4>About the Living Atlases Management Committe</h4>

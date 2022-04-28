@@ -19,11 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Living Atlases Community
-email: melecoq@vertnet.org
+email: ala-portal@lists.gbif.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The open community around the Atlas of Living Australia platform.
+  As GBIF nodes, one of our goals is to highlight our publishers and their data.
+  To achieve this, the Atlas of Living Australia (ALA) developed a huge open
+  source platform with several modules re-usable by other organizations.
+  Since 2013, the community around this tool has organized technical workshops
+  to present ALA modules to other institutions that wanted to implement it,
+  to improve already existing national data portals and to learn from each other’s
+  achievements.
 # the base hostname & protocol for your site, e.g. http://example.com
 #url: https://web-demo.l-a.site
 baseurl:

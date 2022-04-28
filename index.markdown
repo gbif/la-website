@@ -32,7 +32,7 @@ layout: home
         <div class="card-body pb-5 px-4">
           <h5 class="card-title">Participants</h5>
           <p class="card-text">We are a worldwide community of Living Atlases biodiversity portals.</p>
-          <a href="{{ "/about/participants" | relative_url }}" class="btn btn-info">Read more</a>
+          <a href="{{ "/participants" | relative_url }}" class="btn btn-info">Read more</a>
         </div>
       </div>
     </div>

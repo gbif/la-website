@@ -7,7 +7,7 @@ $(document).ready(function() {
     // img.attr('src', img.data('lazy-load-src'));
     img.removeAttr('loading');
     // console.log(img.data('lazy-load-src'));
-    console.log(img.attr('src'));
+    // console.log(img.attr('src'));
     // console.log(img);
   }
 

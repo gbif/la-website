@@ -2,6 +2,7 @@
 #chromium --run-all-compositor-stages-before-draw --headless --screenshot="au.png" --hide-scrollbars --window-size=1800,1200 "https://ala.org.au"
 #chromium --virtual-time-budget=5000 --run-all-compositor-stages-before-draw --headless --screenshot="se.png" --hide-scrollbars --window-size=1800,1200 "https://biodiversitydata.se/"
 for i in \
+https://val.vtecostudies.org/data-explorer%vt \
 https://nbnatlas.org%uk \
 https://tanbif.costech.or.tz%tz \
 https://ala.org.au%au \
@@ -19,8 +20,7 @@ https://www.sibbr.gov.br%br \
 https://snib.conap.gob.gt%gt \
 http://portail.gbifbenin.org%bj \
 http://portail.togo.gbif.fr/%tg \
-https://openobs.mnhn.fr%fr2 \
-https://vtatlasoflife.org%vt
+https://openobs.mnhn.fr%fr2
 do
    IFS=% read var1 var2 <<< $i
    #chromium --run-all-compositor-stages-before-draw --virtual-time-budget=5000 --headless --screenshot="assets/img/participants/$var2.png" --hide-scrollbars --window-size=1800,1200 --disable-translate --disable-gpu "$var1"
@@ -40,4 +40,9 @@ do
 
    # https://github.com/sindresorhus/pageres"
    pageres "$var1?lang=en" 2000x1600 --filename="assets/img/participants/$var2" --delay=5 --overwrite --crop --hide "#cookie-notice-container"
+
+   # https://github.com/sindresorhus/capture-website-cli
+   # capture-website "$var1?lang=en" --output "assets/img/participants/$var2.png" --delay=5 --width=2000 --height=1600 --hide-elements="#cookie-notice-container" --overwrite
+
+   # break
 done

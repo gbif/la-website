@@ -34,8 +34,8 @@ Those interested in the latest activities within the community can learn more fr
 
 #### How to search and download biodiversity data in an Atlas
 
-[![Tutorial video: how to search and download biodiversity data in an Atlas](http://img.youtube.com/vi/pEUp1B1pRxw/0.jpg)](http://www.youtube.com/watch?v=pEUp1B1pRxw "Tutorial video: how to search and download biodiversity data in an Atlas")
+[![Tutorial video: how to search and download biodiversity data in an Atlas](https://img.youtube.com/vi/pEUp1B1pRxw/0.jpg)](https://www.youtube.com/watch?v=pEUp1B1pRxw "Tutorial video: how to search and download biodiversity data in an Atlas")
 
 #### How to use regions/spatial module in an Atlas
 
-[![Tutorial video: How to use regions/spatial module in an Atlas](http://img.youtube.com/vi/Uo64PUNuxXs/0.jpg)](http://www.youtube.com/watch?v=Uo64PUNuxXs "Tutorial video: How to use regions/spatial module in an Atlas")
+[![Tutorial video: How to use regions/spatial module in an Atlas](https://img.youtube.com/vi/Uo64PUNuxXs/0.jpg)](https://www.youtube.com/watch?v=Uo64PUNuxXs "Tutorial video: How to use regions/spatial module in an Atlas")

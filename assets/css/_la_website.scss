@@ -269,37 +269,41 @@ ol.carousel-indicators li.active {
 .carousel-control-prev, .carousel-control-next {
     width: 34px;
     background: none;
-    // margin: auto 0;
     align-self: flex-end;
-    background-color: grey;
+    color: $green-200;
+    font-size: 60px;
 }
 
 .carousel-control-prev i, .carousel-control-next i {
     font-size: 46px;
-    color: $caption-bg;
     position: absolute;
     bottom: 10%;
     display: inline-block;
-    align-self: flex-end;
-    // margin: -19px 0 0 0;
     z-index: 5;
-    left: 0;
-    right: 0;
-    // color: rgba(0, 0, 0, 0.8);
-    text-shadow: none;
-    font-weight: bold;
 }
 
-.carousel-control-prev i {
-    margin-left: -3px;
+.carousel-control-prev > i {
+    margin-left: 20px;
 }
 
-.carousel-control-next i {
-    margin-right: -3px;
+@include media-breakpoint-down(sm) {
+    .carousel-control-prev i, .carousel-control-next i {
+        display: none;
+    }
+}
+
+.carousel-control-next > i {
+    margin-right: 20px;
 }
 
 .carousel-indicators {
     bottom: 130px !important;
+}
+
+@include media-breakpoint-down(sm) {
+    .carousel-indicators {
+        display: none;
+    }
 }
 
 .carousel-indicators li, .carousel-indicators li {

@@ -1,6 +1,6 @@
 ---
 layout: participant
-institution: BioAtlas Sweden
+institution: Swedish Biodiversity Data Infrastructure
 country: Sweden
 language: English
 year: 2016
@@ -11,35 +11,46 @@ status: live
 
 {% include browser-frame.html country="se" %}
 
-#### Description 
-[BioAtlas Sweden Data Portal](https://bioatlas.se/) is a multi-container Docker application based on ALA components deployed together as Docker services. Each of the ALA modules/components and their necessary backend components (database, search index, webserver, proxy ) run in individual docker containers. Named volumes are used for persisting data generated and used by the docker containers.
+#### Description
+[SBDI BioAtlas](https://biodiversitydata.se/) is an open-source e-infrastructure with microservices-based architecture. The infrastructure makes biodiversity data available, provide powerful analysis and visualization tools offering new opportunities for innovative and interdisciplinary research on biodiversity and ecosystems. The core mission of SBDI is to support Open Science and the FAIR (Findable, Accessible, Interoperable, Reusable) principles in biodiversity and ecosystems research. The infrastructure is financed by the Swedish Research Council and the SBDI consortium includes 11 universities and government agencies in Sweden and the Swedish node of the Global Biodiversity Information Facility (GBIF).
+
+The e-infrastructure comprises primarily of a set of ALA components deployed as docker services on a cluster of host machines running on OpenStack cloud infrastructure. The ALA modules/components and their necessary back-end components (database, search index, webserver, proxy ) run as individual docker services with Docker swarm used as the container orchestration tool. Named volumes are used for persisting data generated and used by the docker containers.
 
 #### Resources
 
-- Code: [BioAtlas GitHub account](https://github.com/bioatlas/ala-docker)
-- Docker images: [ALA components packages](https://hub.docker.com/u/bioatlas/)
+- Code: [GitHub account](https://github.com/bioatlas/ https://github.com/biodiversitydata-se)
+- Docker images: [Docker images of components](https://hub.docker.com/u/bioatlas/)
 - Building and releasing components: [BioAtlas Travis CI](https://travis-ci.org/bioatlas/)
-- Documentation: [Usage instructions for deploying the system](https://bioatlas.github.io/)
-- End-User Documentation: [How to use the BioAtlas](https://bioatlas.se/how-to-use-the-bioatlas/)
-- Twitter Account: [@gbifsweden](https://twitter.com/gbifsweden)
+- End-User Documentation: [How to use the BioAtlas](https://docs.biodiversitydata.se/)
 
-#### Modules Available 
+#### Modules Available
 
-| Name             | Link                                                                         |
-|------------------|------------------------------------------------------------------------------|
-| Collectory       | [https://collections.bioatlas.se/](https://collections.bioatlas.se/)         |
-| Biocache         | [https://records.bioatlas.se/](https://records.bioatlas.se/)                 |
-| Biocache Service | [https://records.bioatlas.se/ws/](https://records.bioatlas.se/ws/)           |
-| Species          | [https://species.bioatlas.se/](https://species.bioatlas.se/)                 |
-| Species service  | [https://species.bioatlas.se/ws/](https://species.bioatlas.se/ws/)           |
-| Species list     | [https://lists.bioatlas.se/](https://lists.bioatlas.se/)                     |
-| Regions          | [https://regions.bioatlas.se/](https://regions.bioatlas.se/)                 |
-| Images           | [https://images.bioatlas.se/](https://images.bioatlas.se/)                   |
-| Spatial          | [https://spatial.bioatlas.se/](https://spatial.bioatlas.se/)                 |
-| CAS              | [https://auth.bioatlas.se/cas](https://auth.bioatlas.se/cas)                 |
-| Logger           | [https://logger.bioatlas.se/](https://logger.bioatlas.se/)                   |
-| User details     | [https://auth.bioatlas.se/userdetails](https://auth.bioatlas.se/userdetails) |
+| Name             | Link                                                                                         |
+|------------------|----------------------------------------------------------------------------------------------|
+| Collectory       | [https://collections.biodiversitydata.se/](https://collections.biodiversitydata.se/)         |
+| Biocache         | [https://records.biodiversitydata.se/](https://records.biodiversitydata.se/)                 |
+| Biocache Service | [https://records.biodiversitydata.se/ws/](https://records.biodiversitydata.se/ws/)           |
+| Species          | [https://species.biodiversitydata.se/](https://species.biodiversitydata.se/)                 |
+| Species service  | [https://species.biodiversitydata.se/ws/](https://species.biodiversitydata.se/ws/)           |
+| Species list     | [https://lists.biodiversitydata.se/](https://lists.biodiversitydata.se/)                     |
+| SDS              | [https://sds.biodiversitydata.se/](https://sds.biodiversitydata.se/)                         |
+| Images           | [https://images.biodiversitydata.se/](https://images.biodiversitydata.se/)                   |
+| Spatial Portal   | [https://spatial.biodiversitydata.se/](https://spatial.biodiversitydata.se/)                 |
+| Regions          | [https://regions.biodiversitydata.se/](https://regions.biodiversitydata.se/)                 |
+| Logger           | [https://logger.biodiversitydata.se/](https://logger.biodiversitydata.se/)                   |
+| Dashboard        | [https://dashboard.biodiversitydata.se/](https://dashboard.biodiversitydata.se/)             |
+| CAS              | [https://auth.biodiversitydata.se/cas](https://auth.biodiversitydata.se/cas)                 |
+| User details     | [https://auth.biodiversitydata.se/userdetails/](https://auth.biodiversitydata.se/userdetails/) |
+| Apikey           | [https://auth.biodiversitydata.se/apikey](https://auth.biodiversitydata.se/apikey)           |
+| Biocollect       | [https://biocollect.biodiversitydata.se/](https://biocollect.biodiversitydata.se/)           |
+| Ecodata          | [https://ecodata.biodiversitydata.se/](https://ecodata.biodiversitydata.se/)                 |
 
+In addition to the ALA modules, SBDI provides an integrated R server environment (Mirroreum), an interface to sequence-based observations (Swedish ASV portal) and a Citizen science portal (BioAtlas Citizen Science)
 
+| Name             | Link                                                                                         |
+|------------------|----------------------------------------------------------------------------------------------|
+|Mirroreum         |[https://mirroreum.biodiversitydata.se/][https://mirroreum.biodiversitydata.se/]              |
+|ASV Portal        |[https://asv-portal.biodiversitydata.se/][https://asv-portal.biodiversitydata.se/]            |
+|Citizen Science   |[https://ctzn.biodiversitydata.se/][https://ctzn.biodiversitydata.se/]                        |
 
-For more information, you may contact Manash Shah on Slack.
+For more information, please contact [SBDI support](https://docs.biodiversitydata.se/support/).

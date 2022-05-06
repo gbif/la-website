@@ -7,7 +7,7 @@ layout: home
   <!-- Block with a gradient transparent overlay -->
   <!-- https://images.ala.org.au/image/179b8bf5-6858-4798-8ab0-c6ef00e7393b -->
   <div class="overlay-dark bg-cover bg-center p-5" style="background: url(/assets/img/participants/au-5.jpg);background-size: cover; background-repeat: no-repeat;" data-toggle="tooltip" data-placement="right" data-html="true" title="<em>Myrmecobius fasciatus Waterhouse, 1836</em><br>© Owen Lishmund, CC-BY-3.0">
-    <div class="overlay-content text-white text-center p-5">
+    <div class="overlay-content text-white text-center p-md-5">
       <div class="container">
         <p class="lead demo-text mb-4">As GBIF nodes, one of our goals is to highlight our publishers and their data.</p>
         <p class="lead demo-text mb-4">To achieve this, the Atlas of Living Australia (ALA) developed <a href="https://github.com/AtlasOfLivingAustralia/" target="_blank">a huge open source platform</a> with several modules re-usable by other organizations.</p>
@@ -77,7 +77,7 @@ layout: home
 </section>
 <section>
   <!-- Block with a gradient transparent overlay -->
-  <div class="overlay-light bg-cover bg-center p-5" style="background: url(/assets/img/participants/au-5.jpg)">
+  <div class="overlay-light bg-cover bg-center p-5" style="background: url(/assets/img/participants/au-2.jpg)">
     <div class="overlay-content text-white text-center p-5">
       <div class="container">
         <p class="lead demo-text mb-4"></p>

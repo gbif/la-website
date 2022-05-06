@@ -49,8 +49,8 @@ In addition to the ALA modules, SBDI provides an integrated R server environment
 
 | Name             | Link                                                                                         |
 |------------------|----------------------------------------------------------------------------------------------|
-|Mirroreum         |[https://mirroreum.biodiversitydata.se/][https://mirroreum.biodiversitydata.se/]              |
-|ASV Portal        |[https://asv-portal.biodiversitydata.se/][https://asv-portal.biodiversitydata.se/]            |
-|Citizen Science   |[https://ctzn.biodiversitydata.se/][https://ctzn.biodiversitydata.se/]                        |
+|Mirroreum         |[https://mirroreum.biodiversitydata.se/](https://mirroreum.biodiversitydata.se/)              |
+|ASV Portal        |[https://asv-portal.biodiversitydata.se/](https://asv-portal.biodiversitydata.se/)            |
+|Citizen Science   |[https://ctzn.biodiversitydata.se/](https://ctzn.biodiversitydata.se/)                        |
 
 For more information, please contact [SBDI support](https://docs.biodiversitydata.se/support/).

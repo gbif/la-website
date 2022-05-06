@@ -121,9 +121,17 @@ h5{
 
 // HOME
 
-@media (min-width: 992px) {
+@include media-breakpoint-up(md) {
   .card-styles {
     margin-top: -40px; } }
+
+@include media-breakpoint-down(md) {
+    .card {
+        margin-top: 20px; }
+
+    #cards > div > div > div:nth-child(3)
+    { margin-bottom: 20px; }
+}
 
 #cards .card {
   border: none;

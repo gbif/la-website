@@ -12,3 +12,4 @@ You can use our mailing list [https://lists.gbif.org/pipermail/ala-portal/](http
 
 Also you can ask us for a slack invitation via a DM to our twitter [@livingatlases](https://twitter.com/livingatlases) account indicating to us your email.
 
+See also other contacts in our [participants](/participants) page.

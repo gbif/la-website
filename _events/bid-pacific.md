@@ -16,4 +16,4 @@ During the Pacific regional meeting around BID projects, Anne-Sophie Archambeau,
 #### Resources 
 
 ##### Presentation
-- Presentation: [Living Atlases community](../assets/presentation/BID/13-ALA-community.pdf) (PDF) by 	Anne-Sophie Archambeau (GBIF France), David Martin (Atlas of Living Australia), Marie-Elise Lecoq (GBIF France).
+- Presentation: [Living Atlases community](/assets/presentation/BID/13-ALA-community.pdf) (PDF) by 	Anne-Sophie Archambeau (GBIF France), David Martin (Atlas of Living Australia), Marie-Elise Lecoq (GBIF France).

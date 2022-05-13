@@ -4,6 +4,7 @@ institution: NBN Atlas
 country: UK
 language: English
 year: 2016
+support: support@nbnatlas.org
 status: live
 ---
 
@@ -14,10 +15,10 @@ status: live
 #### Description 
 
 The NBN Atlas is managed and developed by the [National Biodiversity Network (NBN)](http://nbn.org.uk/), a UK charity whose priority is to grow national commitment to sharing wildlife data and information. The NBN Atlas can be found here: [https://nbnatlas.org/](https://nbnatlas.org/) and it is the base for four country hubs: 
-- [NBN Atlas Isle of Man](../participants/nbnatlas-isle-man), 
-- [NBN Atlas Northern Ireland](../participants/nbnatlas-northern-ireland)
-- [NBN Atlas Scotland](../participants/nbnatlas-scotland) and 
-- [NBN Atlas Wales](../participants/nbnatlas-wales).
+- [NBN Atlas Isle of Man](/participants/nbnatlas-isle-man) 
+- [NBN Atlas Northern Ireland](/participants/nbnatlas-northern-ireland)
+- [NBN Atlas Scotland](/participants/nbnatlas-scotland) and 
+- [NBN Atlas Wales](/participants/nbnatlas-wales).
 
 The objectives of the NBN Atlas concern education, promotion of biodiversity and providing a trusted portal for UK biodiversity data.
 

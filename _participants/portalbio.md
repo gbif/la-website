@@ -4,12 +4,13 @@ institution: Biodiversity Portal (PortalBio)
 country: Brazil
 language: English & Portuguese
 year: 2014
+support: dados.biodiversidade@icmbio.gov.br
 status: live
 ---
 
 ## {{ page.institution }}
 
-[![PortalBio](../assets/img/participants/portalbio.png)](https://portaldabiodiversidade.icmbio.gov.br/portal/)
+[![PortalBio](/assets/img/participants/portalbio.png)](https://portaldabiodiversidade.icmbio.gov.br/portal/)
 
 #### Description 
 

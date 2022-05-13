@@ -28,12 +28,12 @@ CoopBioPlat was a Pilot Coordination Action, funded by ERANet-LAC of the Europea
 #### Resources 
 
 ##### Presentations
-- Presentation: [Atlas of Living Scotland: setup and deployment](../assets/presentation/workshop-coopbioplat/5-ALS-setup-deployment.pdf) (PDF)
-- Presentation: [Biodiversity platform of GBIF Spain based on ALA: current state](../assets/presentation/workshop-coopbioplat/5-CoopBioPlat-GBIF-SPAIN.pdf) (PDF)
+- Presentation: [Atlas of Living Scotland: setup and deployment](/assets/presentation/workshop-coopbioplat/5-ALS-setup-deployment.pdf) (PDF)
+- Presentation: [Biodiversity platform of GBIF Spain based on ALA: current state](/assets/presentation/workshop-coopbioplat/5-CoopBioPlat-GBIF-SPAIN.pdf) (PDF)
 - Presentation: CoopBioPlat: Brazil status
-- Presentation: [CoopBioPlat - Argentina Status](../assets/presentation/workshop-coopbioplat/5-CoopBioPlat-Argentina-Status.pdf) (PDF)
-- Presentation: [CoopBioPlat - Argentina Status](../assets/presentation/workshop-coopbioplat/5-CoopBioPlat_pt_report.pdf) (PDF)
-- Presentation: [Atlas of Living France (ALF)](../assets/presentation/workshop-coopbioplat/5-ALF.pdf) (PDF)
+- Presentation: [CoopBioPlat - Argentina Status](/assets/presentation/workshop-coopbioplat/5-CoopBioPlat-Argentina-Status.pdf) (PDF)
+- Presentation: [CoopBioPlat - Argentina Status](/assets/presentation/workshop-coopbioplat/5-CoopBioPlat_pt_report.pdf) (PDF)
+- Presentation: [Atlas of Living France (ALF)](/assets/presentation/workshop-coopbioplat/5-ALF.pdf) (PDF)
 
 ##### Resources 
 - YouTube Video: [CoopBioPlat - Madrid 2015](https://www.youtube.com/watch?v=molYVbldkwM&feature=youtu.be)

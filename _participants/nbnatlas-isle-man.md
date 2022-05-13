@@ -4,12 +4,13 @@ institution: NBN Atlas Isle of Man
 country: UK
 language: English
 year: 2018
+support: support@nbnatlas.org
 status: live
 ---
 
 ## {{ page.institution }}
 
-[![NBN Atlas Isle of Man](../assets/img/participants/nbnatlas-isle-man.png)](https://isleofman.nbnatlas.org/)
+[![NBN Atlas Isle of Man](/assets/img/participants/nbnatlas-isle-man.png)](https://isleofman.nbnatlas.org/)
 
 #### Description 
 The NBN Atlas Isle of Man can be found here: [https://isleofman.nbnatlas.org/](https://isleofman.nbnatlas.org/). It is a hub of the NBN Atlas and was launched in April 2018.

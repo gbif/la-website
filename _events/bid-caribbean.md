@@ -16,4 +16,4 @@ During the Caribbean regional meeting around BID projects, Marie-Elise Lecoq, GB
 #### Resources 
 
 ##### Presentation
-- Presentation: [Living Atlases community](../assets/presentation/BID/12-ALA-community.pdf) (PDF) by Marie-Elise Lecoq (GBIF France), David Martin (Atlas of Living Australia).
+- Presentation: [Living Atlases community](/assets/presentation/BID/12-ALA-community.pdf) (PDF) by Marie-Elise Lecoq (GBIF France), David Martin (Atlas of Living Australia).

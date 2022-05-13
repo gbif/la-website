@@ -38,9 +38,9 @@ Through this project, a series of workshops will be arranged in Canada alongside
 	- [List of tools and other documentation used during the workshops](https://community.canadensys.net/2019/data-cleaning-publication-reuse) 	
 	- [Canadensys 7-step guide to data publication](https://community.canadensys.net/publication/data-publication-guide)
 - Workshop pages:
-	- [Wolfville workshop - November 2018](../events/workshop-wolfville)
-	- [Vancouver workshop - November 2018](../events/workshop-vancouver)
-	- [Montreal workshop - November 2018](../events/workshop-montreal)
+	- [Wolfville workshop - November 2018](/events/workshop-wolfville)
+	- [Vancouver workshop - November 2018](/events/workshop-vancouver)
+	- [Montreal workshop - November 2018](/events/workshop-montreal)
 - [Mid-term Report](https://assets.ctfassets.net/uo17ejk9rkwj/7iKyCQ8ljnV8haxJOYOA3p/fece0ef529f3ae4458acc764740fe79f/CESP2018-005_Mid-term_activity_report_WEB.pdf)
 - [Final Report](https://assets.ctfassets.net/uo17ejk9rkwj/26Sb1IlfL1eTVChXWqURxw/ec0f8293b509e00dedf51cd1f29c9be1/CESP2018-005_final_report_WEB.pdf)
 - [GBIF.org description page](https://www.gbif.org/project/5PI7koI7h6UKuASqU6CeUo/workshops-on-usage-of-the-atlas-of-living-australia-ala-and-gbiforg-data-portals)

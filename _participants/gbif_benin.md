@@ -4,6 +4,7 @@ institution: GBIF Benin
 country: Benin
 language: French
 year: 2016
+support: dev@gbif.fr
 status: live
 ---
 

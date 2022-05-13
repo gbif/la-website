@@ -4,6 +4,7 @@ institution: GBIF Andorra
 country: Andorra
 language: Cartalan, Spanish, English & French
 year: 2010
+support: gbif@ari.ad
 status: live
 ---
 

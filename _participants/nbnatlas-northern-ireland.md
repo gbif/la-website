@@ -4,12 +4,13 @@ institution: NBN Atlas Northern Ireland
 country: UK
 language: English
 year: 2019
+support: support@nbnatlas.org
 status: live
 ---
 
 ## {{ page.institution }}
 
-[![NBN Atlas Northern Ireland](../assets/img/participants/nbnatlas-northern-ireland.png)](https://northernireland.nbnatlas.org/)
+[![NBN Atlas Northern Ireland](/assets/img/participants/nbnatlas-northern-ireland.png)](https://northernireland.nbnatlas.org/)
 
 #### Description 
 The NBN Atlas Northern Ireland can be found here: [https://northernireland.nbnatlas.org/](https://northernireland.nbnatlas.org/). It is a hub of the NBN Atlas and was launched in 2019.

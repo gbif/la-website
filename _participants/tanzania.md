@@ -1,6 +1,6 @@
 ---
 layout: participant
-institution: TANBIF
+institution: Tanzania Biodiversity Information Facility (TanBIF)
 country: Tanzania
 language: English
 year: 2020

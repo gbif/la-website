@@ -15,7 +15,7 @@ Since the beginning, our workshops have focused on the installation, the configu
 
 In order to do this, a workshop has been organized at the National Museum of Natural History (MNHN) in Paris. The focus of this workshop has been on the ALA spatial modules like the spatial portal and the explore region tool and also on analysis elements such as ALA4R.
 
-GBIF Brazil covered the travel expenses of all the participants. This workshop has been founded by the [CESP Project (CESP2018-004)](../projects/1-cesp-2019.html).
+GBIF Brazil covered the travel expenses of all the participants. This workshop has been founded by the [CESP Project (CESP2018-004)](/projects/1-cesp-2019.html).
 
 #### Participants 
 
@@ -38,7 +38,7 @@ GBIF Brazil covered the travel expenses of all the participants. This workshop h
 - Exercises: [Paris CESP Workshop 2019](https://docs.google.com/document/d/1efCVnXV9JxbKG6f-b4BtE_w8iQf-4bElEcRqINh5WfY/edit?usp=sharing) created by David Martin (ALA)
 
 ##### Resources 
-- [Project page](../_projects/1-cesp-2019)
+- [Project page](/projects/1-cesp-2019)
 - [Official website](http://livingatlases.mnhn.fr/)
 - [Agenda](http://livingatlases.mnhn.fr/agenda/)
 

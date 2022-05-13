@@ -15,7 +15,7 @@ This 5-day workshop wa funded for partners of this project through the GBIF CESP
 
 It took place in February 2018 and held at the Real Jardin Botanico in Madrid, Spain. 
 
-This workshop has been founded by the [CESP Project (CESP2017-009)](/projects/cesp-2017.html).
+This workshop has been founded by the CESP Project (CESP2017-009).
 
 #### Participants 
 
@@ -56,6 +56,5 @@ This workshop has been founded by the [CESP Project (CESP2017-009)](/projects/ce
 
 
 ##### Resources 
-- [Project page](/_projects/cesp-2017)
 - [Action points](https://www.gbif.es/wp-content/uploads/2017/12/Action-points.pdf)
 - [GBIF.es workshop page](https://www.gbif.es/en/talleres/taller-internacional-living-atlases/)

@@ -37,7 +37,7 @@ permalink: /participants/
 				</td>
 				<td style="text-align: center; vertical-align: middle;">
                    {% if participant.support %}
-					<a href="mailto:{{ participant.support | encode_email }}" title="Contact {{ participant.institution }}"><i class="mdi mdi-email" aria-hidden="true"></i></a>
+					<a href="mailto:{{ participant.support | encode_email }}" title="Contact {{ participant.institution }}"><i class="mdi mdi-email-outline participant-email-icon" aria-hidden="true"></i></a>
 					{% endif %}
 				</td>
 				<td>

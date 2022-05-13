@@ -4,6 +4,7 @@ institution: The Vermont Atlas of Life (VAL) - Vermont Center for Ecostudies
 country: United States of America
 language: English
 year: 2020
+support: vtatlasoflife@vtecostudies.org  
 status: live
 ---
 

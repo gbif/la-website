@@ -35,12 +35,12 @@ permalink: /participants/
 				<td>
 					{{ participant.language }}
 				</td>
-				<td style="text-align: center; vertical-align: middle;">
+				<td class="column-centered">
                    {% if participant.support %}
 					<a href="mailto:{{ participant.support | encode_email }}" title="Contact {{ participant.institution }}"><i class="mdi mdi-email-outline participant-email-icon" aria-hidden="true"></i></a>
 					{% endif %}
 				</td>
-				<td>
+				<td class="column-centered">
 					{{ participant.year }}
 				</td>
 			</tr>

@@ -18,7 +18,7 @@ In July 2016, during the GEO BON conference, a session and hands-on workshop wit
 
 ##### Presentation
 - Presentation: The Atlas of Living Australia – A modular biodiversity information platform with global implementations by David Martin (CSIRO/GBIF), Peter Brenton (CSIRO), Stephanie von Gavel (CSIRO).
-- Presentation: [Atlas of Living France: GBIF France's portal access to primary data about biodiversity provided by French institutions](../assets/presentation/geobon/9-Lecoq-GEOBON.pdf) (PDF) by Marie-Elise Lecoq (GBIF France), Dave Martin (Atlas of Living Australia).
+- Presentation: [Atlas of Living France: GBIF France's portal access to primary data about biodiversity provided by French institutions](/assets/presentation/geobon/9-Lecoq-GEOBON.pdf) (PDF) by Marie-Elise Lecoq (GBIF France), Dave Martin (Atlas of Living Australia).
 
 
 ##### Resources 

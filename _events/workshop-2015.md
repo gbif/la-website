@@ -26,5 +26,5 @@ Organized as side event of the 2015 European Nodes Meeting, this workshop was a 
 #### Resources 
 
 ##### Presentations
-- Presentation : [Architecture](../assets/presentation/workshop-2015/2-architecture.pdf) by David Martin (Atlas of Living Australia) (PDF)
-- Presentation : [Operation](../assets/presentation/workshop-2015/2-operation.pdf) by David Martin (Atlas of Living Australia) (PDF)
+- Presentation : [Architecture](/assets/presentation/workshop-2015/2-architecture.pdf) by David Martin (Atlas of Living Australia) (PDF)
+- Presentation : [Operation](/assets/presentation/workshop-2015/2-operation.pdf) by David Martin (Atlas of Living Australia) (PDF)

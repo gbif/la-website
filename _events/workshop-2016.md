@@ -28,16 +28,16 @@ Following this 3-day workshop, a 2-day workshop was proposed for members of the 
 #### Resources 
 
 ##### Presentations
-- Presentation: [Canadensys on read to Atlas of Living Australia](../assets/presentation/workshop-2016/10-Canadensys-ALA.pdf) (PDF) by Jérémy Goinard (Canadensys)
-- Presentation: [Atlas of Living Australia Integration GBIF Sweden](../assets/presentation/workshop-2016/10-ala-gbif-sweden.pdf) (PDF) by Manash Shah (GBIF Sweden)
-- Presentation: [International ALA Workshop: current status, biocache-hub, taxonomy, security, internationalization and future steps](../assets/presentation/workshop-2016/10-ala-workshop-sp) (PDF) by Santiago Martinez de la Riva (GBIF Spain)
-- Presentation: [GBIF Germany and ALA implementation](../assets/presentation/workshop-2016/10-ALA-Workshop-BGBM.pdf) (PDF) by Jörg Holetschek (GBIF Germany - BGBM)
-- Presentation: [Atlas of Living France](../assets/presentation/workshop-2016/10-GBIF-France.pdf) (PDF) by Marie-Elise Lecoq (GBIF France)
-- Presentation: [Documentation & wiki of ALA](../assets/presentation/workshop-2016/10-Documentation.pdf) (PDF) by Fabien Cavière (GBIF France)
-- Presentation: [Collectory module](../assets/presentation/workshop-2016/10-Collectory.pdf) (PDF) by Marie-Elise Lecoq (GBIF France)
-- Presentation: [Skinning your ALA instance](../assets/presentation/workshop-2016/10-Customization.pdf) (PDF) by Marie-Elise Lecoq (GBIF France)
-- Presentation: [Security in ALF](../assets/presentation/workshop-2016/10-Security.pdf) (PDF) by FMarie-Elise Lecoq (GBIF France)
-- Presentation: [International ALA workshop](../assets/presentation/workshop-2016/10-ALA-Madrid-DM.pdf) (PDF) by FMarie-Elise Lecoq (GBIF France)
+- Presentation: [Canadensys on read to Atlas of Living Australia](/assets/presentation/workshop-2016/10-Canadensys-ALA.pdf) (PDF) by Jérémy Goinard (Canadensys)
+- Presentation: [Atlas of Living Australia Integration GBIF Sweden](/assets/presentation/workshop-2016/10-ala-gbif-sweden.pdf) (PDF) by Manash Shah (GBIF Sweden)
+- Presentation: [International ALA Workshop: current status, biocache-hub, taxonomy, security, internationalization and future steps](/assets/presentation/workshop-2016/10-ala-workshop-sp) (PDF) by Santiago Martinez de la Riva (GBIF Spain)
+- Presentation: [GBIF Germany and ALA implementation](/assets/presentation/workshop-2016/10-ALA-Workshop-BGBM.pdf) (PDF) by Jörg Holetschek (GBIF Germany - BGBM)
+- Presentation: [Atlas of Living France](/assets/presentation/workshop-2016/10-GBIF-France.pdf) (PDF) by Marie-Elise Lecoq (GBIF France)
+- Presentation: [Documentation & wiki of ALA](/assets/presentation/workshop-2016/10-Documentation.pdf) (PDF) by Fabien Cavière (GBIF France)
+- Presentation: [Collectory module](/assets/presentation/workshop-2016/10-Collectory.pdf) (PDF) by Marie-Elise Lecoq (GBIF France)
+- Presentation: [Skinning your ALA instance](/assets/presentation/workshop-2016/10-Customization.pdf) (PDF) by Marie-Elise Lecoq (GBIF France)
+- Presentation: [Security in ALF](/assets/presentation/workshop-2016/10-Security.pdf) (PDF) by FMarie-Elise Lecoq (GBIF France)
+- Presentation: [International ALA workshop](/assets/presentation/workshop-2016/10-ALA-Madrid-DM.pdf) (PDF) by FMarie-Elise Lecoq (GBIF France)
 
 ##### Resources 
 - GBIF.es: [International ALA Workshop](https://www.gbif.es/en/talleres/taller-internacional-ala/)

@@ -52,7 +52,7 @@ permalink: /participants/
 ### Other participants and status of their data portals
 
 <div class="table-responsive">
-	<table class="table table-bordered"> 
+	<table class="table table-bordered table-hover">
 		<thead class="thead-light">
 			<tr>
 				<th> Institution </th>

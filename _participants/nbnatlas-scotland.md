@@ -10,7 +10,7 @@ status: live
 
 ## {{ page.institution }}
 
-[![NBN Atlas Scotland](../assets/img/participants/nbnatlas-scotland.png)](https://scotland.nbnatlas.org/)
+[![NBN Atlas Scotland](/assets/img/participants/nbnatlas-scotland.png)](https://scotland.nbnatlas.org/)
 
 #### Description 
 The NBN Atlas Scotland can be found here: [https://scotland.nbnatlas.org/](https://scotland.nbnatlas.org/). It is a hub of the NBN Atlas and was the first installation of the family of NBN Atlases, launched in 2016.

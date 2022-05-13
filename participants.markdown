@@ -17,6 +17,7 @@ permalink: /participants/
 				<th> Institution </th>
 				<th> Country </th>
 				<th> Language </th>
+				<th> Contact </th>
 				<th> Year </th>
 			</tr>
 		</thead>
@@ -33,6 +34,9 @@ permalink: /participants/
 				</td>
 				<td>
 					{{ participant.language }}
+				</td>
+				<td>
+					{{ participant.support }}
 				</td>
 				<td>
 					{{ participant.year }}

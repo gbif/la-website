@@ -4,6 +4,7 @@ institution: GBIF Togo
 country: Togo
 language: French
 year: 2016
+support: dev@gbif.fr
 status: live
 ---
 

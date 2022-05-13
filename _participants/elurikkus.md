@@ -4,6 +4,7 @@ institution: Elurikkus
 country: Estonia
 language: English & Estonian
 year: 2010
+support: info@elurikkus.ut.ee
 status: live
 ---
 

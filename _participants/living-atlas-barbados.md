@@ -4,12 +4,10 @@ institution: Living Atlas of Barbados
 country: Barbados
 language: English
 year: 2018
-status: live
+status: offline
 ---
 
 ## {{ page.institution }}
-
-[![Living Atlas of The Caribbean](/assets/img/participants/living-atlas-caribbean.png)](http://lac.uvs.edu/)
 
 [![Living Atlas of Suriname](/assets/img/participants/living-atlas-trinidad-barbados.png)](http://lac.uvs.edu/index.php/sr/)
 
@@ -18,7 +16,7 @@ This portal serves as a window into the unique Caribbean biodiversity. It was de
 
 #### Resources
 
-- Code: [Living Atlas of Barbados GitHub account]()
+- Code: ?
 - End-User documentation: ?
 - Documentation: ?
 - Twitter Account: ?

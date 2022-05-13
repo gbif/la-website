@@ -4,7 +4,7 @@ institution: Atlas of Living Costa Rica - CRBio
 country: Costa Rica
 language: Spanish & English
 year: 2016
-status: live
+status: degraded
 ---
 
 ## {{ page.institution }}

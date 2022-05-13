@@ -472,8 +472,33 @@ ol.carousel-indicators li.active {
     font-size: 20px;
 }
 
-
+// On tables
 .column-centered {
     text-align: center;
     vertical-align: middle;
+}
+
+// Status
+//
+.participant-status {
+    text-shadow: 0px 0px 0px #607D8B;
+    font-size: 12px;
+}
+
+.participant-status-under-development,
+.participant-status-inactive {
+    color: #607D8B;
+}
+
+.participant-status-degraded {
+    color: #FBC02D;
+}
+
+.participant-status-offline {
+    color: #e57373;
+}
+
+.participant-status-live,
+.participant-status-online {
+    color: #66bb6a;
 }

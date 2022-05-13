@@ -5,7 +5,7 @@ country: Brazil
 language: English & Portuguese
 year: 2014
 support: dados.biodiversidade@icmbio.gov.br
-status: live
+status: degraded
 ---
 
 ## {{ page.institution }}

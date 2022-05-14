@@ -45,9 +45,8 @@ permalink: /participants/
                 <td class="column-centered">
                     {{ participant.year }}
                 </td>
-
-				<td class="column-centered">
-                    <i class="mdi mdi-circle participant-status participant-status-{{ participant.status }}" title="{{ participant.status | capitalize }}" aria-hidden="true"></i>
+				<td title="{{ participant.status | capitalize | replace: "-", " " }}" class="column-centered">
+                    <i class="mdi mdi-circle participant-status participant-status-{{ participant.status }}" aria-hidden="true"></i>
 				</td>
             </tr>
             {% endfor %}

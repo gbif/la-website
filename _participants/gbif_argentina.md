@@ -5,7 +5,7 @@ country: Argentina
 language: Spanish
 year: 2010
 support: sndb@mincyt.gob.ar
-status: degraded
+status: service-degradation
 ---
 
 ## {{ page.institution }}

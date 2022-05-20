@@ -40,7 +40,7 @@ It is based on the following principles:
 |------------------|----------------------------------------------------------------------------------------|
 | Collectory       | [https://snib.conap.gob.gt/colecciones](https://snib.conap.gob.gt/colecciones)         |
 | Biocache         | [https://snib.conap.gob.gt/registros](https://snib.conap.gob.gt/registros)             |
-| Biocache Service | [https://snib.conap.gob.gt/registros-ws](hhttps://snib.conap.gob.gt/registros-ws)      |
+| Biocache Service | [https://snib.conap.gob.gt/registros-ws](https://snib.conap.gob.gt/registros-ws)       |
 | Species          | [https://snib.conap.gob.gt/especies](https://snib.conap.gob.gt/especies)               |
 | Species service  | [https://snib.conap.gob.gt/especies-ws](https://snib.conap.gob.gt/especies-ws)         |
 | Species list     | [https://snib.conap.gob.gt/listas](https://snib.conap.gob.gt/listas)                   |

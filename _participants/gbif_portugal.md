@@ -44,7 +44,7 @@ Datasets are ingested to the platform after their download at GBIF.org. No datas
 | Species list     | [https://listas.gbif.pt/](https://listas.gbif.pt/)                     |
 | Regions          | [https://regioes.gbif.pt/](https://regioes.gbif.pt/)                   |
 | Images           | [https://imagens.gbif.pt/](https://imagens.gbif.pt/)                   |
-| Spatial          | [hhttps://espacial.gbif.pt/](https://espacial.gbif.pt/)                |
+| Spatial          | [https://espacial.gbif.pt/](https://espacial.gbif.pt/)                 |
 | CAS              | [https://auth.gbif.pt/](https://auth.gbif.pt/)                         |
 | Logger           | [https://logger.gbif.pt/](https://logger.gbif.pt/)                     |
 | User details     | [https://auth.gbif.pt/userdetails/](https://auth.gbif.pt/userdetails/) |

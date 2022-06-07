@@ -25,10 +25,11 @@ The 28th of May 2015, the GBIF France launched officially his data portal based 
 
 #### Modules Available 
 
-| Name             | Link                                                         |
-|------------------|--------------------------------------------------------------|
-| Collectory       | [http://metadonnees.gbif.fr/](http://metadonnees.gbif.fr/)   |
-| Biocache         | [http://recherche.gbif.fr/](http://recherche.gbif.fr/)       |
+| Name             | Link                                                                                       |
+|------------------|--------------------------------------------------------------------------------------------|
+| Collectory       | [http://metadonnees.gbif.fr/](http://metadonnees.gbif.fr/)                                 |
+| Biocache         | [http://recherche.gbif.fr/](http://recherche.gbif.fr/)                                     |
+| Biocache Service | [http://portail.gbif.fr/biocache-service/](http://portail.gbif.fr/biocache-service/)       |
 
 
 For more information, you may contact Sylvain Morin or Alice Ainsa on Slack.

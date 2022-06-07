@@ -28,6 +28,7 @@ The French Biodiversity Data Portal : OpenObs, provides open access to millions 
 | ------------------|-----------------------------------------------------------------------|
 | Collectory        | https://openobs.mnhn.fr/collectory/                                   |
 | Biocache          | https://openobs.mnhn.fr/                                              |
+| Biocache Service  | https://openobs.mnhn.fr/biocache-service/                             |
 | Advanced search   | https://openobs.mnhn.fr/openobs-hub/advancedSearch                    |
 | Species list      | https://inpn.mnhn.fr/accueil/recherche-de-donnees/especes/            |
 | API               | https://openobs.mnhn.fr/api/docs |

@@ -30,6 +30,11 @@
   height: 70vh;
 }
 
+.overlay-light {
+  position: relative;
+  height: 70vh;
+}
+
 @include media-breakpoint-down(sm) {
   .overlay-dark {
     height: auto;

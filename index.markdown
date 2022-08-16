@@ -77,7 +77,7 @@ layout: home
 </section>
 <section>
   <!-- Block with a gradient transparent overlay -->
-  <div class="overlay-light bg-cover bg-center p-5" style="background: url(/assets/img/participants/au-2.jpg)">
+  <div class="overlay-dark bg-cover bg-center p-5" style="background: url(/assets/img/participants/au-7.jpg)"  data-toggle="tooltip" data-placement="right" data-html="true" title="<em>Catostylus mosaicus</em><br>© Matty Testoni CC-BY-NC-4.0">
     <div class="overlay-content text-white text-center p-5">
       <div class="container">
         <p class="lead demo-text mb-4"></p>

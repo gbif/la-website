@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: OpenObs - Portail français d'accès aux données d'observation sur les espèces, UMS Patrinat (OFB, CNRS, MNHN)
-country: France
-language: French
-year: 2020
-support: dev@gbif.fr
-status: live
 ---
 
 ## {{ page.institution }}

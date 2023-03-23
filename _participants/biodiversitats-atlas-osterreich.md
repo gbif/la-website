@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: "Biodiversitäts-Atlas Österreich"
-country: Austria
-language: German & English
-year: 2019
-support: office@biodiversityatlas.at 
-status: live
 ---
 
 ## {{ page.institution }}

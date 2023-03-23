@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: GBIF Portugal
-country: Portugal
-language: Portuguese
-year: 2010
-support: node@gbif.pt
-status: live
 ---
 
 ## {{ page.institution }}

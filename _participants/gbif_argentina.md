@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: GBIF Argentina
-country: Argentina
-language: Spanish
-year: 2010
-support: sndb@mincyt.gob.ar
-status: service-degradation
 ---
 
 ## {{ page.institution }}

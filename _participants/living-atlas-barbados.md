@@ -1,10 +1,6 @@
 ---
 layout: participant
 institution: Living Atlas of Barbados
-country: Barbados
-language: English
-year: 2018
-status: offline
 ---
 
 ## {{ page.institution }}

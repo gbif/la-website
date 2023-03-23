@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: NBN Wales
-country: UK
-language: English
-year: 2017
-support: support@nbnatlas.org
-status: live
 ---
 
 ## {{ page.institution }}

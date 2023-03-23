@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: Swedish Biodiversity Data Infrastructure
-country: Sweden
-language: English
-year: 2016
-support: support@biodiversitydata.se
-status: live
 ---
 
 ## {{ page.institution }}

@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: Atlas of Living Australia
-country: Australia
-language: English
-year: 2010
-support: support@ala.org.au
-status: live
 ---
 
 ## {{ page.institution }}

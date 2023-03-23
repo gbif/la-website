@@ -1,10 +1,6 @@
 ---
 layout: participant
 institution: Atlas of Living Costa Rica - CRBio
-country: Costa Rica
-language: Spanish & English
-year: 2016
-status: service-degradation
 ---
 
 ## {{ page.institution }}

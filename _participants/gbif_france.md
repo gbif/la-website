@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: GBIF France
-country: France
-language: French
-year: 2015
-support: dev@gbif.fr
-status: live
 ---
 
 ## {{ page.institution }}

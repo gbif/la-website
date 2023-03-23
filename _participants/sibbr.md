@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: SiBBr - Sistemas de Informações sobre a Biodiversidade Brasileira
-country: Brazil
-language: Portuguese
-year: 2018
-support: atendimento_sibbr@rnp.br
-status: live
 ---
 
 ## {{ page.institution }}

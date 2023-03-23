@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: NBN Atlas
-country: UK
-language: English
-year: 2016
-support: support@nbnatlas.org
-status: live
 ---
 
 ## {{ page.institution }}

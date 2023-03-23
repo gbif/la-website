@@ -1,49 +1,49 @@
-Installation,Area,GBIF Node,GBIF Status,Notes,Language,Declared status,Online,Recent activity,URL,LA_web_status,Support
-Living Atlas of Barbados,Barbados,,,,English,Live,No,Asked for help recently,dead link?,list,
-Living Atlas of the Caribbean,Caribbeam,,,Contacted recently asking for help to hire a dev and to select a hosting and several other recomendations,English,Live,No,Asked for help recently,dead link?,list,
-Living Atlas of Suriname,Suriname,,,sam,English,Live,No,Asked for help recently,dead link?,list,
-Living Atlas of Trinidad & Tobago,Trinidad & Tobago,,,,English,Live,No,Asked for help recently,dead link?,list,
-CRBio,Costa Rica,Costa Rica,Voting,,Spanish & English,Live,No - broken site,Last contact GNM 2021 interested in the la-toolkit,http://www.crbio.cr/crbio,list,
-Sistema Nacional de Datos Biologicos,Argentina,Argentina,Voting,,Spanish,Live,No - broken site,No news,https://datos.sndb.mincyt.gob.ar/,list,sndb@mincyt.gob.ar
-GBIF Andorra,Andorra,Andorra,Voting,,Catalan & Spanish,Under development after migration,Yes,"They moved outside Bimeo without success, still trying. Last contact Sep-2021",https://www.gbif.ad/,highlight,gbif@ari.ad
-Atlas of Living Australia,Australia,Australia,Voting,,English,Live,Yes,High,https://www.ala.org.au/,highlight,support@ala.org.au
-Biodiversity Atlas Austria,Austria,,,,German,Live,Yes,High,https://biodiversityatlas.at,highlight,office@biodiversityatlas.at
-Canadensys,Canada,Canadensys,Organisation,,English & French,Moved to portals,Yes,Low but active,https://data.canadensys.net/,no-list,canadensys.network@gmail.com
-Atlas of Living Costa Rica - CRBio,Guatemala,,,Consejo Nacional de Áreas Protegidas (CONAP),Spanish,Live,Yes,Low but active,https://snib.conap.gob.gt/,highlight,snib.guatemala@gmail.com
-eElurikkus,Estonia,Estonia,Voting,,Estonian & English,Live,Yes,High,https://elurikkus.ee/,highlight,info@elurikkus.ut.ee
-GBIF Benin,Benin,Benin,Voting,Hosted by GBIF FR,French,Live,Yes,Via GBIF France,http://portail.gbifbenin.org/,highlight,dev@gbif.fr
-GBIF France,France,France,Voting,,French,Live,Yes,High,http://portail.gbif.fr/,highlight,dev@gbif.fr
-GBIF Spain,Spain,Spain,Voting,,Spanish & English & Catalan,Live,Yes,High,https://datos.gbif.es/,highlight,support@gbif.es
-GBIF Sweden,Sweden,Sweden,Voting,,English & Swedish,Live,Yes,High,https://biodiversitydata.se/,highlight,support@biodiversitydata.se
-GBIF Portugal,Portugal,Portugal,Voting,,Portugese,Live,Yes,Low doing normal maintenance & use,https://dados.gbif.pt/,highlight,node@gbif.pt
-GBIF Togo,Togo,Togo,Voting,Hosted by GBIF FR,French,Live,Yes,Via GBIF France,http://portail.togo.gbif.fr/,highlight,dev@gbif.fr
-Instituto Chico Mendes de Conservaçao de Biodiversidad,Brazilian (Institution),,,Not the node,Portuguese,Live,Yes,High,https://portaldabiodiversidade.icmbio.gov.br/portal/,list,dados.biodiversidade@icmbio.gov.br
-NBN Atlas,United Kingdom,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://nbnatlas.org/,highlight,support@nbnatlas.org
-NBN Atlas Northern Ireland,Northern Ireland,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://northernireland.nbnatlas.org/,list,support@nbnatlas.org
-NBN Atlas Scotland,Scotland,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://scotland.nbnatlas.org/,list,support@nbnatlas.org
-NBN Atlas Wales,Wales,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://wales.nbnatlas.org/,list,support@nbnatlas.org
-NBN Atlas Isle of Man,Isle of Man,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://isleofman.nbnatlas.org/,list,support@nbnatlas.org
-"OpenObs, portail français d'accès aux données d'observation sur les espèces (UMS Patrinat (OFB, CNRS, MNHN)",France,,,Not the node,French,Live,Yes,High trying to upgrade and use pipelines,https://openobs.mnhn.fr/,highlight,dev@gbif.fr
-Sistema de Informação Sobre a Biodiversidade Brasileira (SiBBr),Brazil,Brazil,Voting,,Portuguese & English,Live,Yes,High,https://www.sibbr.gov.br/,highlight,atendimento_sibbr@rnp.br
-The Vermont Atlas of Life (VAL),USA,,,Vermont Center for Ecostudies,English,Moved to portals,Yes,High,https://val.vtecostudies.org/data-explorer/,no-list,vtatlasoflife@vtecostudies.org
-Tanzania Biodiversity Information Facility (TanBIF),Tanzania,,,"Deployed a tested LA portal during 2020 workshop, and now a production portal",English,Live,Yes,,https://tanbif.ditnet.ac.tz/,highlight,tanbifsupport@costech.or.tz
-The Field Museum,USA,,,Need status update,English,Under development,,No news,,list,
-GBIF Luxemburg,Luxemburg,Luxembourg,Voting,Need status update,"English, German & French",Under development,,,,list,
-GBIF Chile,Chile,Chile,Voting,Need status update,,In discussion,,No news,,list,
-Habitat Foundation,Netherlands,,,Need status update,,In discussion,,,,list,
-NLBIF / Naturalis,Netherlands,Netherlands,Voting,Need status update,,In discussion,,Contacted us this week,,list,
-Philippines Atlas of Biodiversity (PhAB),Philippines,,,Need status update,,In discussion,,No news,,list,
-"Royal Botanic Gardens, Kew",UK,,,Need status update,,Under development,,Test portal in dev,,list,
-SiB Colombia,Colombia,Colombia,Associate,Use hosted portal now,,In discussion,,No news,,list,
-TaiBIF,Taiwan,Chinese Taipei,Associate,,,In discussion,,No news,,list,
-NDFF - Netherlands Flora and Flora National databank,Netherlands,,,,,Under development,,Test portal in dev,,list,
-"Israel Citizen Science Center, SMNH",Israel,,,"Contact: Tomer Gueta, the future LA Portal, now depends on new Israel Citizen Science Center ",,Under development,,No contact since end of April,https://records.smnh-demo.com/search#tab_simpleSearch,list,
-Atlas Lebendiges Deutschland,Germany,,,Not the node; Dediced not to use ALA,"English, German",Discontinued,,Active til Sep,https://ala.gfbio.dev/ down https://gfbio.dev,no-list,
-Levende Atlas van Vlaanderen,Belgium,,,Contact: Dimitri Brosens,,Under development,,Just received the Grant,https://collections.levende-atlas.inbo.be/,list,
-South-Africa,South-Africa,,,Contact: Ian Engelbrecht  ,,In discussion,,Last contact July about hosting contracts,,in-discussion,
-,Ecuador,,,Contact: Salvador Vivar,,,,Low but they appear from time to time,,no-list,
-,Ukraine,,,Contact: Svetlana Miteva,,,,Last contact Nov-2020 (difficult to follow a fluid conversation),,no-list,
-,Norway,Norway,Voting,"Will use hosted portal for now, contact: Rukaya",,In discussion,,,,no-list,
-SCAR,Antarctic,,,Anton Van De Putte,,,,,,in-discussion,
-Living Atlas Iberian Portal,Iberia,,,Portugal + Spain,,Under development,,,,list,
-,Peru,,,Instituto para la Conservación de Especies Amenazadas,,In discussion,,,,no-list,
+Installation,Area,GBIF Node,GBIF Status,Notes,Language,Declared status,Online,Recent activity,URL,LA_web_status,Support,Year,Status_abrev,Web_page,
+Living Atlas of Barbados,Barbados,,,,English,Offline,No,Asked for help recently,dead link?,dev-list,,2018,offline,living-atlas-barbados,
+Living Atlas of the Caribbean,The Caribbean,,,Contacted recently asking for help to hire a dev and to select a hosting and several other recomendations,English,Offline,No,Asked for help recently,dead link?,dev-list,,2018,offline,living-atlas-caribbean,
+Living Atlas of Suriname,Suriname,,,sam,English,Offline,No,Asked for help recently,dead link?,dev-list,,2018,offline,living-atlas-suriname,
+Living Atlas of Trinidad & Tobago,Trinidad & Tobago,,,,English,Offline,No,Asked for help recently,dead link?,dev-list,,2018,offline,living-atlas-trinidad-tobago,
+CRBio,Costa Rica,Costa Rica,Voting,,Spanish & English,Offline,No - broken site,Last contact GNM 2021 interested in the la-toolkit,http://www.crbio.cr/crbio,dev-list,,2016,service-degradation,atlas_living_costa_rica,
+Sistema Nacional de Datos Biologicos,Argentina,Argentina,Voting,,Spanish,Offline,No - broken site,No news,https://datos.sndb.mincyt.gob.ar/,dev-list,sndb@mincyt.gob.ar,2010,service-degradation,gbif_argentina,
+GBIF Andorra,Andorra,Andorra,Voting,,Catalan & Spanish,Under development after migration,Yes,"They moved outside Bimeo without success, still trying. Last contact Sep-2021",https://www.gbif.ad/,highlight,gbif@ari.ad,2010,under-development,gbif_andorra,
+Atlas of Living Australia,Australia,Australia,Voting,,English,Live,Yes,High,https://www.ala.org.au/,highlight,support@ala.org.au,2010,live,atlas_living_australia,
+Biodiversitäts-Atlas Österreich,Austria,,,,German & English,Live,Yes,High,https://biodiversityatlas.at,highlight,office@biodiversityatlas.at,2019,live,biodiversitats-atlas-osterreich,
+Canadensys,Canada,Canadensys,Organisation,,English & French,Moved to portals,,Low but active,https://data.canadensys.net/,no-list,canadensys.network@gmail.com,,,,
+SNIBgt - Sistema Nacional de Información sobre Diversidad Biológica de Guatemala,Guatemala,,,Consejo Nacional de Áreas Protegidas (CONAP),Spanish,Live,Yes,Low but active,https://snib.conap.gob.gt/,highlight,snib.guatemala@gmail.com,2015,live,,
+Elurikkus,Estonia,Estonia,Voting,,Estonian & English,Live,Yes,High,https://elurikkus.ee/,highlight,info@elurikkus.ut.ee,2010,live,elurikkus,
+GBIF Benin,Benin,Benin,Voting,Hosted by GBIF FR,French,Live,Yes,Via GBIF France,http://portail.gbifbenin.org/,highlight,dev@gbif.fr,2016,live,gbif_benin,
+GBIF France,France,France,Voting,,French,Live,Yes,High,http://portail.gbif.fr/,highlight,dev@gbif.fr,2015,live,gbif_france,
+GBIF Spain,Spain,Spain,Voting,,Spanish & English & Catalan,Live,Yes,High,https://datos.gbif.es/,highlight,support@gbif.es,2014,live,gbif_spain,
+Swedish Biodiversity Data Infrastructure,Sweden,Sweden,Voting,,English & Swedish,Live,Yes,High,https://biodiversitydata.se/,highlight,support@biodiversitydata.se,2016,live,bioatlas_sweden,
+GBIF Portugal,Portugal,Portugal,Voting,,Portuguese,Live,Yes,Low doing normal maintenance & use,https://dados.gbif.pt/,highlight,node@gbif.pt,2010,live,gbif_portugal,
+GBIF Togo,Togo,Togo,Voting,Hosted by GBIF FR,French,Live,Yes,Via GBIF France,http://portail.togo.gbif.fr/,highlight,dev@gbif.fr,2016,live,gbif_togo,
+Biodiversity Portal (PortalBio),Brazil,,,"Institution, not the node (Instituto Chico Mendes de Conservaçao de Biodiversidad)",Portuguese,Live,Yes,High,https://portaldabiodiversidade.icmbio.gov.br/portal/,dev-list,dados.biodiversidade@icmbio.gov.br,2014,service-degradation,,
+NBN Atlas,United Kingdom,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://nbnatlas.org/,highlight,support@nbnatlas.org,2018,live,nbnatlas,
+NBN Atlas Northern Ireland,Northern Ireland,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://northernireland.nbnatlas.org/,list,support@nbnatlas.org,2018,live,nbnatlas-northern-ireland,
+NBN Atlas Scotland,Scotland,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://scotland.nbnatlas.org/,list,support@nbnatlas.org,2018,live,nbnatlas-scotland,
+NBN Atlas Wales,Wales,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://wales.nbnatlas.org/,list,support@nbnatlas.org,2018,live,nbnatlas-wales,portalbio.md
+NBN Atlas Isle of Man,Isle of Man,UK,Associate,,English,Live,Yes,High trying to upgrade and use pipelines,https://isleofman.nbnatlas.org/,list,support@nbnatlas.org,2018,live,nbnatlas-isle-man,
+"OpenObs - Portail français d'accès aux données d'observation sur les espèces, UMS Patrinat (OFB, CNRS, MNHN)",France,,,Not the node,French,Live,Yes,High trying to upgrade and use pipelines,https://openobs.mnhn.fr/,highlight,dev@gbif.fr,2020,live,openobs,snibgt.md
+SiBBr - Sistemas de Informações sobre a Biodiversidade Brasileira,Brazil,Brazil,Voting,,Portuguese & English,Live,Yes,High,https://www.sibbr.gov.br/,highlight,atendimento_sibbr@rnp.br,2018,live,sibbr,
+The Vermont Atlas of Life (VAL),USA,,,Vermont Center for Ecostudies,English,Moved to portals,,High,https://val.vtecostudies.org/data-explorer/,no-list,vtatlasoflife@vtecostudies.org,,,,
+Tanzania Biodiversity Information Facility (TanBIF),Tanzania,,,"Deployed a tested LA portal during 2020 workshop, and now a production portal",English,Live,Yes,,https://tanbif.ditnet.ac.tz/,highlight,tanbifsupport@costech.or.tz,2020,live,tanzania,
+The Field Museum,USA,,,Need status update,English,Under development,,No news,,dev-list,,,,,
+GBIF Luxemburg,Luxemburg,Luxembourg,Voting,Need status update,"English, German & French",Under development,,,,dev-list,,,,,
+GBIF Chile,Chile,Chile,Voting,Need status update,,In discussion,,No news,,dev-list,,,,,
+Habitat Foundation,Netherlands,,,Need status update,,In discussion,,,,dev-list,,,,,
+NLBIF / Naturalis,Netherlands,Netherlands,Voting,Need status update,,In discussion,,Contacted us this week,,dev-list,,,,,
+Philippines Atlas of Biodiversity (PhAB),Philippines,,,Need status update,,In discussion,,No news,,dev-list,,,under-development,,
+"Royal Botanic Gardens, Kew",UK,,,Need status update,,Under development,,Test portal in dev,,dev-list,,, ,,
+SiB Colombia,Colombia,Colombia,Associate,Use hosted portal now,,In discussion,,No news,,dev-list,,,,,
+TaiBIF,Taiwan,Chinese Taipei,Associate,,,In discussion,,No news,,dev-list,,,,,
+NDFF - Netherlands Flora and Flora National databank,Netherlands,,,,,Under development,,Test portal in dev,,dev-list,,,,,
+"Israel Citizen Science Center, SMNH",Israel,,,"Contact: Tomer Gueta, the future LA Portal, now depends on new Israel Citizen Science Center ",,Under development,,No contact since end of April,https://records.smnh-demo.com/search#tab_simpleSearch,dev-list,,,under-development,,
+Atlas Lebendiges Deutschland,Germany,,,Not the node; Dediced not to use ALA,"English, German",Discontinued,,Active til Sep,https://ala.gfbio.dev/ down https://gfbio.dev,no-list,,,,,
+Levende Atlas van Vlaanderen,Belgium,,,Contact: Dimitri Brosens,,Under development,,Just received the Grant,https://collections.levende-atlas.inbo.be/,dev-list,,,under-development,,
+South-Africa,South-Africa,,,Contact: Ian Engelbrecht  ,,In discussion,,Last contact July about hosting contracts,,in-discussion,,,,,
+,Ecuador,,,Contact: Salvador Vivar,,,,Low but they appear from time to time,,no-list,,,,,
+,Ukraine,,,Contact: Svetlana Miteva,,,,Last contact Nov-2020 (difficult to follow a fluid conversation),,no-list,,,,,
+,Norway,Norway,Voting,"Will use hosted portal for now, contact: Rukaya",,In discussion,,,,no-list,,,,,
+SCAR,Antarctic,,,Anton Van De Putte,,,,,,in-discussion,,,,,
+Living Atlas Iberian Portal,Iberia,,,Portugal + Spain,,Under development,,,,dev-list,,,,,
+,Peru,,,Instituto para la Conservación de Especies Amenazadas,,In discussion,,,,no-list,,,,,

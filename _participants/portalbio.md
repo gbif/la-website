@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: Biodiversity Portal (PortalBio)
-country: Brazil
-language: English & Portuguese
-year: 2014
-support: dados.biodiversidade@icmbio.gov.br
-status: service-degradation
 ---
 
 ## {{ page.institution }}

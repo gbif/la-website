@@ -3,10 +3,9 @@ layout: default
 title: Participants
 permalink: /participants/
 ---
-{% assign ps = site.participants | sort: 'institution' %}
-{% assign ps3 = site.data.ala-summary-gdocs-sheet1 | where: "LA_web_status", "highlight" | sort: 'Installation' %}
-{% assign psd = site.data.ala-summary-gdocs-sheet1 | where: "LA_web_status", "list"  | sort: 'Installation' %}
-{% assign psd2 = site.data.participant_development | sort: "institution" %}
+{% assign psDeprec = site.participants | sort: 'institution' %}
+{% assign ps3 = site.data.ala-summary-gdocs-sheet1 | where_exp: "item", "item.LA_web_status == 'highlight' or item.LA_web_status == 'list'" | sort: 'Installation' %}
+{% assign psd = site.data.ala-summary-gdocs-sheet1 | sort: 'Installation' %}
 
 ### Participants with live data portals
 
@@ -15,7 +14,7 @@ permalink: /participants/
         <thead class="thead-light">
             <tr>
                 <th> Institution </th>
-                <th> Country </th>
+                <th> Area </th>
                 <th> Language </th>
                 <th> Contact </th>
                 <th> Year </th>
@@ -23,30 +22,30 @@ permalink: /participants/
             </tr>
         </thead>
         <tbody>
-            {% for participant in ps %}
-			{% assign statusIcon = site.data.participant_development | sort: "institution" %}
+            {% for participant in ps3 %}
+			{% assign statusIcon = site.data.participant_development | where: "LA_web_status", "highlight" | sort: "institution" %}
             <tr> 
                 <td scope="row" >
-                    <a href="{{ participant.url | relative_url }}">
-                        {{ participant.institution }}
+                    <a href="{{ site.baseurl }}/participants/{{ participant.Web_page }}">
+                        {{ participant.Installation }}
                     </a>
                 </td>
                 <td> 
-                    {{ participant.country }}
+                    {{ participant.Area }}
                 </td>
                 <td>
-                    {{ participant.language }}
+                    {{ participant.Language }}
                 </td>
                 <td class="column-centered">
-					{% if participant.support %}
-                    <a href="mailto:{{ participant.support | encode_email }}" title="Contact {{ participant.institution }}"><i class="mdi mdi-email-outline participant-email-icon" aria-hidden="true"></i></a>
+					{% if participant.Support %}
+                    <a href="mailto:{{ participant.Support | encode_email }}" title="Contact {{ participant.Installation }}"><i class="mdi mdi-email-outline participant-email-icon" aria-hidden="true"></i></a>
                     {% endif %}
                 </td>
                 <td class="column-centered">
-                    {{ participant.year }}
+                    {{ participant.Year }}
                 </td>
-				<td title="{{ participant.status | capitalize | replace: "-", " " }}" class="column-centered">
-                    <i class="mdi mdi-circle participant-status participant-status-{{ participant.status }}" aria-hidden="true"></i>
+				<td title="{{ participant.Status_abrev | capitalize | replace: "-", " " }}" class="column-centered">
+                    <i class="mdi mdi-circle participant-status participant-status-{{ participant.Status_abrev }}" aria-hidden="true"></i>
 				</td>
             </tr>
             {% endfor %}
@@ -61,22 +60,26 @@ permalink: /participants/
         <thead class="thead-light">
             <tr>
                 <th> Institution </th>
-                <th> Country </th>
+                <th> Area </th>
                 <th> Language </th>
                 <th> Status </th>
             </tr>
         </thead>
         <tbody>
             {% for participant in psd %}
-            {% if participant["Declared status"] == 'Live' %}
-            {% continue %}
-            {% endif %} 
+            {% if participant["LA_web_status"] != 'highlight' and participant["LA_web_status"] != 'list' and participant["LA_web_status"] != 'no-list' %}
             <tr> 
                 <td scope="row" >
+                 {% if participant.Web_page %}                
+                    <a href="{{ site.baseurl }}/participants/{{ participant.Web_page }}">
+                        {{ participant.Installation }}
+                    </a>
+                {% else %}
                     {{ participant.Installation }}
+                {% endif %}
                 </td>
                 <td> 
-                    {{ participant.Country }}
+                    {{ participant.Area }}
                 </td>
                 <td>
                     {{ participant.Language }}
@@ -85,6 +88,7 @@ permalink: /participants/
                     {{ participant["Declared status"] }}
                 </td>
             </tr>
+            {% endif %} 
             {% endfor %}
         </tbody>
     </table>

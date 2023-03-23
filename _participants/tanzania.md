@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: Tanzania Biodiversity Information Facility (TanBIF)
-country: Tanzania
-language: English
-year: 2020
-support: tanbifsupport@costech.or.tz
-status: live
 ---
 
 ## {{ page.institution }}

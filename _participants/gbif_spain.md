@@ -1,11 +1,6 @@
 ---
 layout: participant
 institution: GBIF Spain
-country: Spain
-language: Catalan, Spanish & English
-year: 2014
-support: support@gbif.es
-status: live
 ---
 
 ## {{ page.institution }}

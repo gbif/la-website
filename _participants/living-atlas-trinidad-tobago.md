@@ -1,10 +1,6 @@
 ---
 layout: participant
 institution: Living Atlas of Trinidad & Tobago
-country: Trinidad & Tobago
-language: English
-year: 2018
-status: offline
 ---
 
 ## {{ page.institution }}

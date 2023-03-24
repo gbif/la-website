@@ -17,7 +17,6 @@ permalink: /participants/
                 <th> Area </th>
                 <th> Language </th>
                 <th> Contact </th>
-                <th> Year </th>
 				<th> Status </th>
             </tr>
         </thead>
@@ -40,9 +39,6 @@ permalink: /participants/
 					{% if participant.Support %}
                     <a href="mailto:{{ participant.Support | encode_email }}" title="Contact {{ participant.Installation }}"><i class="mdi mdi-email-outline participant-email-icon" aria-hidden="true"></i></a>
                     {% endif %}
-                </td>
-                <td class="column-centered">
-                    {{ participant.Year }}
                 </td>
 				<td title="{{ participant.Status_abrev | capitalize | replace: "-", " " }}" class="column-centered">
                     <i class="mdi mdi-circle participant-status participant-status-{{ participant.Status_abrev }}" aria-hidden="true"></i>

@@ -9,7 +9,7 @@ GBIF Andorra,Andorra,Andorra,Voting,,Catalan & Spanish,Under development after m
 Atlas of Living Australia,Australia,Australia,Voting,,English,Live,Yes,High,https://www.ala.org.au/,highlight,support@ala.org.au,2010,live,atlas_living_australia,
 Biodiversitäts-Atlas Österreich,Austria,,,,German & English,Live,Yes,High,https://biodiversityatlas.at,highlight,office@biodiversityatlas.at,2019,live,biodiversitats-atlas-osterreich,
 Canadensys,Canada,Canadensys,Organisation,,English & French,Moved to portals,,Low but active,https://data.canadensys.net/,no-list,canadensys.network@gmail.com,,,,
-SNIBgt - Sistema Nacional de Información sobre Diversidad Biológica de Guatemala,Guatemala,,,Consejo Nacional de Áreas Protegidas (CONAP),Spanish,Live,Yes,Low but active,https://snib.conap.gob.gt/,highlight,snib.guatemala@gmail.com,2015,live,,
+SNIBgt - Sistema Nacional de Información sobre Diversidad Biológica de Guatemala,Guatemala,,,Consejo Nacional de Áreas Protegidas (CONAP),Spanish,Live,Yes,Low but active,https://snib.conap.gob.gt/,highlight,snib.guatemala@gmail.com,2015,live,snibgt,
 Elurikkus,Estonia,Estonia,Voting,,Estonian & English,Live,Yes,High,https://elurikkus.ee/,highlight,info@elurikkus.ut.ee,2010,live,elurikkus,
 GBIF Benin,Benin,Benin,Voting,Hosted by GBIF FR,French,Live,Yes,Via GBIF France,http://portail.gbifbenin.org/,highlight,dev@gbif.fr,2016,live,gbif_benin,
 GBIF France,France,France,Voting,,French,Live,Yes,High,http://portail.gbif.fr/,highlight,dev@gbif.fr,2015,live,gbif_france,

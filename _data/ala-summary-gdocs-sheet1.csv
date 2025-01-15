@@ -29,7 +29,7 @@ Plateforme Régionale des Collections des Herbiers d’Afrique de l'Ouest et d'A
 BioAtlas - Atlas bioraznolikosti Hrvatske,Croacia,Croatia,,,Croatian & English,Live,Yes,,https://bioatlas.bioportal.hr/?lang=en,highlight,podrska-bioatlas@bioportal.hr,2024,live,croatia,Luka.Katusic@mingor.hr
 The Field Museum,USA,,,Need status update,English,In discussion,,No news,,dev-list,,,,,sgrant@fieldmuseum.org 
 GBIF Luxemburg,Luxemburg,Luxembourg,Voting,Need status update,"English, German & French",Under development,,,,dev-list,,,,,Tania.WALISCH@mnhn.lu
-GBIF Chile,Chile,Chile,Voting,Need status update,,Under development,,No news,https://portalbiodiversidad.cl,dev-list,,,under-development,,
+GBIF Chile,Chile,Chile,Voting,Need status update,,Under development,,No news,https://ieb-chile.cl,dev-list,,,under-development,,
 Habitat Foundation,Netherlands,,,Need status update,,In discussion,,,,dev-list,,,,,
 NLBIF / Naturalis,Netherlands,Netherlands,Voting,Need status update,,In discussion,,Contacted us this week,,dev-list,,,,,nlbif@naturalis.nl
 Philippines Atlas of Biodiversity (PhAB),Philippines,,,Need status update,,In discussion,,No news,,dev-list,,,under-development,,
@@ -39,12 +39,13 @@ TaiBIF,Taiwan,Chinese Taipei,Associate,,,In discussion,,No news,,dev-list,,,,,cj
 NDFF - Netherlands Flora and Flora National databank,Netherlands,,,,,Under development,,Test portal in dev,,dev-list,,,,,arnout.feijt@bij12.nl
 "Israel Citizen Science Center, SMNH",Israel,,,"Contact: Tomer Gueta, the future LA Portal, now depends on new Israel Citizen Science Center ",,Under development,,No contact since end of April,https://citizen-science.smnh.tau.ac.il/,dev-list,,,under-development,,tomer.gu@gmail.com
 Atlas Lebendiges Deutschland,Germany,,,Not the node; Dediced not to use ALA,"English, German",Discontinued,,Active til Sep,https://ala.gfbio.dev/ down https://gfbio.dev,no-list,,,,,
-Levende Atlas van Vlaanderen,Belgium,,,Contact: Dimitri Brosens,,Under development,,Just received the Grant,https://collections.levende-atlas.inbo.be/,dev-list,,,under-development,,dimitri.brosens@inbo.be
+Vlaams Biodiversiteitsportaal,Belgium,,,Contact: Dimitri Brosens,Dutch & English,Under development,,Just received the Grant,https://natuurdata.dev.inbo.be/,list,support@vlaamsbiodiversiteit.be,,under-development, https://natuurdata.dev.inbo.be/,dimitri.brosens@inbo.be
 South-Africa,South-Africa,,,Contact: Ian Engelbrecht  ,,In discussion,,Last contact July about hosting contracts,,dev-list,,,under-development,,ianicus.za@gmail.com
 ,Ecuador,,,Contact: Salvador Vivar,,In discussion,,Low but they appear from time to time,,no-list,,,,,kantoborgy@kantoborgy.com
 ,Ukraine,,,Contact: Svetlana Miteva,,In discussion,,Last contact Nov-2020 (difficult to follow a fluid conversation),,no-list,,,,,svetlana.miteva@thehabitatfoundation.org
 ,Norway,Norway,Voting,"Will use hosted portal for now, contact: Rukaya",,In discussion,,,,no-list,,,,,
 SCAR,Antarctic,,,Anton Van De Putte,,In discussion,,,,in-discussion,,,,,
+New Zealand,New Zealand,New Zealand,,Department of Conservation of NZ. Contact: Andrew Frazer,,In discussion,,,,in-discussion,afrazer@doc.govt.nz,,,,
 Living Atlas Iberian Portal,Iberia,,,Portugal + Spain,,On hold,,,,dev-list,,,,,isabel@campos-it.es
 ,Peru,,,Instituto para la Conservación de Especies Amenazadas,,In discussion,,,,no-list,,,,,patauchi@conservaperu.org
 ,Chile,Chile,,Instituto de Ecología y Biodiversidad de Chile (IEB-Chile),,In discussion,,,,dev-list,,,,,rsegovia@ieb-chile.cl

@@ -503,3 +503,56 @@ ol.carousel-indicators li.active {
 .participant-status-online {
     color: #66bb6a;
 }
+
+.btn-bluesky-compact {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 10px;
+  background-color: #1e90ff;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: normal;
+  transition: background-color 0.3s;
+}
+
+.btn-bluesky-compact:hover {
+  background-color: #1c86ee;
+  color: white !important;
+  text-decoration: none;
+}
+
+.btn-bluesky-compact .icon {
+  width: 16px;
+  height: 16px;
+  fill: white;
+}
+
+
+.btn-bluesky {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 20px;
+  background-color: #1e90ff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.btn-bluesky:hover {
+  color: white !important;
+  text-decoration: none;
+}
+
+.btn-bluesky .icon {
+  width: 20px;
+  height: 20px;
+  fill: white;
+}
+

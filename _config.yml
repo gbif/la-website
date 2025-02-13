@@ -83,4 +83,5 @@ collections:
 sass:
   sass_dir: assets/css
 
-
+include:
+  - .well-known

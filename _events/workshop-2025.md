@@ -21,7 +21,8 @@ The event concluded with a social day featuring a visit to the Royal Site of San
 
 [More info: GBIF Spain](https://gbif.es/talleres/ala-las-technical-workshop-madrid-march-2025)
 
-##### Presentations
+#### Presentations
+
 - Day 1:
   - [Strategies for common LA installation procedures](https://datos.gbif.es/others/pres/2025-la-deploy-strategies)
   - [LA Documentation and Issue Management (Intro)](https://datos.gbif.es/others/pres/2025-la-docs-issues-intro)

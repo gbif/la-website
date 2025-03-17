@@ -17,10 +17,10 @@ This was an internal workshop organized by CSIRO-Atlas of Living Australia (ALA)
 
 Mathieu Blanchet (LU), Johan Bäckman (LU), Danilo Di Leo (LnU), Ingimar Erlingsson (NRM), Hans Höök (NRM), Martin Käck (SLU-Adb), Andreas Loo (SMHI), Daniel Lundin (LnU), Dave Martin (ALA), Maria Prager (SU/KI), Vicente J. Ruiz Jurado (LAC/GBIF.ES), Manash Shah (NRM), Lisa Sundqvist (SMHI).
 
-##### Presentations
+#### Presentations
 
 - [Species Observation System (SOS)](/assets/presentation/workshop-2022/Species Observation System (SOS) - 2022.pptx)
-- [Overview of the LA Community, collaboration recommendations & LA additional Tools](/assets/presentation/workshop-2022/SBDI-pres.html)
+- [Overview of the LA Community, collaboration recommendations & LA additional Tools90](/assets/presentation/workshop-2022/SBDI-pres.html)
 - [SBDI Deployment 2.0](/assets/presentation/workshop-2022/SBDI-2_0.pptx)
 - [Extended data demo](/assets/presentation/workshop-2022/Pipelines 2022 - Dave Martin ALA.pptx)
 - [ALA Modules for SBDI. Examples from Lund University](/assets/presentation/workshop-2022/LU_biocollect_sensor_presentation_MathieuBlanchet_20220609.odp)

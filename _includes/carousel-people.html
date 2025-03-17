@@ -2,14 +2,14 @@
 
   <!-- Indicators -->
   <ul class="carousel-indicators">
-    {% for photo in site.data.carousel %}
+    {% for photo in site.data.carousel reversed %}
       <li data-target="#communityAction" data-slide-to="{{ photo.id }}" class="{% if forloop.index == 1 %}active{% endif %}"></li>
     {% endfor %}
   </ul>
 
   <div class="carousel-inner">
-    {% for photo in site.data.carousel-community %}
-      <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
+    {% for photo in site.data.carousel-community reversed %}
+      <div class="carousel-item {% if forloop.first %}active{% endif %}">
         <img loading="lazy" class="carousel-lazy-image" src="/assets/img/community/{{ photo.image_name }}" alt="{{ photo.caption}}">
         <div class="carousel-caption">
           {{ photo.caption }}

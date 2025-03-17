@@ -63,3 +63,37 @@
   image_name: canberra2.jpg
   caption: International ALA workshop 2014 - Canberra, Australia <br /> Photo by Atlas of Living Australia
 
+- id: 12
+  active: false
+  image_name: escorial-1.jpg
+  caption: ALA-LAs Technical Workshop (Madrid, March 2025)
+
+- id: 13
+  active: false
+  image_name: escorial-2.jpg
+  caption: ALA-LAs Technical Workshop (Madrid, March 2025)
+
+- id: 14
+  active: false
+  image_name: 1000011748.jpg
+  caption: ALA-LAs Technical Workshop (Madrid, March 2025)
+
+- id: 15
+  active: false
+  image_name: 1741881340973.jpg
+  caption: ALA-LAs Technical Workshop (Madrid, March 2025)
+
+- id: 16
+  active: false
+  image_name: 1742210966363.jpg
+  caption: ALA-LAs Technical Workshop (Madrid, March 2025)
+
+- id: 17
+  active: false
+  image_name: 1000011743.jpg
+  caption: ALA-LAs Technical Workshop (Madrid, March 2025)
+
+- id: 18
+  active: false
+  image_name: IMG_1895.jpeg
+  caption: ALA-LAs Technical Workshop (Madrid, March 2025)

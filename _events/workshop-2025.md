@@ -24,19 +24,16 @@ The event concluded with a social day featuring a visit to the Royal Site of San
 #### Presentations
 
 - Day 1:
-  - [Strategies for common LA installation procedures](https://datos.gbif.es/others/pres/2025-la-deploy-strategies)
-  - [LA Documentation and Issue Management (Intro)](https://datos.gbif.es/others/pres/2025-la-docs-issues-intro)
+  - [Strategies for common LA installation procedures, _Vicente Ruiz_, 2025](https://datos.gbif.es/others/pres/2025-la-deploy-strategies)
+  - [LA Documentation and Issue Management (Intro), _Vicente Ruiz_, 2025](https://datos.gbif.es/others/pres/2025-la-docs-issues-intro)
+  - [Spatial portal & spatial interfaces, _Rasa Bukontaite_, 2025](/assets/presentation/workshop-2025/Spatial portal & spatial interfaces_Rasa Bukontaite_2025.pdf)
+  - [Reuse of GBIF Infrastructure, _Tim Robertson_, 2025](/assets/presentation/workshop-2025/Reuse of GBIF Infrastructure_Tim Robertson_2025.pdf)  
 - Day 2:
-  - [LA Documentation and Issue Management (part 2)](https://datos.gbif.es/others/pres/2025-la-docs-issues-part-2)
-  - [Challenges in the Adoption of Pipelines in the LA Community](https://datos.gbif.es/others/pres/2025-la-pipelines-challenges)
+  - [Sensitive data, _Alice Ainsa_, 2025](/assets/presentation/workshop-2025/Sensitive data_Alice Ainsa_2025.pdf)
+  - [LA Documentation and Issue Management (part 2), _Vicente Ruiz_, 2025](https://datos.gbif.es/others/pres/2025-la-docs-issues-part-2)
+  - [Challenges in the Adoption of Pipelines in the LA Community, _Vicente Ruiz_, 2025](https://datos.gbif.es/others/pres/2025-la-pipelines-challenges)
+  - [Pipelines, _Dave Martin_, 2025](/assets/presentation/workshop-2025/Pipelines_Tim Robertson_2025.pdf)
+  - [Species-list Handling & management, _Stefan Van Dyck_, 2025](/assets/presentation/workshop-2025/Species-list Handling & management_Stefan Van Dyck_2025.pdf)
 - Day 3:
-  - [Status of the ALA Internationalization](https://datos.gbif.es/others/pres/2025-la-status-of-i18n)
-
-
-
-
-
-
-
-
-
+  - [Status of the ALA Internationalization, _Vicente Ruiz_, 2025](https://datos.gbif.es/others/pres/2025-la-status-of-i18n)
+  - [Checklistbank, use of different taxonomies and Catalogue of Life, _Dave Martin_, 2025](/assets/presentation/workshop-2025/Checklistbank, use of different taxonomies and Catalogue of Life_Dave Martin_2025.pdf)

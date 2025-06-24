@@ -31,3 +31,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem 'jekyll', group: :jekyll_plugins
 gem "sprockets", "~> 3.7"
 gem 'jekyll-email-protect'
+gem "google-protobuf", "3.22.2"
+gem "rake"

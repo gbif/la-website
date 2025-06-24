@@ -33,3 +33,5 @@ gem "sprockets", "~> 3.7"
 gem 'jekyll-email-protect'
 gem "google-protobuf", "3.22.2"
 gem "rake"
+gem "csv"
+gem "logger"

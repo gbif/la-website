@@ -7,6 +7,12 @@
 
     {%- include header.html -%}
 
+    {%- if page.picture -%}
+    <div class="page-hero">
+      <img src="{{ page.picture }}" alt="{{ page.title }}" class="img-fluid">
+    </div>
+    {%- endif -%}
+
     <main class="page-content" aria-label="Content">
       <div id="container-single-project" class="container">
         {{ content }}

@@ -6,7 +6,6 @@ date_shown: October 15th, 2019
 categories: news helpdesk
 authors: Marie-Elise Lecoq, Jason Loomis (Vermont Center of Ecostudies) and Vicente Ruiz Jurado
 summary: "One of the feedback that we get from the LA community is to improve and simplify the implementation of a new LA data portal. To achieve this, Vicente Ruiz Jurado, technical coordinator of the LA community, put in place a procedure based on remote sessions to bootstrap and/or launch a new LA instance within an institution."
-picture: /assets/img/news/remote-session.png
 ---
 
 ### {{ page.title }} 

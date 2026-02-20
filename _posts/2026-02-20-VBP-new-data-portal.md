@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Flanders launches its Flemish Biodivrsity Portal
+title:  "Flanders launches its Flemish Biodivrsity Portal"
 date: 2026-02-20
 date_shown: February 20th, 2026
 categories: news data-portals

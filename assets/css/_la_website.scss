@@ -556,3 +556,21 @@ ol.carousel-indicators li.active {
   fill: white;
 }
 
+
+// HERO IMAGE ALIGNMENT
+.page-hero {
+    width: 100%;
+    background-color: #f8f9fa;
+    overflow: hidden;
+    text-align: center;
+    border-bottom: 1px solid $color-news-border-description;
+
+    img {
+        width: 100%;
+        max-height: 500px;
+        height: auto;
+        object-fit: cover;
+        object-position: center;
+        display: block;
+    }
+}

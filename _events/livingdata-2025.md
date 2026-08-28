@@ -4,16 +4,16 @@ title: "Living Data 2025 session: 'How Living Atlases and Nodes Support Regional
 date: 2025-04-21
 date_shown: 2025-10-21 to 2025-10-24
 type: Conference
-status: Upcoming
+status: Finished
 ---
 
 ## {{ page.title }}
 
 #### Description 
 
-This session is part of the upcoming [Living Data 2025](https://www.livingdata2025.com/) conference.
+This session was part of the [Living Data 2025](https://www.livingdata2025.com/) conference.
 
-We will contribute to the session titled [How Living Atlases and Nodes Support Regional Environment Policy and Decision Making](https://www.livingdata2025.com/sessions.html?session=6798640).
+We contributed to the session titled [How Living Atlases and Nodes Support Regional Environment Policy and Decision Making](https://www.livingdata2025.com/sessions.html?session=6798640).
 
 The Living Atlas community continues to grow and evolve as organizations across the globe adopt configurable and controlled infrastructures to serve specific regional needs at the science–policy interface.
 

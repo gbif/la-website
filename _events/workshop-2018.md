@@ -2,7 +2,7 @@
 layout: single-page
 title: International Living Atlases workshop
 date: 2018-02-19 
-date_shown: 2018-02-19 to 2019-02-23
+date_shown: 2018-02-19 to 2018-02-23
 type: Workshop
 status: Finished
 ---
